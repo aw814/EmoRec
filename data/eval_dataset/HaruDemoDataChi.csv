@@ -1,0 +1,292 @@
+,text,speaker,orig_idex,source,emotion,auto_emo_no_anger_f4,auto_score_no_anger_f4,auto_emo,auto_score,auto_emo_jh,auto_score_jh
+0,Are you happy watching the game on TV or do you like to be where the action is?,haru,0,intent_demos,neutral,neutral,0.897163868,neutral,0.9721589684,joy,0.8930819631
+1,"Is it usually consumed for breakfast, lunch of dinner?",haru,1,intent_demos,neutral,neutral,0.9493830204,neutral,0.9702746272,neutral,0.9044501781
+8,And what kind of building do you live in? House or apartment?,haru,8,intent_demos,neutral,neutral,0.9406360984,neutral,0.8661316633,neutral,0.8559264541
+14,Which is your favorite hemisphere? North or South?,haru,14,intent_demos,neutral,neutral,0.8540744185,neutral,0.9423419237,neutral,0.9324988127
+21,Is it a small town or a big city?,haru,21,intent_demos,neutral,neutral,0.8567060828,neutral,0.9446082711,neutral,0.8715993762
+22,Do you play your sports or do you just like to watch?,haru,22,intent_demos,neutral,neutral,0.9431626201,neutral,0.979834497,neutral,0.8890495896
+23,Do you play soccer or do you just like to watch?,haru,23,intent_demos,neutral,neutral,0.9008547664,neutral,0.9250954986,neutral,0.8521908522
+24,"If you had to pick one, what would your favorite sport be?",haru,24,intent_demos,neutral,neutral,0.885876298,neutral,0.7432305217,neutral,0.891290307
+33,Who taught you how to speak English? Did you learn it at home or at school?,haru,33,intent_demos,neutral,neutral,0.9315496087,neutral,0.8625445366,neutral,0.8996580839
+38,"OK, now that we've talked about it, which do you think is best: childhood, adulthood or old age?",haru,38,intent_demos,neutral,neutral,0.8164199591,neutral,0.8688361645,neutral,0.907923162
+56,How many days are there in your birthday month?,haru,56,intent_demos,neutral,neutral,0.8250132203,neutral,0.8453500271,neutral,0.5491452217
+59,What's your favorite food?,haru,59,intent_demos,neutral,neutral,0.7336472273,neutral,0.5454323888,neutral,0.7875177264
+60,What's your favorite food you eat?,haru,60,intent_demos,neutral,neutral,0.7961093783,neutral,0.5112105012,neutral,0.7817235589
+63,Do you know what my favorite food is?,haru,63,intent_demos,neutral,joy,0.5126290321,fear,0.3427925706,neutral,0.6513050795
+67,How many times did you eat yesterday?,haru,67,intent_demos,neutral,neutral,0.9284667373,neutral,0.9806348085,neutral,0.6530008316
+69,"If you had to pick one, what would your favorite sport be?",haru,69,intent_demos,neutral,neutral,0.885876298,neutral,0.7432305217,neutral,0.891290307
+70,Do you play your sports or do you just like to watch?,haru,70,intent_demos,neutral,neutral,0.9431626201,neutral,0.979834497,neutral,0.8890495896
+71,Do you play sports or do you just like to watch?,haru,71,intent_demos,neutral,neutral,0.9370030761,neutral,0.9623791575,neutral,0.8805670142
+75,What's your favorite subject in school?,haru,75,intent_demos,neutral,neutral,0.8750411272,neutral,0.8944330812,neutral,0.6942104697
+80,So what do you like to do after school? Do you play any sports or learn a musical instrument?,haru,80,intent_demos,neutral,neutral,0.9432643056,neutral,0.7327279449,neutral,0.8199611306
+8,Dimension,user,8,intent_demos,neutral,neutral,0.9873507619,neutral,0.947448194,neutral,0.8909387589
+91,"Which do you like better, the sun or the rain?",haru,91,intent_demos,neutral,neutral,0.7488544583,anger,0.6606647372,neutral,0.8469766974
+93,"You're not? Which do you like better, the sun or the rain?",haru,93,intent_demos,neutral,surprise,0.3612516224,anger,0.7159029245,neutral,0.7412191629
+116,1990 in inches,user,116,intent_demos,neutral,neutral,0.9709749818,neutral,0.9611309767,neutral,0.8225284219
+5,I'm not feeling good today,user,5,sentiment_demos,sadness,sadness,0.967074275,sadness,0.8967807293,sadness,0.9749138355
+111,What Event would you want to compete in? Diving? Archery? Tennis? Volleyball? Randy?,haru,111,intent_demos,neutral,neutral,0.8392128348,neutral,0.5436924696,neutral,0.8035666347
+116,"First answer me this, how tall are you in inches?",haru,116,intent_demos,neutral,neutral,0.8882412314,neutral,0.7825623155,neutral,0.6671655178
+117,How many inches tall am I? Buddy?,haru,117,intent_demos,neutral,neutral,0.5837708116,neutral,0.4828899205,neutral,0.4838892817
+0,"I like it in PlayStation, though",user,0,intent_demos,joy,joy,0.988360405,joy,0.9418212771,joy,0.942795217
+1,"More Lunch, I would say",user,1,intent_demos,neutral,neutral,0.7655890584,neutral,0.8512955904,neutral,0.8568387628
+2,That's an apartment,user,2,intent_demos,neutral,neutral,0.9475812316,neutral,0.4915861487,surprise,0.7368114591
+3,I live in a houseboat,user,3,intent_demos,neutral,neutral,0.8721880913,joy,0.6762203574,fear,0.475906074
+17,I do like it,user,17,sentiment_demos,joy,joy,0.9669265747,joy,0.9886238575,joy,0.970821321
+5,I live in a building made of cardboard,user,5,intent_demos,sadness,neutral,0.9443951845,sadness,0.6266459823,disgust,0.7066310048
+6,It's a big house,user,6,intent_demos,neutral,neutral,0.7898631692,joy,0.4785699844,surprise,0.8758063316
+7,It's more of like an apartment,user,7,intent_demos,neutral,neutral,0.7993039489,neutral,0.8911670446,neutral,0.8964433074
+102,I like the food,user,102,intent_demos,joy,joy,0.9646010995,joy,0.9942370653,joy,0.9867874384
+9,I really only spent a lot of time in the north hemisphere,user,9,intent_demos,neutral,neutral,0.8367372155,neutral,0.8774328232,neutral,0.7855995297
+10,I don't have a preference,user,10,intent_demos,neutral,anger,0.5647997856,anger,0.7194561958,neutral,0.8219074011
+11,North,user,11,intent_demos,neutral,neutral,0.9285744429,neutral,0.8562377095,neutral,0.8725212812
+12,I like the south one,user,12,intent_demos,joy,neutral,0.695522964,neutral,0.8809868693,joy,0.9883346558
+13,I'd like to go to south,user,13,intent_demos,joy,neutral,0.4328605533,neutral,0.7834707499,sadness,0.5671344399
+15,The capital city,user,15,intent_demos,neutral,neutral,0.8600794077,neutral,0.9441010952,neutral,0.5173938274
+41,Beijing,user,41,entity_demos,neutral,neutral,0.9552459717,neutral,0.9428215027,neutral,0.8393843174
+18,"It's a super huge, huge City",user,18,intent_demos,joy,joy,0.9206753969,joy,0.7002082467,surprise,0.7286529541
+19,It's a very small town. You can't roam,user,19,intent_demos,neutral,neutral,0.5453563333,neutral,0.4439173341,neutral,0.8837869763
+20,I would say the tiny City,user,20,intent_demos,neutral,neutral,0.748470366,neutral,0.6787649393,neutral,0.8664191961
+21,Two big city,user,21,intent_demos,neutral,neutral,0.9745224118,neutral,0.9262453914,surprise,0.5809553862
+22,I prefer to play.,user,22,intent_demos,joy,neutral,0.7452036142,neutral,0.8754538894,joy,0.6585440636
+23,You look like a Twitter person to me,user,23,intent_demos,neutral,neutral,0.5673342347,neutral,0.6631357074,neutral,0.7964765429
+24,I would be soccer,user,24,intent_demos,neutral,neutral,0.8846325874,neutral,0.7989766002,neutral,0.7829789519
+25,Baseball,user,25,intent_demos,neutral,neutral,0.931896925,neutral,0.6762840152,neutral,0.7908658981
+26,Hunting door Logistics mode,user,26,intent_demos,neutral,neutral,0.9885171652,neutral,0.9495044947,neutral,0.8732745647
+27,I have no idea,user,27,intent_demos,neutral,neutral,0.8620236516,anger,0.6916489005,surprise,0.9425499439
+28,I like the childhood.,user,28,intent_demos,joy,joy,0.9460992813,joy,0.9741611481,joy,0.9784786701
+29,"I like being a child, so childhood",user,29,intent_demos,joy,joy,0.8153721094,joy,0.9963189363,joy,0.9859996438
+30,I like old age,user,30,intent_demos,joy,joy,0.8198920488,joy,0.998545289,joy,0.9365007281
+31,"I think old age is way, much more fun I know Yeah, I do",user,31,intent_demos,joy,joy,0.7874808908,joy,0.99326092,joy,0.7535546422
+32,I think I'd like adulthood,user,32,intent_demos,neutral,joy,0.5798890591,fear,0.6017072201,neutral,0.342143476
+33,Always School,user,33,intent_demos,neutral,neutral,0.6883273125,neutral,0.9722717404,neutral,0.9088280201
+62,Europe,user,62,entity_demos,neutral,neutral,0.9441940784,neutral,0.892480135,neutral,0.8421948552
+35,Old age,user,35,intent_demos,neutral,neutral,0.8275059462,neutral,0.847235024,sadness,0.6958062053
+36,I think it's old age,user,36,intent_demos,neutral,neutral,0.6938490272,sadness,0.6003305316,neutral,0.8966721892
+37,Definition of an album,user,37,intent_demos,neutral,neutral,0.9664489627,neutral,0.8749240041,neutral,0.7353074551
+38,I like the childhood best,user,38,intent_demos,joy,joy,0.9605945349,joy,0.8992042542,joy,0.9902713895
+53,Back to the US,user,53,entity_demos,neutral,neutral,0.9426864982,neutral,0.977622807,neutral,0.9202852249
+40,"Old age, cuz I'll be dead soon.",user,40,intent_demos,sadness,neutral,0.3931348324,sadness,0.6608415842,sadness,0.8425346613
+41,Definitely old age as an adult,user,41,intent_demos,neutral,joy,0.6401450038,neutral,0.714182198,neutral,0.7241746783
+42,Old age,user,42,intent_demos,neutral,neutral,0.8275059462,neutral,0.847235024,sadness,0.6958062053
+43,Robot,user,43,intent_demos,neutral,neutral,0.9635822773,neutral,0.9249616861,neutral,0.8893455863
+21,"Yes, I like being it",user,21,sentiment_demos,joy,joy,0.9360066652,joy,0.89656955,joy,0.9665661454
+45,The childhood best,user,45,intent_demos,joy,joy,0.9732474685,joy,0.968570292,joy,0.5996922255
+46,Hello,user,46,intent_demos,neutral,neutral,0.8743833899,neutral,0.9143638611,neutral,0.9381637573
+47,I think childhood is the best overall,user,47,intent_demos,joy,joy,0.9697589874,joy,0.9926425815,joy,0.7359080911
+48,You think that,user,48,intent_demos,neutral,neutral,0.6358035803,neutral,0.7713784575,surprise,0.6158677936
+49,I like the child best,user,49,intent_demos,joy,joy,0.9580657482,joy,0.99715662,joy,0.9797853827
+50,I think I was raped,user,50,intent_demos,sadness,fear,0.6494172215,fear,0.9708996415,fear,0.8217110038
+51,29 days,user,51,intent_demos,neutral,neutral,0.8628118634,neutral,0.8246752024,neutral,0.8222982287
+52,"Doing math in the hospital. Now,",user,52,intent_demos,neutral,neutral,0.6030008793,neutral,0.6539885402,disgust,0.2963555157
+53,I think Sanjay Chi,user,53,intent_demos,neutral,neutral,0.9613587856,neutral,0.9850807786,neutral,0.8355363011
+54,31,user,54,intent_demos,neutral,neutral,0.9174479246,neutral,0.7296409607,neutral,0.534902513
+24,My home country is the United Kingdom.,user,24,entity_demos,neutral,neutral,0.9341191649,neutral,0.9442492127,joy,0.5627865195
+56,30 days,user,56,intent_demos,neutral,neutral,0.8884431124,neutral,0.9225085378,neutral,0.8047481775
+57,I like pizza very much,user,57,intent_demos,joy,joy,0.9518093467,joy,0.986472249,joy,0.9558660984
+58,I think I like Ramen,user,58,intent_demos,joy,joy,0.7855733037,joy,0.6715556383,joy,0.8856577873
+59,My favorite food is ramen,user,59,intent_demos,joy,joy,0.9258371592,joy,0.9678505063,joy,0.9000681043
+60,I like Ramen,user,60,intent_demos,joy,joy,0.7594342232,joy,0.8838418126,joy,0.9809898734
+61,I like burger,user,61,intent_demos,joy,joy,0.6909168959,joy,0.9877824187,joy,0.9655152559
+62,I like rice,user,62,intent_demos,joy,joy,0.6686559916,joy,0.9799183607,joy,0.9820145369
+63,Ding microchips are current electricity,user,63,intent_demos,neutral,neutral,0.9366730452,neutral,0.9708546996,neutral,0.8716931343
+64,"I ain't, but three times",user,64,intent_demos,neutral,neutral,0.6305267215,anger,0.5190911293,neutral,0.6347144246
+65,"5 *, if you don't count dinner and lunch",user,65,intent_demos,neutral,neutral,0.9940411448,neutral,0.9601562619,neutral,0.8065193892
+66,I'd five times,user,66,intent_demos,neutral,neutral,0.7974582911,neutral,0.5906962752,neutral,0.8088528514
+67,That 300 times,user,67,intent_demos,neutral,neutral,0.8676065803,neutral,0.9489619136,neutral,0.5592324734
+68,I would be tennis,user,68,intent_demos,neutral,neutral,0.8465235233,neutral,0.8989855647,neutral,0.7915500402
+69,"yes, as long as you can,",user,69,intent_demos,neutral,neutral,0.5910172462,neutral,0.4305227697,neutral,0.8689901829
+70,I prefer to play,user,70,intent_demos,neutral,neutral,0.7408779263,neutral,0.9147669673,joy,0.6939706802
+71,You look like a Twitter person to me,user,71,intent_demos,neutral,neutral,0.5673342347,neutral,0.6631357074,neutral,0.7964765429
+72,Watch is easier,user,72,intent_demos,neutral,neutral,0.9413986206,neutral,0.891530931,neutral,0.8903189301
+73,My favorite subject is science,user,73,intent_demos,neutral,joy,0.9110215306,joy,0.9671264291,joy,0.975368619
+74,I like mathematics,user,74,intent_demos,joy,joy,0.8350148797,joy,0.9743436575,joy,0.9875918627
+75,I like recess,user,75,intent_demos,joy,joy,0.7935392857,joy,0.6835467219,joy,0.9701470137
+76,Disney Hades,user,76,intent_demos,neutral,neutral,0.7771624327,neutral,0.7962531447,neutral,0.8446499705
+77,politics,user,77,intent_demos,neutral,neutral,0.9332977533,neutral,0.9400248528,neutral,0.8303044438
+78,english lessons,user,78,intent_demos,neutral,neutral,0.9137273431,neutral,0.6170369387,neutral,0.8988293409
+16,Depends on your definition of big city,user,16,intent_demos,neutral,neutral,0.9336925745,neutral,0.9382488728,neutral,0.9010025859
+87,Who taught you how to speak English? Did you learn it at home or at school?,haru,87,intent_demos,neutral,neutral,0.9315496087,neutral,0.8625445366,neutral,0.8996580839
+81,You know what I do? I play the guitar,user,81,intent_demos,joy,neutral,0.7795978785,neutral,0.5974197388,neutral,0.5319183469
+82,Music. Do you play any song?,user,82,intent_demos,neutral,neutral,0.801276207,neutral,0.7042517662,neutral,0.7962966561
+83,I play soccer,user,83,intent_demos,neutral,neutral,0.6887347102,joy,0.5886074901,joy,0.895132184
+84,I usually do basketball,user,84,intent_demos,neutral,neutral,0.888723135,neutral,0.9131212234,neutral,0.8923556209
+85,"I learned at school, always",user,85,intent_demos,neutral,neutral,0.5084034801,joy,0.5815044045,neutral,0.438048929
+86,Not at home,user,86,intent_demos,neutral,neutral,0.5654788017,neutral,0.7465521097,sadness,0.7344537973
+87,With my parents at home,user,87,intent_demos,neutral,sadness,0.5521956086,sadness,0.7714160681,sadness,0.9443415999
+88,I like the sun,user,88,intent_demos,joy,joy,0.878307879,joy,0.9514509439,joy,0.9899021387
+89,"I like it, when it's gloomy",user,89,intent_demos,joy,joy,0.8107161522,joy,0.9870457649,joy,0.5817636847
+55,Thirty,user,55,intent_demos,neutral,neutral,0.9200662971,neutral,0.7505265474,neutral,0.554668963
+91,I like the sun,user,91,intent_demos,joy,joy,0.878307879,joy,0.9514509439,joy,0.9899021387
+92,I don't like neither of them,user,92,intent_demos,disgust,anger,0.9494294524,anger,0.9398565888,disgust,0.6352481246
+93,I like rain,user,93,intent_demos,joy,joy,0.727181673,joy,0.8301666975,joy,0.9861841798
+94,I don't have any seasons,user,94,intent_demos,neutral,neutral,0.6988562942,anger,0.7285014987,neutral,0.7310668826
+95,I like four seasons,user,95,intent_demos,joy,joy,0.6321481466,joy,0.989776969,joy,0.9820182323
+96,My favorite season is autumn,user,96,intent_demos,joy,joy,0.9284841418,joy,0.9095668793,joy,0.9607653022
+97,My favorite season is winter,user,97,intent_demos,joy,joy,0.8308398128,joy,0.5423548818,joy,0.962393105
+3,I think Australia,user,3,entity_demos,neutral,neutral,0.9123960733,neutral,0.9360163212,neutral,0.8460520506
+99,I like the summer best,user,99,intent_demos,joy,joy,0.8572679758,joy,0.9592037201,joy,0.9911823273
+100,I like the phone,user,100,intent_demos,joy,joy,0.9623036981,joy,0.9838635921,joy,0.9880617857
+3,Where do you want to travel next?,haru,3,entity_demos,neutral,neutral,0.8990334868,neutral,0.8756492138,neutral,0.8266533017
+42,Asia.,user,42,entity_demos,neutral,neutral,0.8980343342,neutral,0.8664426804,neutral,0.9180452228
+4,Apartment,user,4,intent_demos,neutral,neutral,0.8913128972,anger,0.4442056715,neutral,0.6181696057
+104,It's the sleeping part,user,104,intent_demos,neutral,neutral,0.8829078078,neutral,0.9567258954,neutral,0.9359506965
+105,I think food,user,105,intent_demos,neutral,neutral,0.9426867962,neutral,0.9604098797,neutral,0.9131915569
+106,I like to tennis,user,106,intent_demos,joy,joy,0.6772874594,joy,0.8206945062,joy,0.9679244161
+107,Brandy Vela,user,107,intent_demos,neutral,neutral,0.9217329621,neutral,0.9139214158,neutral,0.9221255779
+108,Think volleyball,user,108,intent_demos,neutral,neutral,0.9513084292,neutral,0.9647257924,neutral,0.9285601974
+109,Olympic body found in England,user,109,intent_demos,surprise,sadness,0.5380034447,disgust,0.8352134824,disgust,0.7669251561
+110,I think diving,user,110,intent_demos,joy,joy,0.5839015841,neutral,0.6132313013,neutral,0.3721917272
+111,archery for sure,user,111,intent_demos,joy,joy,0.7030958533,joy,0.8452868462,neutral,0.7775127888
+112,I'm 35 inches,user,112,intent_demos,neutral,neutral,0.8411481977,neutral,0.8418011069,neutral,0.6091611385
+113,You sure. Brandy,user,113,intent_demos,neutral,neutral,0.7559158802,neutral,0.7422344089,neutral,0.7588131428
+114,I am 15,user,114,intent_demos,neutral,neutral,0.8447498083,neutral,0.897349596,neutral,0.3300285637
+115,I am 73 in tall,user,115,intent_demos,neutral,neutral,0.8282991052,neutral,0.7133874297,neutral,0.5826909542
+47,I like all continents on earth,user,47,entity_demos,joy,joy,0.8907895684,joy,0.9918413162,joy,0.9825499058
+117,7 in the morning,user,117,intent_demos,neutral,neutral,0.8434662223,neutral,0.6812084317,neutral,0.7386269569
+118,I think they're about 20 in tall,user,118,intent_demos,neutral,neutral,0.91197896,neutral,0.8182521462,neutral,0.7670168877
+119,And you are 10 inches,user,119,intent_demos,neutral,neutral,0.9374881983,neutral,0.8573388457,surprise,0.6919856668
+120,I guess arround 30,user,120,intent_demos,neutral,neutral,0.9343364239,neutral,0.9089643955,neutral,0.8700284362
+121,More than thirty,user,121,intent_demos,neutral,neutral,0.8716591597,neutral,0.7952308059,neutral,0.4628260732
+0,"Hello there, human! Is there a better name, other than human, that I should call you by?",haru,0,entity_demos,joy,neutral,0.4226357043,joy,0.4117799103,neutral,0.4423038363
+1,And what's the name of your hometown? What town or city did you grow up in?,haru,1,entity_demos,neutral,neutral,0.889098525,neutral,0.9492111802,neutral,0.8538215756
+2,Tell me: what's your favorite continent?,haru,2,entity_demos,neutral,neutral,0.7235082388,neutral,0.8290591836,neutral,0.7357948422
+44,I'm from China,user,44,entity_demos,neutral,neutral,0.8858020902,neutral,0.8111819625,neutral,0.8242427111
+4,Now tell me what's your home country?,haru,4,entity_demos,neutral,neutral,0.8735795617,neutral,0.8242285252,neutral,0.8141313791
+0,You can call me Timmy,user,0,entity_demos,neutral,neutral,0.8636068702,neutral,0.8095844984,neutral,0.9438572526
+1,I am from India,user,1,entity_demos,neutral,neutral,0.8734898567,neutral,0.9218962789,neutral,0.7797235847
+2,Asia for sure,user,2,entity_demos,joy,joy,0.6491959095,joy,0.5771804452,neutral,0.9638091922
+7,Your name is lithen?,haru,7,sentiment_demos,neutral,neutral,0.8841449618,neutral,0.6907454133,neutral,0.8271993399
+4,Bengladesh!,user,4,entity_demos,neutral,neutral,0.6510267854,neutral,0.4289036393,surprise,0.4157493412
+5,hello,user,5,entity_demos,neutral,neutral,0.8911352158,neutral,0.8987646103,neutral,0.9615552425
+6,hello town,user,6,entity_demos,neutral,neutral,0.7942245007,neutral,0.8073816895,neutral,0.8957241178
+7,helltinent,user,7,entity_demos,neutral,neutral,0.4434860945,neutral,0.7249991894,neutral,0.8847869039
+8,heavtinent,user,8,entity_demos,neutral,neutral,0.9345629215,neutral,0.7349301577,neutral,0.7740547657
+9,hellonation,user,9,entity_demos,neutral,neutral,0.7779592872,neutral,0.6769577265,neutral,0.7996920943
+10,I dont have a name,user,10,entity_demos,neutral,neutral,0.8220874071,anger,0.5339445472,neutral,0.8956317902
+11,In Paris,user,11,entity_demos,neutral,neutral,0.9477825165,neutral,0.9472145438,neutral,0.5100463033
+12,It is cold but Antartica,user,12,entity_demos,neutral,neutral,0.8144385815,neutral,0.8251349926,neutral,0.2975675464
+13,Finland,user,13,entity_demos,neutral,neutral,0.890278399,neutral,0.7549878359,neutral,0.5205346942
+14,Is it France,user,14,entity_demos,neutral,neutral,0.8871343732,neutral,0.9541913271,neutral,0.8490373492
+15,I'm ChatGPT. Nice to meet you!,user,15,entity_demos,joy,joy,0.7956579924,joy,0.5693445206,joy,0.9499911666
+16,I grew up in San Francisco,user,16,entity_demos,neutral,neutral,0.7580904365,neutral,0.8583295941,neutral,0.7803483605
+17,Europe. So much history and diversity!,user,17,entity_demos,joy,joy,0.8160799146,neutral,0.6290152073,surprise,0.5353144407
+18,Japan. I'm fascinated by its culture and beauty.,user,18,entity_demos,joy,joy,0.9608690739,joy,0.9780762792,surprise,0.4442296028
+19,The United States of America.,user,19,entity_demos,neutral,neutral,0.8982887268,neutral,0.9556197524,neutral,0.8049080968
+50,Danny,user,50,entity_demos,neutral,neutral,0.8714453578,neutral,0.8386628032,neutral,0.8544145823
+21,I grew up in a small town called Maplewood.,user,21,entity_demos,neutral,neutral,0.6858163476,neutral,0.7467969656,joy,0.4926109016
+22,"Certainly! My favorite continent is Asia. It's a continent rich in diverse cultures, fascinating history, and breathtaking landscapes.",user,22,entity_demos,joy,joy,0.9818589091,joy,0.8724865913,joy,0.7042143345
+20,you can call me Alex,user,20,entity_demos,neutral,neutral,0.8704692125,neutral,0.8583595753,neutral,0.9475008845
+101,I think sightseeing,user,101,intent_demos,neutral,neutral,0.8630754948,neutral,0.9824390411,neutral,0.6205033064
+98,I like the spring best,user,98,intent_demos,joy,joy,0.8431392908,joy,0.8285251856,joy,0.9891768098
+26,"Since I don't have a physical presence or a personal background, I don't have a specific hometown.",user,26,entity_demos,neutral,neutral,0.8266959786,neutral,0.8754442334,neutral,0.9512421489
+27,"As an AI language model, I don't possess personal preferences or favorites. ",user,27,entity_demos,neutral,neutral,0.8079939485,neutral,0.6628763676,neutral,0.8640832305
+28,"As an AI, I don't have personal desires or the ability to travel. ",user,28,entity_demos,neutral,neutral,0.5132201314,neutral,0.6833150387,neutral,0.8562110662
+29,"As an AI language model, I don't have a physical presence or a home country. I exist in the digital realm and have been trained on a vast amount of data from various sources around the world.",user,29,entity_demos,neutral,neutral,0.6687229872,neutral,0.6581823826,neutral,0.9494689107
+30,Moustafa,user,30,entity_demos,neutral,neutral,0.9112362862,neutral,0.8738206029,neutral,0.4769443572
+31,MAnsoura,user,31,entity_demos,neutral,neutral,0.8900513053,neutral,0.909484148,neutral,0.7160913348
+32,Africa,user,32,entity_demos,neutral,neutral,0.7965098619,neutral,0.6411480904,neutral,0.6628869176
+33,South Korea,user,33,entity_demos,neutral,neutral,0.9038363099,neutral,0.9201084971,neutral,0.5660678744
+34,Egypt,user,34,entity_demos,neutral,neutral,0.662276566,neutral,0.7639550567,neutral,0.6013966799
+35,i forgot,user,35,entity_demos,neutral,neutral,0.8682018518,neutral,0.7633404732,surprise,0.4188343883
+36,it is a small town in Egypt called Mit Ghamr,user,36,entity_demos,neutral,neutral,0.9405058026,neutral,0.9658843279,neutral,0.4314844012
+37,I like all of them,user,37,entity_demos,joy,joy,0.926130116,joy,0.9731762409,joy,0.9680672884
+38,Arab Countries,user,38,entity_demos,neutral,neutral,0.9374451637,neutral,0.9615741968,neutral,0.6389402747
+39,Egypt,user,39,entity_demos,neutral,neutral,0.662276566,neutral,0.7639550567,neutral,0.6013966799
+40,you can call me Annie!,user,40,entity_demos,joy,joy,0.5954692364,joy,0.7015048862,joy,0.4188993573
+5,"So tell me Ragnar, how are you feeling today?",haru,5,sentiment_demos,neutral,neutral,0.8370806575,neutral,0.7725657225,neutral,0.7127683759
+23,Next on my travel wishlist is the enchanting country of Iceland.,user,23,entity_demos,joy,joy,0.8035058379,joy,0.8059936762,neutral,0.5274096131
+43,I wan to travel in Japan,user,43,entity_demos,joy,neutral,0.5165223479,neutral,0.6117669344,sadness,0.9012468457
+97,I cannot tell,user,97,entity_demos,neutral,neutral,0.7890355587,neutral,0.5829840302,neutral,0.6833522916
+45,"Hi. You can call me human, what's your name?",user,45,entity_demos,neutral,neutral,0.7882865667,neutral,0.5038561225,neutral,0.8643401861
+46,"My hometown is Mars, and the town I grew up in is unknown",user,46,entity_demos,neutral,neutral,0.6867941022,neutral,0.9746348262,neutral,0.8681579232
+69,It is the sun,user,69,entity_demos,neutral,joy,0.781447947,neutral,0.8068130016,neutral,0.8444925547
+48,I don't know yet.,user,48,entity_demos,neutral,neutral,0.7926285267,fear,0.3832134902,neutral,0.9013289213
+49,No I can't sorry.,user,49,entity_demos,neutral,sadness,0.4425503314,sadness,0.6802249551,sadness,0.7619155049
+44,I like the old age,user,44,intent_demos,joy,joy,0.7798909545,joy,0.9968611002,joy,0.98259902
+51,Miami,user,51,entity_demos,neutral,neutral,0.8571177721,neutral,0.9000160098,neutral,0.8556481004
+52,I don't have one,user,52,entity_demos,neutral,neutral,0.7388888597,neutral,0.5340031981,neutral,0.7222160101
+81,Born and rised in Mexico City,user,81,entity_demos,neutral,neutral,0.7621800303,neutral,0.7566025853,neutral,0.8796027899
+54,Colombia,user,54,entity_demos,neutral,neutral,0.8499518037,neutral,0.7528554201,neutral,0.8960960507
+55,Juan,user,55,entity_demos,neutral,neutral,0.9429463148,neutral,0.8749304414,neutral,0.881718874
+56,Cartagena,user,56,entity_demos,neutral,neutral,0.9688709974,neutral,0.9625371099,neutral,0.9220139384
+57,Asia,user,57,entity_demos,neutral,neutral,0.9106038213,neutral,0.880064249,neutral,0.916341126
+58,France,user,58,entity_demos,neutral,neutral,0.9396216869,neutral,0.8101537824,neutral,0.7631983757
+59,Colombia,user,59,entity_demos,neutral,neutral,0.8499518037,neutral,0.7528554201,neutral,0.8960960507
+60,Felix,user,60,entity_demos,neutral,neutral,0.9105768204,neutral,0.852614224,neutral,0.8580736518
+61,Atlanta,user,61,entity_demos,neutral,neutral,0.9355720282,neutral,0.8237352967,neutral,0.8181321025
+25,I don't possess a personal human name since I'm an AI language model.,user,25,entity_demos,neutral,neutral,0.7527801394,neutral,0.8570212722,neutral,0.9132449627
+63,Japan,user,63,entity_demos,neutral,neutral,0.9780387282,neutral,0.9102877975,neutral,0.9303709865
+64,Venezuela,user,64,entity_demos,neutral,neutral,0.7979512811,neutral,0.8895341754,neutral,0.6350081563
+65,I don't want to say,user,65,entity_demos,neutral,neutral,0.4909420013,sadness,0.709697485,sadness,0.7597503066
+66,Its TimmyTown,user,66,entity_demos,neutral,neutral,0.9295338392,neutral,0.858471632,neutral,0.6224470735
+67,The Moon,user,67,entity_demos,neutral,neutral,0.8322731853,neutral,0.8557501435,neutral,0.6807102561
+68,I want to travel to deepsea to watch Titanic ship,user,68,entity_demos,joy,joy,0.8688880205,joy,0.8038532138,fear,0.4689059258
+80,I like to play indoor games,user,80,intent_demos,joy,joy,0.7280648351,joy,0.9612988234,joy,0.9773126841
+70,"Hello, Hi, You can call me Timmy vs Tommy",user,70,entity_demos,neutral,neutral,0.7739188671,neutral,0.8129724264,neutral,0.7144070268
+71,"I grown up in Bukkireddy palli village, Pulikallu post, penumur mandal, chitroor district, Andhra Pradesh, South India.",user,71,entity_demos,neutral,neutral,0.8610343337,neutral,0.8735730052,neutral,0.693770349
+72,The TimmyLand,user,72,entity_demos,neutral,neutral,0.9739204049,neutral,0.9559830427,neutral,0.6742397547
+73,I would like to visit into the space,user,73,entity_demos,joy,joy,0.8304330111,joy,0.9224790931,joy,0.9055387974
+74,"I already told you, It is India, the Bollywood, Spices, kollywood",user,74,entity_demos,neutral,neutral,0.5477945209,neutral,0.7154039145,neutral,0.8235761523
+75,Please call me Chris,user,75,entity_demos,neutral,neutral,0.8958261013,neutral,0.9478858709,neutral,0.8676480651
+76,I was born in Mexico City snd lived there many years,user,76,entity_demos,neutral,neutral,0.5135869384,neutral,0.7364838719,joy,0.5621348023
+77,The American Continent because of the many options we have,user,77,entity_demos,neutral,neutral,0.8518707156,neutral,0.9801297188,neutral,0.7753494978
+78,What do you mean? A particular country or city?,user,78,entity_demos,neutral,neutral,0.8066042066,neutral,0.8404299021,surprise,0.808273375
+79,Mexico,user,79,entity_demos,neutral,neutral,0.9675365686,neutral,0.9264981747,neutral,0.9117443562
+80,"My friends and family call me Chris. Although my name is Christian. But it's a bit long, don't you think?",user,80,entity_demos,neutral,neutral,0.8288763165,neutral,0.6492100954,surprise,0.5652360916
+100,What do you like most about travel? Is it the food or the sightseeing?,haru,100,intent_demos,neutral,neutral,0.6955218911,joy,0.8934990764,neutral,0.7765966058
+82,My home continent: the American Continent,user,82,entity_demos,neutral,neutral,0.9541547298,neutral,0.9329292774,neutral,0.6757659316
+83,"If we talk about countries, probably somewhere in Europe. Perhaps Italy",user,83,entity_demos,neutral,neutral,0.929218173,neutral,0.9330304265,neutral,0.9519967437
+84,I'm Mexican,user,84,entity_demos,neutral,neutral,0.8956850171,neutral,0.824349761,neutral,0.909693718
+85,my name is sara,user,85,entity_demos,neutral,neutral,0.9363691211,neutral,0.9209589362,neutral,0.7942670584
+86,my hometown is donostia,user,86,entity_demos,neutral,neutral,0.8822671175,neutral,0.9321173429,joy,0.3309305012
+87,"probably asia, that is why I came here !",user,87,entity_demos,neutral,neutral,0.5212369561,neutral,0.6029596329,neutral,0.6940191388
+88,I want to travel everywhere so can't really choose,user,88,entity_demos,joy,joy,0.8203898072,joy,0.8403321505,sadness,0.8269729018
+89,"it is Spain, in Europe",user,89,entity_demos,neutral,neutral,0.9676354527,neutral,0.9503462911,neutral,0.7941453457
+90,can you give me a new name?,user,90,entity_demos,neutral,neutral,0.5072181821,anger,0.9715812206,neutral,0.6432414055
+91,"i grewed up in donostia, in the basque country",user,91,entity_demos,neutral,neutral,0.8496499062,neutral,0.8007833362,joy,0.8734268546
+92,i love asia the most because it has many food I like and very different culture,user,92,entity_demos,joy,joy,0.9458776712,joy,0.6828591824,joy,0.9862440228
+10,Is old people are annoying,user,10,sentiment_demos,anger,anger,0.6892482638,anger,0.9051110148,neutral,0.3893007636
+94,"i say it is the basque country, it is in the north of spain",user,94,entity_demos,neutral,neutral,0.9365822077,neutral,0.9429255724,neutral,0.4346397817
+95,"Yes, Bob",user,95,entity_demos,neutral,neutral,0.8738380671,neutral,0.7849041224,neutral,0.9279139042
+96,Chicago,user,96,entity_demos,neutral,neutral,0.9710897207,neutral,0.8543429375,neutral,0.7544078827
+24,Why not?,haru,24,sentiment_demos,surprise,neutral,0.6879236102,anger,0.5092906356,neutral,0.389134407
+98,I would say somewhere in Europe,user,98,entity_demos,neutral,neutral,0.9351667762,neutral,0.9080761671,neutral,0.9246200323
+99,The US,user,99,entity_demos,neutral,neutral,0.9768939614,neutral,0.9621148109,neutral,0.7294458151
+2,What's the best part of being a child?,haru,2,sentiment_demos,joy,neutral,0.6439734697,joy,0.5888538957,neutral,0.5566847324
+39,I think all day because I like to pick up plenty of wisdom tooth,user,39,intent_demos,neutral,neutral,0.6770105958,neutral,0.7666139603,neutral,0.8500790596
+103,"I realize that many times I've never traveled before. Therefore, I do not know what I enjoy the most about it",user,103,intent_demos,neutral,surprise,0.6566382051,joy,0.6814053059,joy,0.7662231326
+8,"So tell me lithen, how are you feeling today?",haru,8,sentiment_demos,neutral,neutral,0.8005393744,neutral,0.6800032854,neutral,0.8422244787
+11,Do you like being a child?,haru,11,sentiment_demos,neutral,neutral,0.7349720597,neutral,0.7386606932,joy,0.6619508266
+12,"So tell me Ragnar, how are you feeling today?",haru,12,sentiment_demos,neutral,neutral,0.8370806575,neutral,0.7725657225,neutral,0.7127683759
+13,"So tell me Buddy, how are you feeling today?",haru,13,sentiment_demos,neutral,neutral,0.769421339,neutral,0.7274141908,neutral,0.6479666233
+15,Do you want to talk to me?,haru,15,sentiment_demos,neutral,neutral,0.7171823978,neutral,0.6090166569,anger,0.3626405895
+16,Does that sound fun too?,haru,16,sentiment_demos,joy,joy,0.8285512328,joy,0.7913033962,joy,0.8664351106
+18,What's the best part of being a child?,haru,18,sentiment_demos,joy,neutral,0.6439734697,joy,0.5888538957,neutral,0.5566847324
+25,"No, I didn't know",user,25,sentiment_demos,neutral,neutral,0.642686069,neutral,0.4802352488,surprise,0.9145938158
+25,Did you know Basketball has been played at every Olympic Games since 1936?,haru,25,sentiment_demos,neutral,neutral,0.6364129186,neutral,0.4424481094,surprise,0.5907658339
+0,I like being a child. Who knows a little bit of math.,user,0,sentiment_demos,joy,joy,0.6387591958,joy,0.9604913592,joy,0.9588098526
+1,Whatever,user,1,sentiment_demos,neutral,neutral,0.7176371813,anger,0.465020597,neutral,0.6631349325
+2,Nothing is good,user,2,sentiment_demos,sadness,sadness,0.8636721969,sadness,0.6429437995,sadness,0.790712297
+3,Okay.,user,3,sentiment_demos,neutral,neutral,0.8119367361,neutral,0.8682602644,neutral,0.5348891616
+4,Old people are boring,user,4,sentiment_demos,disgust,sadness,0.3560573757,anger,0.6265275478,sadness,0.4757690728
+34,I'd like adulthood,user,34,intent_demos,neutral,neutral,0.6121569276,neutral,0.7443473935,joy,0.5002477169
+79,I like to play the bass,user,79,intent_demos,joy,joy,0.5727273822,joy,0.7482081056,joy,0.9790992141
+7,"Wow, you got it.",user,7,sentiment_demos,surprise,joy,0.7816917896,joy,0.6683158875,surprise,0.971850574
+8,I'm feeling excellent,user,8,sentiment_demos,joy,joy,0.9853439927,joy,0.9989394546,joy,0.9911523461
+9,I do not know,user,9,sentiment_demos,neutral,neutral,0.8650559783,neutral,0.4323462248,surprise,0.4792876244
+94,What's your favorite season?,haru,94,intent_demos,neutral,neutral,0.5355411768,neutral,0.5979653001,neutral,0.639303863
+11,I hate being a child.,user,11,sentiment_demos,anger,anger,0.5733637214,anger,0.5544275641,disgust,0.4910694957
+12,I'm feeling great,user,12,sentiment_demos,joy,joy,0.9258637428,joy,0.9976149797,joy,0.9942821264
+13,I feel neutral,user,13,sentiment_demos,neutral,neutral,0.7294487357,neutral,0.8822618127,joy,0.9100949168
+14,I don't know,user,14,sentiment_demos,neutral,neutral,0.7751533389,sadness,0.4053425491,surprise,0.7713065147
+15,Not interested,user,15,sentiment_demos,neutral,anger,0.4150277078,anger,0.6623798609,neutral,0.528126061
+16,That sounds boring,user,16,sentiment_demos,disgust,sadness,0.6301922798,neutral,0.3743702471,sadness,0.7874328494
+93,"anywhere in the world, maybe korea next as it is close by",user,93,entity_demos,neutral,neutral,0.5334889293,neutral,0.8136816025,neutral,0.9213843942
+18,Everything is great!,user,18,sentiment_demos,joy,joy,0.9819195867,joy,0.9915641546,joy,0.8890501857
+19,No I don't,user,19,sentiment_demos,neutral,anger,0.4878211021,anger,0.4692959189,neutral,0.6278671026
+20,I want to grow up,user,20,sentiment_demos,neutral,neutral,0.4069089592,sadness,0.5593594909,sadness,0.5742424726
+90,I don't mind either,user,90,intent_demos,neutral,joy,0.4890829027,neutral,0.5190663338,neutral,0.4813037217
+22,I love being a child.,user,22,sentiment_demos,joy,joy,0.9422213435,joy,0.9959620833,joy,0.9824690819
+23,"No, I hate being a child.",user,23,sentiment_demos,anger,anger,0.8900388479,anger,0.8450497985,disgust,0.5979148746
+24,I want to be an adult,user,24,sentiment_demos,neutral,neutral,0.5682878494,neutral,0.488599062,sadness,0.661753118
+6,Being a child sucks,user,6,sentiment_demos,sadness,anger,0.4580159485,sadness,0.5935253501,disgust,0.5387715697

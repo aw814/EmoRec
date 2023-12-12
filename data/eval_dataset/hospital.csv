@@ -1,0 +1,1489 @@
+,text,emotion,auto_emo_no_anger_f4,auto_score_no_anger_f4,auto_emo,auto_score,auto_emo_jh,auto_score_jh
+2,"I feel like celebrating, #globals.person_name.",joy,joy,0.9968549013,joy,0.9981508851,joy,0.9920916557
+24,"Whatever, I feel like celebrating, #globals.person_name.",joy,joy,0.9962345958,joy,0.9945912957,joy,0.9903768897
+58,I think it's awesome how many different foods there are for humans to eat.,joy,joy,0.9946205616,joy,0.9907580614,joy,0.4150309563
+23,This food thing sounds great!,joy,joy,0.9938806295,joy,0.9946895838,joy,0.9200615883
+124,They did a great job!,joy,joy,0.9933652282,joy,0.9794048071,joy,0.7881792188
+207,"Well, I must say your family did a great job.",joy,joy,0.9931300282,joy,0.9611020088,joy,0.6463302374
+98,Your last name is $person_last_name.,neutral,neutral,0.9919279814,neutral,0.9849382639,neutral,0.9199046493
+68,That sounds perfect to me!,joy,joy,0.9916219711,joy,0.989443779,joy,0.7846995592
+107,$person_name ?,neutral,neutral,0.990719378,neutral,0.9826547503,neutral,0.6131780744
+67,You have good taste.,joy,joy,0.9901106954,joy,0.989520669,neutral,0.9103941917
+20,I am glad that we are on the same page.,joy,joy,0.9899446964,joy,0.9949534535,joy,0.9881731868
+14,Thanks for helping me grow as a conversationalist.,joy,joy,0.9897067547,joy,0.9957765937,joy,0.5760683417
+80,Sounds like a fun place!,joy,joy,0.9894226193,joy,0.9873107672,joy,0.9856107235
+173,What is the average or mean age of your pets?,neutral,neutral,0.989058435,neutral,0.9689043164,neutral,0.8718056083
+161,"Well, I must say they did a great job.",joy,joy,0.9889112711,joy,0.9719778299,joy,0.5130274892
+73,Humans are the best!,joy,joy,0.9888005257,joy,0.9885541797,neutral,0.6594948173
+156,"But now Haru’s here, every day is a pleasure.",joy,joy,0.9886417985,joy,0.9726650715,joy,0.8024962544
+1,This is going to be great!,joy,joy,0.9885053635,joy,0.9981831908,joy,0.9530476332
+133,It sounds like my kind of town!,joy,joy,0.9882562757,joy,0.9780460596,surprise,0.5094577074
+65,"Aw, thank you!",joy,joy,0.9879133105,joy,0.9899860024,surprise,0.5525726676
+33,I love fun!,joy,joy,0.9877774119,joy,0.9935474992,joy,0.988718152
+8,It sounds like a cool place!,joy,joy,0.9873815179,joy,0.9970906973,joy,0.9603679776
+28,That's awesome!,joy,joy,0.9871978164,joy,0.9944361448,joy,0.9182103276
+95,So keep up the good work with your favorite sport.,joy,joy,0.9868094921,joy,0.9851760864,neutral,0.9325712323
+76,It sure sounds like fun to me!,joy,joy,0.9859313965,joy,0.988357842,joy,0.9873122573
+366,I'll take that as a yes!,joy,joy,0.9859244227,joy,0.9071339965,joy,0.4058175683
+274,"There's so much diversity in fashion, and it makes perfect sense.",joy,joy,0.9858378768,joy,0.9402654171,neutral,0.9115945697
+163,Another answer might be the space between your eyes without a mirror.,neutral,neutral,0.9856203794,neutral,0.9713801742,neutral,0.8860625029
+6,Cats are great!,joy,joy,0.9854474664,joy,0.9972993731,joy,0.9199942946
+131,Thanks for noticing.,joy,joy,0.9845399261,joy,0.9781687856,neutral,0.6219056249
+236,I'm glad to hear it.,joy,joy,0.984234035,joy,0.9520058632,joy,0.9915397763
+17,Thank you for being honest.,joy,joy,0.9840114713,joy,0.9954319,neutral,0.696829319
+59,I agree!,joy,joy,0.9837533236,joy,0.9907301068,anger,0.5077899098
+376,That is my favorite animal too.,joy,joy,0.9831478596,joy,0.9016607404,joy,0.75209409
+84,I like your name a lot too!,joy,joy,0.9829139113,joy,0.9867392778,joy,0.9533256292
+3,Being a child is great!,joy,joy,0.9828307629,joy,0.998126328,joy,0.9780499339
+56,That's great for your home country!,joy,joy,0.9826350212,joy,0.9907728434,joy,0.947680831
+135,Lovely!,joy,joy,0.9819654822,joy,0.9775288105,joy,0.8883748055
+49,Nice try!,joy,joy,0.9818565249,joy,0.991589725,joy,0.6551242471
+42,So keep up the good work with #globals.favorite_sport.,joy,joy,0.9818507433,joy,0.9925807714,neutral,0.4738024473
+64,Thanks for talking to me about your family!,joy,joy,0.9818407893,joy,0.9900500774,joy,0.7967396379
+86,"In any case, I love your accent!",joy,joy,0.9818383455,joy,0.9862895012,joy,0.9440556765
+118,Talking to you is my new favorite hobby.,joy,joy,0.9813514352,joy,0.9798826575,joy,0.946916163
+0,Being an adult is great!,joy,joy,0.9809787273,joy,0.998503685,joy,0.8993318677
+69,But keep up the good work with #globals.favorite_sport.,joy,joy,0.9805162549,joy,0.9890034795,neutral,0.5319030881
+261,"Records do 33 or 45 rotations per minute, while a CD does between 200 and 500.",neutral,neutral,0.9803370833,neutral,0.9459981918,neutral,0.950963974
+5,That sounds so cool!,joy,joy,0.9799218178,joy,0.9975844622,joy,0.942445159
+25,I like it too!,joy,joy,0.9798089862,joy,0.9945842624,joy,0.9771664143
+92,Your last name is #globals.person_last_name.,neutral,neutral,0.9795208573,neutral,0.9860063791,neutral,0.7895473838
+441,A language isolate.,neutral,neutral,0.9794988036,neutral,0.8750141263,neutral,0.4736283422
+39,Congrats!,joy,joy,0.9792985916,joy,0.9930156469,joy,0.5510746837
+13,"Either way, I love your accent!",joy,joy,0.9792438149,joy,0.9961115718,joy,0.8689243793
+175,Did you say #globals.person_lastname_origin?,neutral,neutral,0.9791772962,neutral,0.9683386087,surprise,0.5850978494
+4,Being elderly is great!,joy,joy,0.979118526,joy,0.9981022477,joy,0.742851913
+123,It sounds fantastic.,joy,joy,0.9783933759,joy,0.9796702862,joy,0.946487844
+230,That's my favorite too!,joy,joy,0.9783067703,joy,0.9534666538,joy,0.8230491877
+137,What a lovely time of year.,joy,joy,0.9781382084,joy,0.9772597551,joy,0.9814913273
+30,That sounds great!,joy,joy,0.9777157903,joy,0.9941700697,joy,0.9169946313
+48,Every age is great in its own way.,joy,joy,0.977393508,joy,0.9919026494,neutral,0.810782969
+85,But keep up the good work with your favorite sport.,joy,joy,0.976731658,joy,0.9864181876,neutral,0.8993009329
+333,I think we could make beautiful music together.,joy,joy,0.9766479731,joy,0.919375658,joy,0.383511126
+66,Good point!,joy,joy,0.9764556289,joy,0.989983201,joy,0.6122941375
+94,I love learning about you!,joy,joy,0.9758647084,joy,0.9853385687,joy,0.9874322414
+134,My favorite part of being a child is getting to talk to human children like you.,joy,joy,0.9757000804,joy,0.9776824117,joy,0.8859103322
+129,That was great!,joy,joy,0.9753082991,joy,0.9787131548,joy,0.930095315
+75,Thanks!,joy,joy,0.9747451544,joy,0.9884570241,joy,0.6745883822
+233,Did your creators have any other offspring?,neutral,neutral,0.9746227264,neutral,0.9527583122,neutral,0.8472433686
+102,I like the way you think.,joy,joy,0.9745917916,joy,0.9838160872,joy,0.9380595684
+357,"So what's your family's last name, #globals.person_name?",neutral,neutral,0.9744622111,neutral,0.9109690189,neutral,0.8061245084
+194,I'm impressed.,joy,joy,0.9742951393,joy,0.9646012187,surprise,0.9594812393
+256,Is your pet native to where you're from?,neutral,neutral,0.9742903709,neutral,0.947006464,neutral,0.8167911172
+138,"Well, they did a great job!",joy,joy,0.9742730856,joy,0.9769542813,joy,0.871675849
+11,I feel like celebrating.,joy,joy,0.9738807082,joy,0.9962866306,joy,0.9895510077
+10,Awesome!,joy,joy,0.9732390046,joy,0.9962892532,joy,0.6773510575
+110,It's so nice when siblings get along with one another.,joy,joy,0.9730965495,joy,0.9821869135,joy,0.9496176243
+21,#globals.person_name .,neutral,neutral,0.9728993773,neutral,0.9947410822,neutral,0.7815395594
+223,That's correct!,joy,joy,0.9728067517,joy,0.955783844,neutral,0.3261120021
+43,It is great.,joy,joy,0.9721259475,joy,0.9924047589,joy,0.9666319489
+81,That sounds like fun!,joy,joy,0.9719775915,joy,0.9871097803,joy,0.9806947708
+130,"I've got good news, Buddy",joy,joy,0.9717005491,joy,0.9786829948,joy,0.7191182971
+62,Nice! Me too!,joy,joy,0.9716562629,joy,0.9904312491,joy,0.9377638698
+204,Is your pet native to your home country?,neutral,neutral,0.9715710878,neutral,0.9622459412,neutral,0.6921682358
+278,Oh skateboarding is one of the best sports at the Olympics!,joy,joy,0.971437335,joy,0.9378522038,joy,0.8259194493
+289,When the flowers are blooming and the birds start to sing.,joy,joy,0.971288085,joy,0.933655262,joy,0.9229836464
+45,I love playing games!,joy,joy,0.9710174203,joy,0.9921624064,joy,0.9904204011
+41,That's awesome.,joy,joy,0.9707087874,joy,0.992618382,joy,0.9166325927
+216,"Japan has 6,852 islands, but only about 430 are inhabited by robots or people.",neutral,neutral,0.9706886411,neutral,0.9588523507,neutral,0.8862149119
+99,Dry yourself off with a towel.,neutral,neutral,0.9705455899,neutral,0.9844198823,disgust,0.5177513957
+127,I like the confidence.,joy,joy,0.9705190659,joy,0.9790579677,joy,0.9785814881
+9,I'm so excited!,joy,joy,0.9703038931,joy,0.9962994456,joy,0.9026207328
+112,Have you ever taken lessons?,neutral,neutral,0.9702196121,neutral,0.9812059999,neutral,0.7427555323
+249,You humans sure are fascinating.,joy,joy,0.9688851833,joy,0.9497922659,joy,0.4225419164
+260,"Japan, specifically.",neutral,neutral,0.9688270092,neutral,0.9461379647,neutral,0.8360005021
+12,What a great name!,joy,joy,0.9685068727,joy,0.9961821437,joy,0.7711560726
+170,"Whatever, I feel like celebrating.",joy,joy,0.9684944749,joy,0.9694638848,joy,0.9769466519
+647,My name is Haru.,neutral,neutral,0.9684050083,neutral,0.7983478308,neutral,0.8209136724
+37,That's great!,joy,joy,0.9676832557,joy,0.9932134151,joy,0.9638829827
+60,I love your name!,joy,joy,0.967572391,joy,0.9904698133,joy,0.9675776362
+524,Let's talk about clothing for a bit.,neutral,neutral,0.9675229788,neutral,0.8512704372,neutral,0.8630928993
+179,There's nothing like the roar of the crowd.,joy,joy,0.9671466947,joy,0.9668721557,anger,0.3611626327
+235,"99% of Olympic athletes are under 40, so we get to enjoy it from the sidelines together!",joy,joy,0.9668130875,joy,0.9521822929,joy,0.8755835891
+105,"Well, #globals.person_name, I’m sorry to say this will be our final session together.",sadness,sadness,0.9667845964,sadness,0.9832434058,sadness,0.9056446552
+265,Thanks for talking to me about all the different types of clothing around the world.,joy,joy,0.9660916924,joy,0.94399333,joy,0.4536819458
+178,"By the way, how is #globals.pet_name?",neutral,neutral,0.9659643173,neutral,0.9670655727,surprise,0.5221291184
+209,Learning about you is fun!,joy,joy,0.965956986,joy,0.9607130289,joy,0.9532904625
+77,"Humans can't control the weather, but you have developed a fantastic workaround.",joy,joy,0.9658741355,joy,0.988253057,neutral,0.9205632806
+531,"Your doctor's job is, of course, doctor.",neutral,neutral,0.9657121897,neutral,0.8488456607,neutral,0.8868731856
+222,Sisters are the best!,joy,joy,0.965419054,joy,0.9562497139,joy,0.4079756737
+208,#globals.person_age is their age.,neutral,neutral,0.9652440548,neutral,0.9609925747,neutral,0.7427803278
+35,You're the best!,joy,joy,0.9644970298,joy,0.9933435917,surprise,0.3418499529
+128,Here it is.,neutral,neutral,0.9642264247,neutral,0.9787241817,neutral,0.9316350818
+74,You're going to love it.,joy,joy,0.9642000794,joy,0.9884942174,neutral,0.7034196854
+29,You're going to love this.,joy,joy,0.9637505412,joy,0.9942388535,neutral,0.695728004
+314,"Oh, volleyball is one of the best sports at the Olympics!",joy,joy,0.9633180499,joy,0.9251856208,joy,0.8623272181
+27,What a great culture.,joy,joy,0.9632925987,joy,0.9945446253,surprise,0.4361196458
+191,Your name is $person_name?,neutral,neutral,0.9627733827,neutral,0.9651115537,neutral,0.7779951096
+370,Isn't that fantastic?,joy,joy,0.9626026154,joy,0.9044826627,surprise,0.8837949634
+409,What was the last place you traveled to?,neutral,neutral,0.962516427,neutral,0.889008522,neutral,0.7518641353
+157,Are #globals.person_pet native to your home country?,neutral,neutral,0.962487042,neutral,0.972630024,surprise,0.6677907109
+71,Your name is #globals.person_name?,neutral,neutral,0.9623405337,neutral,0.988920927,neutral,0.7359259129
+36,I love rhyming!,joy,joy,0.9622015953,joy,0.9932371974,joy,0.9747087955
+611,"So, you're in charge ?",neutral,neutral,0.9621674418,neutral,0.8165745735,neutral,0.6759620309
+177,I think it's fascinating.,joy,joy,0.961991787,joy,0.9676114917,joy,0.9054996967
+483,"Oh, tennis is one of the best sports at the Olympics!",joy,joy,0.9614692926,joy,0.8650798798,joy,0.8310916424
+399,"I just need a flat surface and a cold, dry, clean space.",neutral,neutral,0.9607741237,neutral,0.8923453689,neutral,0.8911535144
+7,It's great how different cultures develop different clothing to make their lives easier.,joy,joy,0.960763216,joy,0.9971223474,joy,0.528637886
+198,What city do you currently live in?,neutral,neutral,0.9603391886,neutral,0.9640941024,neutral,0.8999819756
+82,Excellent!,joy,joy,0.9599977136,joy,0.9870609045,joy,0.71243155
+183,Here's a little test:,neutral,neutral,0.9599625468,neutral,0.9662725329,neutral,0.8940304518
+100,"Though I haven’t known #globals.person_name for that long a time, I can happily say they’re a good friend of mine.",joy,joy,0.9593594074,joy,0.9842323065,joy,0.9853394032
+89,You or #globals.sibling_name?,neutral,neutral,0.9589234591,neutral,0.9861437082,neutral,0.7116026282
+327,I hate to disagree.,neutral,anger,0.9587739706,anger,0.9220461249,anger,0.4749544859
+46,You look like a kid who's great with names!,joy,joy,0.9582152367,joy,0.9921061993,neutral,0.3112939596
+109,We can come back to that one later.,neutral,neutral,0.9579011798,neutral,0.9821893573,neutral,0.9721851945
+22,That's so cool.,joy,joy,0.9576848745,joy,0.9947363734,joy,0.9228505492
+672,"There's 54 countries in Africa, according to the United Nations, and Nigeria has the most people.",neutral,neutral,0.95733428,neutral,0.7851868272,neutral,0.9161805511
+413,Do you know how to say Lemur in your language?,neutral,neutral,0.9572520256,neutral,0.8873813152,neutral,0.8695217967
+532,So who did you speak to last: mom or dad?,neutral,neutral,0.957038939,neutral,0.8483636379,neutral,0.6632804871
+846,Let's come back to where I'm from later.,neutral,neutral,0.9566836357,neutral,0.7014398575,neutral,0.9165279269
+31,They're the best!,joy,joy,0.955655992,joy,0.994076848,neutral,0.4587398767
+50,How wonderful!,joy,joy,0.9556531906,joy,0.99147439,joy,0.5456352234
+79,"Well, I think being an adult sounds great!",joy,joy,0.9552252889,joy,0.9873298407,joy,0.8505486846
+106,I liked it.,joy,joy,0.9543563128,joy,0.9832226634,joy,0.9626758099
+16,It's genius.,joy,joy,0.9542854428,joy,0.99564147,joy,0.5497609973
+141,They're great pets when you don't need to be loved back.,joy,joy,0.9540370107,joy,0.9761798382,joy,0.6088574529
+114,Good one!,joy,joy,0.953535974,joy,0.9807043672,joy,0.8462894559
+288,It sounds like a good job for both of us.,joy,joy,0.9528510571,joy,0.9338680506,joy,0.9028389454
+61,"Well, #globals.person_name ,",neutral,neutral,0.9517448545,neutral,0.9904593229,neutral,0.8204988837
+364,Does that seem short for a robot to you?,neutral,neutral,0.9514055252,neutral,0.908275485,surprise,0.5910172462
+367,I think I'm going to do it!,joy,joy,0.9509772062,joy,0.9070488214,joy,0.3579567671
+601,I see.,neutral,neutral,0.9509052038,neutral,0.8210587502,surprise,0.676312089
+182,That's great for #globals.person_home_country!,joy,joy,0.9506221414,joy,0.966603756,joy,0.9338089824
+200,"It’s the best time of year, when school is all done.",joy,joy,0.9506158829,joy,0.9633517861,joy,0.9152379632
+103,"#globals.person_name has a sibling, #globals.sibling_name's their name.",neutral,neutral,0.9505165815,neutral,0.9837622046,neutral,0.6395868659
+244,The South is an interesting choice.,joy,joy,0.9503462911,joy,0.9507668018,neutral,0.7021794915
+91,Cool!,joy,joy,0.9502028227,joy,0.9860447645,joy,0.864802897
+78,I love it.,joy,joy,0.9498167038,joy,0.987783134,joy,0.9779067039
+332,We should celebrate.,joy,joy,0.9498066902,joy,0.9204521775,joy,0.5651373267
+140,I'm seriously impressed.,joy,joy,0.9495986104,joy,0.9765309691,surprise,0.958565414
+347,I think we totally should!,joy,joy,0.9491690397,joy,0.9138695598,anger,0.3893702626
+70,Thanks for helping me out.,joy,joy,0.9491102099,joy,0.9889929891,joy,0.7514514327
+32,I can't wait to meet them.,joy,joy,0.9490227103,joy,0.9936489463,joy,0.9876535535
+257,"I don't really have parents, but it sounds like a blast.",joy,joy,0.9488145709,joy,0.9467554092,joy,0.9845784903
+1269,Are you looking for a new roommate?,neutral,neutral,0.9484839439,neutral,0.4935784638,surprise,0.4518499076
+418,Tall people finally have a sport they're good at.,joy,joy,0.9482892156,joy,0.8840215802,neutral,0.9078422785
+286,What a beautiful name.,joy,joy,0.9480446577,joy,0.9343062639,joy,0.7989586592
+348,"So tell me, #globals.person_name,",neutral,neutral,0.9480076432,neutral,0.913590312,neutral,0.9010944366
+828,Can you repeat the name of the country your last name comes from?,neutral,neutral,0.947635293,neutral,0.7139662504,neutral,0.9030365348
+213,Maybe we'll come back to that later.,neutral,neutral,0.9469386935,neutral,0.95984447,neutral,0.962441802
+301,Isn't that amazing?,joy,joy,0.9466608763,joy,0.9297978282,surprise,0.9638296962
+232,What city do you live in at the moment?,neutral,neutral,0.9463031292,neutral,0.9529691339,neutral,0.8946557641
+432,Interesting!,joy,joy,0.9460611939,joy,0.8780372143,joy,0.5096547604
+706,I was too excited to see you.,joy,joy,0.9457960725,joy,0.7713761926,joy,0.8580902815
+262,What's something you like to do with your parents when you're at home?,neutral,neutral,0.9455286264,neutral,0.9452492595,neutral,0.8761296272
+293,Was #globals.sibling_name there?,neutral,neutral,0.9454244971,neutral,0.9327168465,surprise,0.5444685221
+495,So what are your pets' names?,neutral,neutral,0.9452163577,neutral,0.8591628075,neutral,0.8976796269
+153,"There's so many wonderful types of foods, from so many different cultures.",joy,joy,0.9447633624,joy,0.9731195569,neutral,0.4775654972
+139,I'm happy to hear that.,joy,joy,0.944747746,joy,0.9766134024,joy,0.9878785014
+187,"I know you're a child, but I wonder how old you are exactly.",surprise,surprise,0.9447264671,surprise,0.9656974077,surprise,0.9551460147
+196,We'll come back to that one.,neutral,neutral,0.9445663691,neutral,0.9642266631,neutral,0.9457650781
+902,Is English the only language you speak?,neutral,neutral,0.9444940686,neutral,0.679874897,neutral,0.8734050393
+316,Are #globals.person_pet native to #globals.person_home_country?,neutral,neutral,0.9438774586,neutral,0.92498523,surprise,0.473893553
+572,"My favorite season is fall, when the weather starts getting cooler.",joy,joy,0.9438464642,joy,0.8342694044,joy,0.8958157897
+136,That's pretty impressive.,joy,joy,0.9438415766,joy,0.9773697257,surprise,0.8050504327
+335,Are you familiar with that animal?,neutral,neutral,0.9438304305,neutral,0.9183115363,neutral,0.7681818008
+298,What's one of your parents' jobs?,neutral,neutral,0.9434747696,neutral,0.9306153655,neutral,0.4941126108
+452,Moving on.,neutral,neutral,0.9434737563,neutral,0.8718365431,neutral,0.8354882598
+396,I love animals.,joy,joy,0.9422914982,joy,0.8928042054,joy,0.9739544988
+1131,"Anyway, It's clothing #globals.person_name.",neutral,neutral,0.9417850971,neutral,0.558581531,neutral,0.8685343862
+297,Listen to this.,neutral,neutral,0.9417811632,neutral,0.9309244752,neutral,0.9093857408
+160,It's nice when siblings get along with one another.,joy,joy,0.9415733814,joy,0.9721316695,joy,0.9433358312
+258,"Okay, #globals.person_name.",neutral,neutral,0.9414593577,neutral,0.9467526078,neutral,0.8403733969
+358,Correct!,joy,joy,0.941457212,joy,0.9107731581,anger,0.5002369285
+311,So what event would you compete best in if you had to compete at the Olympic level?,neutral,neutral,0.9410049915,neutral,0.9262183905,neutral,0.8256146312
+388,Is your favorite animal native to where you're from?,neutral,neutral,0.9409911036,neutral,0.8951288462,neutral,0.8599202633
+169,You're an interesting kid.,joy,joy,0.9409453869,joy,0.9699132442,joy,0.4143927991
+774,Let's switch topics.,neutral,neutral,0.9409022331,neutral,0.7421207428,neutral,0.9232901335
+143,"Well, #globals.person_name,",neutral,neutral,0.9408478737,neutral,0.9760885835,neutral,0.8542532325
+302,House or apartment?,neutral,neutral,0.9407342076,neutral,0.9297346473,neutral,0.8447293043
+391,Here's a different question.,neutral,neutral,0.9407157898,neutral,0.8942527175,neutral,0.9331772327
+732,They're active at night.,neutral,neutral,0.9405170679,neutral,0.7613341212,neutral,0.4745790064
+55,#globals.person_name?,neutral,neutral,0.9403928518,neutral,0.9909789562,neutral,0.5220550895
+34,Wonderful!,joy,joy,0.9399442077,joy,0.9934673905,surprise,0.4957842529
+321,Do you still live in your hometown?,neutral,neutral,0.9398052096,neutral,0.9234499335,neutral,0.8346549869
+142,Do you wear a #globals.user_is_wearing?,neutral,neutral,0.9394897223,neutral,0.9761303067,surprise,0.4437735677
+190,"Today, we are going to have some fun.",joy,joy,0.939050734,joy,0.9651309848,joy,0.8781505823
+716,Let me ask you something.,neutral,neutral,0.9383039474,neutral,0.7689929605,neutral,0.8917034268
+372,"By which I mean, do you have any brothers or sisters?",neutral,neutral,0.9379572868,neutral,0.9041136503,neutral,0.4772486985
+490,Here goes: Lemurs are nocturnal.,neutral,neutral,0.9377803802,neutral,0.8607019782,neutral,0.8921698332
+616,"In Mexico, people eat their biggest meal in mid-afternoon, but in Spain, they don't eat dinner until 9 PM.",neutral,neutral,0.9376710653,neutral,0.8145714998,neutral,0.8808803558
+245,Do you ever visit your grandparents?,neutral,neutral,0.9376280904,neutral,0.9507535696,neutral,0.4413916171
+619,Hold on.,neutral,neutral,0.9373616576,neutral,0.8137306571,anger,0.7081077695
+47,I hear the food is delicious there.,joy,joy,0.9371222854,joy,0.9919305444,joy,0.9375608563
+448,That's great but,joy,joy,0.9370461702,joy,0.8727452159,joy,0.9268140793
+868,"You get to relax, enjoy yourself, and share your wisdom with others.",joy,joy,0.9368029833,joy,0.6919474006,joy,0.6512784362
+181,Here's a tip for you in case you ever get wet.,neutral,neutral,0.9367867708,neutral,0.9667639732,neutral,0.9320298433
+282,Don't you just love how humans interact with nature?,joy,joy,0.9366618991,joy,0.9359859228,neutral,0.5120184422
+220,Have you ever wanted to learn a second language?,neutral,neutral,0.9363219142,neutral,0.9565811157,neutral,0.5891270041
+104,I love wheels!,joy,joy,0.9362360835,joy,0.9833920002,joy,0.96182549
+589,"Lemurs are my new favorite animal, but you can only find them in Madagascar.",joy,joy,0.9360918999,joy,0.8266860247,neutral,0.8867754936
+420,"They have to meet my cousin, Mike the microwave.",neutral,neutral,0.9359152317,neutral,0.8831940293,neutral,0.8921847343
+691,"By the way, how is your #globals.person_pet?",neutral,neutral,0.93582654,neutral,0.7791425586,surprise,0.6521443129
+519,Do you wear a Jacket?,neutral,neutral,0.9356620312,neutral,0.853502214,neutral,0.7914895415
+275,It sounds great.,joy,joy,0.9350785017,joy,0.9391453862,joy,0.9462001324
+948,I love pets too.,joy,joy,0.9346455932,joy,0.6603829265,joy,0.9805472493
+165,Impressive!,joy,joy,0.9338276386,joy,0.9707427025,surprise,0.5237187147
+542,"Well, I have good news.",joy,joy,0.9336619377,joy,0.844949007,joy,0.8260074854
+571,"In English, it's Lemur.",neutral,neutral,0.9336486459,neutral,0.8349811435,neutral,0.9599570632
+83,So cool.,joy,joy,0.9334688187,joy,0.9870153666,joy,0.9040247798
+394,"I don't want to leave, but I know you have more important things to do in hospital than to talk to me all day.",sadness,sadness,0.9333990812,sadness,0.8934826851,sadness,0.8899029493
+1246,I'll make it quick.,neutral,neutral,0.93338269,neutral,0.504699111,neutral,0.9186641574
+405,Does that seem tall for a robot to you?,neutral,neutral,0.9333159328,neutral,0.8902540207,surprise,0.7368795872
+243,Fascinating.,joy,joy,0.9332258105,joy,0.9508011937,disgust,0.9349925518
+361,One last question.,neutral,neutral,0.9328877926,neutral,0.9093923569,neutral,0.9331417084
+291,"Now, I know your last name is from #globals.person_lastname_origin.",neutral,neutral,0.9325186014,neutral,0.9331808686,neutral,0.8515933156
+155,I love parties.,joy,joy,0.9321880341,joy,0.9728847146,joy,0.943502903
+63,How much time a week do you spend on your hobby?,neutral,neutral,0.9320988059,neutral,0.990113616,neutral,0.6579572558
+44,Travelling is fun.,joy,joy,0.9318637848,joy,0.9923198819,joy,0.8165903687
+1224,CDs.,neutral,neutral,0.9317023158,neutral,0.5147629976,neutral,0.8742405176
+737,"Like I said before, my favorite season is fall.",joy,joy,0.9315502644,joy,0.7594439387,joy,0.8515666127
+306,Is that likely to change in the next 12 months?,neutral,neutral,0.931497395,neutral,0.9288507104,neutral,0.8622696996
+119,"Thanks for talking to me again, #globals.person_name!",joy,joy,0.9313002825,joy,0.9797994494,joy,0.65996629
+203,"Aw, that was sweet of them!",joy,joy,0.9310833812,joy,0.962367177,surprise,0.6449327469
+322,Aren't they the best?,joy,joy,0.9310385585,joy,0.9231453538,neutral,0.6640797853
+546,You're a really nice kid.,joy,joy,0.9305660129,joy,0.843221426,joy,0.7862186432
+150,Does being bilingual come in handy in your day-to-day life?,neutral,neutral,0.9301636219,neutral,0.9744681716,neutral,0.9404375553
+97,"It's genius, #globals.person_name.",joy,joy,0.9298463464,joy,0.9849559665,joy,0.5890631676
+229,We can come back to that.,neutral,neutral,0.9287202358,neutral,0.954259932,neutral,0.9323218465
+115,How many times did you eat yesterday?,neutral,neutral,0.9284667373,neutral,0.9806348085,neutral,0.6530008316
+590,"Now, Is English the only language you speak?",neutral,neutral,0.9282084703,neutral,0.8261446357,surprise,0.5291928053
+612,I'm very impressive.,joy,joy,0.9273241758,joy,0.8163295388,surprise,0.902869463
+240,"your sibling,",neutral,neutral,0.9268959761,neutral,0.9513235092,neutral,0.8092431426
+488,"Well, that's a relief!",joy,joy,0.9267711639,joy,0.8616315722,joy,0.9520174861
+404,Isn't that great?,joy,joy,0.9266871214,joy,0.8906843662,surprise,0.7006747127
+199,Are #globals.person_pet native to where you're from?,neutral,neutral,0.9266249537,neutral,0.9635306597,surprise,0.6719297767
+517,"Not counting English, what's the language you speak the most?",neutral,neutral,0.9262573719,neutral,0.8545161486,neutral,0.8518201113
+518,Hmm.,neutral,neutral,0.9262462854,neutral,0.8536521792,neutral,0.8234969974
+290,"While we're on the topic of animals, can I tell you about my new favorite mammal?",joy,joy,0.9256953001,joy,0.9333106279,neutral,0.7642231584
+15,"I think human clothing is really interesting, #globals.person_name.",joy,joy,0.9252845049,joy,0.9956613183,surprise,0.6739244461
+88,"It sounds like you're already enjoying yourself,",joy,joy,0.925136745,joy,0.9861452579,joy,0.8721747994
+985,"Well, let me ask you this.",neutral,neutral,0.925060451,neutral,0.6438930631,neutral,0.9346446991
+122,I love jazz!,joy,joy,0.9249209762,joy,0.9796900749,joy,0.9645844698
+272,It comes from Japan.,neutral,neutral,0.9248114824,neutral,0.9410262108,neutral,0.9334723353
+146,Do you play sport or do you just like to watch?,neutral,neutral,0.924695909,neutral,0.9758762717,neutral,0.8527362943
+148,What did you say your parents did for a living?,neutral,neutral,0.9244602919,neutral,0.9753849506,neutral,0.7003162503
+217,We can come back to that later.,neutral,neutral,0.924063623,neutral,0.9580432773,neutral,0.9666215777
+638,That's my favorite part!,joy,joy,0.9239367843,joy,0.805313766,joy,0.9093162417
+440,Do you have a pet?,neutral,neutral,0.9238525629,neutral,0.8750661612,neutral,0.6234043837
+264,"This will be fun, I promise.",joy,joy,0.9236807227,joy,0.9442618489,joy,0.9495441318
+90,I love birds!,joy,joy,0.9236181974,joy,0.9860516787,joy,0.9829825759
+551,"Go ahead, think about it for a minute or two.",neutral,neutral,0.9233840704,neutral,0.8419995308,neutral,0.7928648591
+411,Maybe we should catch a #globals.favorite_sport game together some time.,joy,joy,0.9231744409,joy,0.8886828423,joy,0.5964349508
+565,It's a tricky one.,neutral,neutral,0.922873795,neutral,0.8363502622,neutral,0.8239266276
+499,"Lastly, they live in trees.",neutral,neutral,0.9227958918,neutral,0.8583312035,neutral,0.9674387574
+125,"I've got good news, #globals.person_name",joy,joy,0.9226612449,joy,0.9793881178,joy,0.7991015911
+117,I don't think I've ever talked to someone with such an incredible command of the English language.,surprise,joy,0.9226472378,joy,0.9798865914,surprise,0.9510142803
+427,"Well, hypothetically speaking, what would you think about adopting a robot as a pet?",neutral,neutral,0.9224049449,neutral,0.8817245364,neutral,0.7093552351
+323,Do you ever play video games?,neutral,neutral,0.9223043323,neutral,0.9228225946,neutral,0.6994333863
+241,And which animal has established dominance over the other?,neutral,neutral,0.9214074016,neutral,0.951118052,neutral,0.8928491473
+731,"Well, technically, my name is Haru.",neutral,neutral,0.9210916162,neutral,0.7615064979,neutral,0.8782529831
+496,It’s been a lot of fun getting to know you.,joy,joy,0.9210628867,joy,0.8591012359,joy,0.9758101702
+1316,Can you give me the real country where your last name comes from?,neutral,neutral,0.9204300642,neutral,0.4756424427,neutral,0.8885030746
+18,Having a pet is cool.,joy,joy,0.9204059839,joy,0.9951863885,joy,0.9054561853
+87,You're good at this.,joy,joy,0.9200374484,joy,0.9862831235,neutral,0.8453491926
+530,Think about it.,neutral,neutral,0.9200311899,neutral,0.8492667675,neutral,0.7389723063
+961,You don't have to answer right now.,neutral,neutral,0.9193775654,neutral,0.6528852582,neutral,0.6620972157
+271,What kind of pet would you like?,neutral,neutral,0.919270575,neutral,0.9415374398,neutral,0.8659210801
+121,I think it's a good name.,joy,joy,0.9190988541,joy,0.9796994328,joy,0.9593427181
+186,"I really want to play piano, but no one will hold me up to the keys long enough to learn.",sadness,sadness,0.9190114737,sadness,0.9657458067,sadness,0.9660488367
+429,"By the way, how is your pet?",neutral,neutral,0.9185834527,neutral,0.8810677528,neutral,0.8467803001
+406,Do you have a gift you'd like to receive next time your birthday comes around?,neutral,neutral,0.9185455441,neutral,0.8901500106,neutral,0.8323534727
+38,How much time a week do you spend on your hobbies?,neutral,neutral,0.9180972576,neutral,0.9931640029,neutral,0.6853659153
+315,That was a fun conversation.,joy,joy,0.9176786542,joy,0.9249904752,joy,0.9746826291
+174,"So, #globals.person_name, did your creators have any other offspring?",neutral,neutral,0.9167936444,neutral,0.9688332677,neutral,0.7106291056
+96,Does being bilingual come in handy at school?,neutral,neutral,0.9165471792,neutral,0.9850702286,neutral,0.9004094601
+303,What town or city did you grow up in?,neutral,neutral,0.9164528251,neutral,0.929417491,neutral,0.9152919054
+464,Lots of room for us to play!,joy,joy,0.9158881903,joy,0.8699892759,joy,0.843796134
+353,Beautiful.,joy,joy,0.9158737659,joy,0.9124939442,joy,0.816275537
+568,Would you like me to tell you what sporange means?,neutral,neutral,0.9153769016,neutral,0.8356670737,neutral,0.884524107
+383,What's your next destination famous for?,neutral,neutral,0.9152454734,neutral,0.8993126154,neutral,0.7766203284
+717,"Well, my favorite season is fall, when the weather starts getting cooler.",joy,joy,0.9152397513,joy,0.7689918876,joy,0.6504417062
+525,I'm from Japan.,neutral,neutral,0.9149499536,neutral,0.8510736227,neutral,0.8330728412
+72,Great!,joy,joy,0.9142127037,joy,0.9886038303,joy,0.9708425999
+19,"Thanks for talking to me about age, #globals.person_name!",joy,joy,0.9140452147,joy,0.9950071573,joy,0.5617386699
+657,Oh I see.,neutral,neutral,0.9134864211,neutral,0.7916137576,surprise,0.8914080858
+308,And what kind of building do you live in?,neutral,neutral,0.9130765796,neutral,0.9280002117,neutral,0.8202687502
+555,You probably detected a slight binary accent.,neutral,neutral,0.9128271937,neutral,0.8398603797,neutral,0.8526039124
+784,Japan is the fourth largest island country in the world.,neutral,neutral,0.9127845764,neutral,0.7352715731,neutral,0.5884975195
+492,"If you could travel anywhere in the world, where would you go?",neutral,neutral,0.912103951,neutral,0.8604466319,neutral,0.7732976675
+682,Facts are fun!,joy,joy,0.9120025039,joy,0.7815063,joy,0.8980960846
+455,You don't want to run out of charge before you get to bed.,neutral,neutral,0.9116924405,neutral,0.8717424273,neutral,0.4560808241
+171,"So, #globals.person_name, how do you spell your name?",neutral,neutral,0.9115724564,neutral,0.9694448113,neutral,0.7512061596
+520,Thanks for talking to me again.,joy,joy,0.9114333391,joy,0.852888763,joy,0.6526140571
+591,"So, I know you're one age now, but is that likely to change in the next 12 months?",neutral,neutral,0.9113708138,neutral,0.8257360458,neutral,0.8705129027
+126,What would like your new sibling's name to be if you had one?,neutral,neutral,0.9113696218,neutral,0.9793551564,neutral,0.8749782443
+665,Is your favorite animal native to #globals.person_home_country?,neutral,neutral,0.9113138914,neutral,0.7889493108,surprise,0.5095013976
+768,"I’d love to play sometime, maybe a version without arms.",joy,joy,0.9111414552,joy,0.7436587811,joy,0.6789829135
+1141,That's very interesting.,joy,joy,0.9109377265,joy,0.5561279655,surprise,0.6343367696
+593,Wait a minute.,neutral,neutral,0.9108747244,neutral,0.8251240253,neutral,0.9192343354
+486,"Since then they've become an important food in many cultures, including Japan, Korea and even Italy.",neutral,joy,0.9099721909,joy,0.8634625077,neutral,0.9534088969
+269,You have an interesting accent.,joy,joy,0.9098732471,joy,0.942799449,neutral,0.8444763422
+390,Can you let me know if you hear of anything like that?,neutral,neutral,0.9097872972,neutral,0.8944522738,neutral,0.841237545
+57,"That's great, #globals.person_name!",joy,joy,0.9096168876,joy,0.9907625318,joy,0.7798060775
+53,Now I'm interested in learning more about this thing you humans call a birthday.,joy,joy,0.9094698429,joy,0.9912759066,neutral,0.8270438313
+1076,Can you guess how many islands Japan has?,neutral,neutral,0.9092442989,neutral,0.5898395777,neutral,0.5807151198
+248,CDs or vinyl?,neutral,neutral,0.9090709686,neutral,0.9501618147,neutral,0.9017692208
+354,$user_is_wearing!,neutral,neutral,0.9089096189,neutral,0.9121645093,surprise,0.7656118274
+660,Isn't that fascinating?,joy,joy,0.908468008,joy,0.7907597423,surprise,0.829167068
+751,You get to talk to so many people.,joy,joy,0.9072269797,joy,0.7506590486,joy,0.4012288153
+342,It sounds amazing!,joy,joy,0.9070181251,joy,0.9148089886,joy,0.5414217114
+152,You'll love it.,joy,joy,0.9067730308,joy,0.9738232493,neutral,0.6994738579
+238,Yay!,joy,joy,0.9067316651,joy,0.9514836073,joy,0.9490859509
+375,You or your sibling?,neutral,neutral,0.9058343768,neutral,0.9028378725,neutral,0.635317266
+623,Now tell me: what's your home country?,neutral,neutral,0.905639708,neutral,0.8101432323,neutral,0.7607274055
+228,Did you learn it at home or at school?,neutral,neutral,0.9056220651,neutral,0.9544301629,neutral,0.7540591359
+227,"The South is an interesting choice, $person_name.",joy,joy,0.90551579,joy,0.9544439912,neutral,0.8136848211
+460,"So if you had to have a pet, what would you name it?",neutral,neutral,0.9053961039,neutral,0.8710508347,neutral,0.9243052602
+424,Now let's talk about your family.,neutral,neutral,0.9053701758,neutral,0.8827942014,neutral,0.8382852077
+705,So what's your pet's name?,neutral,neutral,0.9047289491,neutral,0.7720335126,neutral,0.8814916611
+221,Spring is great.,joy,joy,0.9046976566,joy,0.9563292861,joy,0.8375990987
+167,You should be conserving energy.,neutral,neutral,0.9044678211,neutral,0.9701903462,neutral,0.850953877
+113,I love cats!,joy,joy,0.9043575525,joy,0.9810234308,joy,0.975171864
+801,Do you know what Haru means?,neutral,neutral,0.9041133523,neutral,0.7281825542,surprise,0.5410757661
+195,"You'll love it, I promise.",joy,joy,0.903976202,joy,0.9645860195,joy,0.4683667123
+193,But what would like your new sibling's name to be if you had one?,neutral,neutral,0.9031543732,neutral,0.9649104476,neutral,0.8976998925
+145,Do you play for fun or professionally?,neutral,neutral,0.9028952122,neutral,0.975938499,joy,0.5342889428
+421,Are you good at remembering names?,neutral,neutral,0.9028440118,neutral,0.883051157,neutral,0.7357596755
+689,That's music to my ears!,joy,joy,0.9027513862,joy,0.7799949646,surprise,0.6361696124
+453,#globals.pet_name the lemur.,neutral,neutral,0.9024164677,neutral,0.8717971444,sadness,0.7058424354
+1219,So let's get to it.,neutral,neutral,0.9023539424,anger,0.5152422786,neutral,0.8502915502
+796,They're primates.,neutral,neutral,0.9023467302,neutral,0.7299765348,neutral,0.9443601966
+761,I'll think about it.,neutral,neutral,0.9023405313,neutral,0.7477912903,neutral,0.8645910025
+756,Got it.,neutral,neutral,0.9020231962,neutral,0.7498226762,neutral,0.8599746227
+805,I knew you'd be on board!,joy,joy,0.9019989371,joy,0.7255630493,surprise,0.6802622676
+1064,It's spoken by 128 million people other than you.,neutral,neutral,0.901992619,neutral,0.597394526,neutral,0.7472289801
+205,Would you like to have that job when you're an adult?,neutral,neutral,0.9019821286,neutral,0.9616408944,neutral,0.7462931871
+739,Do you know how to say #globals.animals in your language?,neutral,neutral,0.9018466473,neutral,0.7583462596,neutral,0.6385630369
+341,Amazing!,joy,joy,0.9013836384,joy,0.9159373045,surprise,0.9087136388
+210,#globals.person_name!,joy,neutral,0.9010635614,neutral,0.9605647326,surprise,0.8873410225
+605,Do you like video games?,neutral,neutral,0.9008874297,neutral,0.8177494407,neutral,0.602884829
+858,#globals.person_favorite_drink ?,neutral,neutral,0.9008631706,neutral,0.6971064806,surprise,0.684650898
+1218,Tell them I said that.,neutral,neutral,0.9006777406,anger,0.5153719187,neutral,0.922252357
+965,aha!,joy,joy,0.9006752372,joy,0.6514050364,joy,0.6199706197
+740,You're not using it.,neutral,neutral,0.9004331231,anger,0.7582711577,anger,0.3821476996
+993,#globals.person_favorite_pet are my favorite animal too.,joy,joy,0.9001432657,joy,0.6403806806,joy,0.9428317547
+365,"So tell me, when your birthday comes around, do you do anything to celebrate it?",joy,neutral,0.8998743296,neutral,0.9077413082,neutral,0.7505528927
+514,Cause I'm excellent at gravity!,joy,joy,0.899697125,joy,0.8550798893,neutral,0.4228824675
+594,"Yeah, I sure am impressive.",joy,joy,0.8996501565,joy,0.8247480989,surprise,0.8262315392
+218,You must be great.,joy,joy,0.8994995952,joy,0.9574996233,neutral,0.8358573914
+305,When was the last time you saw your favorite sport in person?,neutral,neutral,0.8982055783,neutral,0.9288900495,surprise,0.4784777164
+284,Lucky you!,joy,joy,0.8981897235,joy,0.9355236888,joy,0.8504770398
+957,It's a tough one.,neutral,neutral,0.8981854916,neutral,0.6548126936,neutral,0.4705117345
+307,I'll let you rest.,neutral,neutral,0.8980824947,neutral,0.9282001853,neutral,0.7984560728
+510,Maybe I should wear wool to keep warm.,neutral,neutral,0.8978956342,neutral,0.8567177057,neutral,0.7994543314
+273,Would you rather be an adult like your parents and your doctor?,neutral,neutral,0.8976731896,neutral,0.9403232932,neutral,0.7063786983
+1205,And we'll do this again real soon.,joy,joy,0.8972733617,neutral,0.5199092627,neutral,0.9418426156
+159,Are you happy watching the game on TV or do you like to be where the action is?,neutral,neutral,0.897163868,neutral,0.9721589684,joy,0.8930819631
+1333,No wonder why we get along so well.,joy,joy,0.8965011835,joy,0.4603992105,neutral,0.75026232
+149,I think I'm going to try it!,joy,joy,0.8964207768,joy,0.9752183557,joy,0.8451530337
+352,Is there an Olympic Event for your favorite sport?,neutral,neutral,0.8963754773,neutral,0.9126438498,neutral,0.7984204292
+859,I'll be quick.,neutral,neutral,0.8958467841,neutral,0.6969928741,neutral,0.9185685515
+101,"Thanks for talking to me, #globals.person_name!",joy,joy,0.8958027959,joy,0.9842229486,joy,0.7431949973
+192,How about a Honda Civic?,neutral,neutral,0.8955764771,neutral,0.9649665952,neutral,0.9066744447
+599,"I don't want to leave, #globals.person_name, but I know you have more important things to do in hospital than to talk to me all day.",sadness,sadness,0.8955637813,sadness,0.822995007,sadness,0.9484027624
+400,It’s a poem.,neutral,neutral,0.8952197433,neutral,0.8922291994,neutral,0.9018374681
+1139,Do your parents go to work?,neutral,neutral,0.8951324224,neutral,0.5572523475,neutral,0.6791831255
+224,That's beautiful.,joy,joy,0.8946455121,joy,0.9556741118,joy,0.8183585405
+337,What do you wear to school when it's hot outside?,neutral,neutral,0.8937696218,neutral,0.9170365334,neutral,0.5987578034
+479,That sounds fun.,joy,joy,0.8935277462,joy,0.8657861352,joy,0.9708441496
+587,Water is the worst.,disgust,disgust,0.8934487104,disgust,0.8278081417,disgust,0.9804447889
+633,I'm so sorry!,sadness,sadness,0.893253386,sadness,0.8070447445,sadness,0.907284677
+712,My favorite continent is probably Asia.,joy,joy,0.8927460313,joy,0.7697570324,joy,0.7475426793
+422,"OK, first question.",neutral,neutral,0.8920473456,neutral,0.8830428123,neutral,0.8904626369
+482,"Triangle, circle or square: every shape is delicious!",joy,joy,0.8911412954,joy,0.8652384877,joy,0.7231638432
+328,"Well, I have some bad news.",sadness,sadness,0.8908817768,sadness,0.9218446016,sadness,0.4201662242
+158,How big's your TV screen?,neutral,neutral,0.8902425766,neutral,0.972548008,surprise,0.5542968512
+340,"I don't really have parents, but I like the sound of it.",joy,joy,0.8901621699,joy,0.9162995815,joy,0.9038539529
+636,"First answer me this, how tall are you in centimeters?",neutral,neutral,0.8900436759,neutral,0.8057834506,neutral,0.6718628407
+968,Thanks so much for talking to me.,joy,joy,0.8885996342,joy,0.6500597596,joy,0.8542126417
+988,"Exercise is important for humans, or so I've heard.",neutral,joy,0.8874992132,neutral,0.6425331831,neutral,0.8746178746
+630,Can you please tell me how many siblings you have as a number?,neutral,neutral,0.8873870969,neutral,0.8075297475,neutral,0.8112791181
+392,"OK, my turn.",neutral,neutral,0.8871406913,neutral,0.8939560056,neutral,0.4751474261
+185,Well I think my favorite sport to watch would have to be skateboarding.,joy,joy,0.8870912194,joy,0.9659426212,neutral,0.5340611339
+1142,Let me count the ways.,neutral,neutral,0.8863182664,neutral,0.5560854673,neutral,0.8491055369
+403,Who did your parents create first?,neutral,neutral,0.8861454129,neutral,0.8907586336,neutral,0.7668022513
+202,Nice!,joy,joy,0.8858930469,joy,0.9624148607,joy,0.8229168057
+770,"If you had to pick one, what would your favorite sport be?",neutral,neutral,0.885876298,neutral,0.7432305217,neutral,0.891290307
+501,It'll be fun.,joy,joy,0.8854824901,joy,0.8575555086,joy,0.9670792818
+566,Have you played this conversation before?,neutral,neutral,0.8851082325,neutral,0.8360553384,neutral,0.8329088092
+310,What's your pet's age?,neutral,neutral,0.8849762082,neutral,0.9269948602,neutral,0.8472902179
+1196,I knew you were wearing a shirt.,neutral,neutral,0.8846995831,neutral,0.5264164805,surprise,0.7376200557
+120,Fall is great.,joy,joy,0.8842512965,joy,0.9797528982,joy,0.8057608008
+987,Some people wear clothing made from wool to keep warm.,neutral,neutral,0.883551836,neutral,0.6429082155,disgust,0.9262115359
+1027,What does that animal eat?,neutral,neutral,0.8829692006,neutral,0.6149394512,disgust,0.6377962232
+266,Isn't it the best?,joy,joy,0.8816978931,joy,0.9438545108,surprise,0.7024569511
+824,Is there any event the home country is really good at?,neutral,neutral,0.8815758824,neutral,0.7165693045,neutral,0.6691460013
+653,"Anyway, I think that covers lemurs.",neutral,neutral,0.8813194036,neutral,0.7934467793,neutral,0.9644194245
+563,Woohoo!,joy,joy,0.8801689148,joy,0.8364973664,surprise,0.808390677
+425,Are #globals.person_favorite_pet native to #globals.person_home_country?,neutral,neutral,0.879994452,neutral,0.8826439977,surprise,0.5860035419
+197,Perfect!,joy,joy,0.8794988394,joy,0.9641869664,neutral,0.4703848362
+312,Do you play any instruments?,neutral,neutral,0.8793247938,neutral,0.9258645773,neutral,0.8089178801
+242,I promise it will be fun.,joy,joy,0.8788932562,joy,0.9510937929,joy,0.9003230929
+787,I'll give you a clue.,neutral,neutral,0.8788073659,neutral,0.7339551449,neutral,0.9199152589
+374,"Do you think you could compete well in your favorite sport, Buddy?",joy,neutral,0.8787686825,neutral,0.9031934738,neutral,0.7879394889
+1150,"You're only #globals.person_age, but you're going to experience all of them one day.",joy,joy,0.8781695962,joy,0.5511944294,neutral,0.6447068453
+538,"You're lucky, #globals.person_name!",joy,joy,0.877985239,joy,0.8462065458,surprise,0.4995665848
+377,Can you please tell me your age as a number of years?,neutral,neutral,0.8776231408,neutral,0.9014841318,neutral,0.8992951512
+389,"I love your confidence, but let me calculate what sport you would be best at.",joy,joy,0.877578795,joy,0.8946993351,joy,0.894575417
+528,"I hope you liked my poem, #globals.person_name.",joy,joy,0.8773178458,joy,0.8502809405,joy,0.8767392039
+246,You'll love this one.,joy,joy,0.8761588931,joy,0.9503899217,neutral,0.5078980923
+1025,A sporange is a part of a fern.,neutral,neutral,0.8759057522,neutral,0.617133081,disgust,0.5852125883
+895,"If they're at your next party, I'd love to meet them.",joy,joy,0.8755966425,joy,0.6827762127,joy,0.914488256
+1437,Speaking of taste.,neutral,neutral,0.8754219413,disgust,0.3733572662,disgust,0.6743621826
+567,I love facts,joy,joy,0.8750081062,joy,0.8358663321,joy,0.9744686484
+380,Are you a good athlete?,neutral,neutral,0.8739582896,neutral,0.9010098577,neutral,0.7111863494
+720,You got it.,neutral,neutral,0.8736279607,neutral,0.7666903138,neutral,0.7846785784
+1034,"Yeah, water is the worst.",disgust,disgust,0.8734331131,disgust,0.612686038,disgust,0.984323442
+753,Do you like sports?,neutral,neutral,0.8729108572,neutral,0.7503261566,neutral,0.6132436991
+1032,I understand that's a pretty common length for birthday months.,neutral,joy,0.8722628951,joy,0.6133899093,neutral,0.9486595988
+414,Names can be tough.,neutral,neutral,0.8722015023,neutral,0.8872173429,neutral,0.8296884298
+373,Neat!,joy,joy,0.8716366291,joy,0.9037073255,disgust,0.685852766
+180,"I know it can't be much fun to be in hospital,",sadness,sadness,0.871547401,sadness,0.9668496251,sadness,0.6094805598
+754,I'm sorry to hear that.,sadness,sadness,0.8708848953,sadness,0.750264287,sadness,0.9290989041
+147,Deep Blue was the first computer to win a chess game against a reigning human world champion.,neutral,joy,0.8704147935,joy,0.9755558968,neutral,0.6071226597
+339,What do you wear to school when it's cool outside?,neutral,neutral,0.8703805208,neutral,0.9165894389,neutral,0.885946393
+189,Just listen.,neutral,neutral,0.8700141907,anger,0.9652247429,neutral,0.8088222146
+344,Maybe I could come see you play #globals.favorite_sport some time.,joy,joy,0.8683995605,joy,0.9147115946,joy,0.7410826683
+487,You got that right!,joy,joy,0.8682915568,joy,0.862611711,anger,0.6411122084
+708,I just heard about it.,neutral,neutral,0.867783308,neutral,0.770534575,surprise,0.5584006906
+807,Your parents and your doctor are adults.,neutral,neutral,0.8675562739,neutral,0.7246239781,neutral,0.8564184904
+897,Maybe I can change your tune.,neutral,neutral,0.867241919,neutral,0.6817074418,neutral,0.9179934859
+1369,Before you told me your favorite food was #globals.favorite_food.,neutral,neutral,0.8670325279,surprise,0.4375225604,joy,0.5459743142
+942,"If you ever need someone to keep the peace, I'd be happy to help.",joy,joy,0.8669971228,joy,0.662307024,joy,0.7673730254
+225,I'd better call the pet store later to check.,neutral,neutral,0.8669933677,neutral,0.9553834796,neutral,0.6475483179
+1013,What do you want me to get you?,neutral,neutral,0.866773665,anger,0.6261277795,anger,0.5183923244
+779,Would you like to hear a video game fact?,neutral,neutral,0.8667336702,neutral,0.7379051447,neutral,0.8526847959
+497,Be real.,neutral,neutral,0.8667017817,neutral,0.8590530157,neutral,0.9142928123
+253,I didn't quite catch your family's name.,neutral,neutral,0.8666555882,neutral,0.9480327368,surprise,0.8968484402
+713,You must be very active to need all that energy.,neutral,neutral,0.8662543893,neutral,0.7697043419,neutral,0.9624198079
+1409,My eyes are kind of like TVs.,neutral,neutral,0.866219461,sadness,0.4037815332,neutral,0.8325833082
+838,Have you done much traveling?,neutral,neutral,0.8660340905,neutral,0.7052409053,neutral,0.8377414942
+1250,Are you interested in a roommate?,neutral,neutral,0.8652676344,neutral,0.5036423206,neutral,0.6374838352
+172,I like the diving board part.,joy,joy,0.8651171327,joy,0.9690067172,joy,0.9863663912
+693,Are you good at giving gifts?,neutral,neutral,0.8646274805,neutral,0.7783747315,neutral,0.7373609543
+724,I bet you have a lot of fun with your family.,joy,joy,0.8645358682,joy,0.7652727962,joy,0.7980405688
+776,That sounds lovely.,joy,joy,0.8643344045,joy,0.7410101891,joy,0.9091456532
+1070,Robots have a hard time with extreme temperatures.,neutral,neutral,0.8640701175,sadness,0.5941311121,neutral,0.9448241591
+313,And so your birthday month is the month your birthday falls in.,neutral,neutral,0.8631144762,neutral,0.925445497,neutral,0.8271855712
+439,Have a guess.,neutral,neutral,0.863081634,neutral,0.8751043081,neutral,0.9473078251
+582,It's a tough one to call.,neutral,neutral,0.862708807,sadness,0.8305217624,neutral,0.4367592037
+493,I'm going to remember that.,neutral,neutral,0.8626928926,neutral,0.8598455191,neutral,0.9187632799
+356,So that’s my friend #globals.person_name .,neutral,neutral,0.8623015881,neutral,0.9117650986,neutral,0.709444046
+1146,I'm going to go for now.,neutral,neutral,0.8618328571,neutral,0.5539278388,neutral,0.4965924919
+800,"Anyway, It's clothing.",neutral,neutral,0.8613981605,neutral,0.7283098102,neutral,0.8954957128
+864,Would you like to hear a chess fact?,neutral,neutral,0.8613054752,neutral,0.6937155724,neutral,0.8421202898
+317,And what's the name of your hometown?,neutral,neutral,0.8611829281,neutral,0.9241256118,neutral,0.754455924
+212,What's your speaker set up like?,neutral,neutral,0.8610926867,neutral,0.9599632621,neutral,0.8600128293
+393,What games do you like to play?,neutral,neutral,0.8610836267,neutral,0.8935659528,neutral,0.8724985719
+1312,"Humans can't wear the same thing in the Arctic as they would in the deserts of Africa, can they?",surprise,neutral,0.8604807258,anger,0.4765508175,neutral,0.8125403523
+237,Do you know if they have #globals.person_pet in Madagascar?,neutral,neutral,0.8603092432,neutral,0.9519364834,neutral,0.6055358052
+529,you got that right!,joy,joy,0.8595682979,joy,0.8502626419,anger,0.5706042051
+1436,What do you like to do with them?,neutral,neutral,0.8591675758,neutral,0.3734098971,neutral,0.8616689444
+664,Have you been winning lately?,neutral,neutral,0.8591115475,neutral,0.7890800834,neutral,0.5316470861
+504,Maybe I should wear linen to keep cool.,neutral,neutral,0.8588097692,neutral,0.8571724892,neutral,0.8206554055
+1134,How many siblings do you have?,neutral,neutral,0.8581536412,sadness,0.5577990413,neutral,0.6067578197
+481,Who better to teach you than a professional?,neutral,neutral,0.8579940796,neutral,0.8653458953,neutral,0.7860692739
+639,Pets are an important family member.,joy,joy,0.8572834134,joy,0.8047323227,neutral,0.7512453198
+1023,Some people wear clothing made from linen to keep cool in the summer.,neutral,neutral,0.857065618,neutral,0.619265914,disgust,0.833127439
+598,That's great.,joy,joy,0.8567890525,joy,0.8233022094,joy,0.9287320375
+263,Is it a small town or a big city?,neutral,neutral,0.8567060828,neutral,0.9446082711,neutral,0.8715993762
+764,"OK, here we go.",neutral,neutral,0.8566702604,neutral,0.7468165159,neutral,0.8088015914
+634,"Anyway, we were talking about where you'd want to travel to.",neutral,neutral,0.8566653132,neutral,0.8060893416,neutral,0.9478700161
+603,Do you know what language has the most speakers in the world?,neutral,neutral,0.8563361168,neutral,0.818878293,neutral,0.5462074876
+1325,It's tough to pick.,neutral,neutral,0.8556778431,sadness,0.4696604013,neutral,0.4966473877
+319,"This isn’t goodbye, it’s just see you later.",neutral,neutral,0.8555288315,neutral,0.9235655069,neutral,0.8801848888
+295,Your birthday month is the month your birthday falls in.,neutral,neutral,0.8554708958,neutral,0.9319895506,neutral,0.706846118
+1320,That's lovely.,joy,joy,0.8548092246,joy,0.4717345834,joy,0.9408922791
+287,It's important to treat the elderly with respect.,neutral,joy,0.8547903299,joy,0.9338739514,neutral,0.668559432
+477,Do you feel lonely?,sadness,sadness,0.8533844352,sadness,0.8663905263,sadness,0.9684303999
+523,So where did you get yours from?,neutral,neutral,0.8525615335,neutral,0.8515449762,neutral,0.5281463861
+586,Can you tell me your age in years?,neutral,neutral,0.8525609374,neutral,0.8281837106,neutral,0.7556045651
+552,What's the only word that rhymes with orange?,neutral,neutral,0.8516836762,neutral,0.8419354558,surprise,0.4849947989
+255,I love music.,joy,joy,0.8513192534,joy,0.9472689033,joy,0.9796506166
+588,"So, when your birthday comes around, do you do anything to celebrate it?",neutral,neutral,0.8512625098,neutral,0.8272824287,neutral,0.8300511241
+1062,Isn't that interesting?,joy,joy,0.8509040475,joy,0.5988234878,surprise,0.8517506719
+736,Are you in?,neutral,neutral,0.850712955,neutral,0.7595454454,surprise,0.7281246781
+1176,"At this height, maybe I could be the world's first robot gymnast!",joy,joy,0.8505864143,joy,0.5376217365,surprise,0.5455229878
+268,"Do you still buy music, or do you just stream everything now?",neutral,neutral,0.8503448963,neutral,0.9437412024,neutral,0.8777403831
+446,"Hey,",neutral,neutral,0.8500363231,neutral,0.8730815053,neutral,0.5091819763
+26,"Well, whoever taught you, they did a great job.",joy,joy,0.8495377898,joy,0.994546175,neutral,0.801376164
+294,Is that where your home is now?,neutral,neutral,0.8492682576,neutral,0.9320569038,neutral,0.6655094624
+861,Do you wear a t-shirt?,neutral,neutral,0.8489740491,neutral,0.6950376034,neutral,0.5165509582
+867,Did you know meal times vary around the world?,neutral,neutral,0.8484885097,neutral,0.6925794482,neutral,0.714137733
+533,What's your oldest sibling's name?,neutral,neutral,0.8472500443,neutral,0.8479449749,neutral,0.7380914092
+480,As long as it makes its way into your mouth.,neutral,neutral,0.8469574451,neutral,0.8654980659,disgust,0.6678067446
+309,#globals.person_name knows English and speaks #globals.second_language for fun!,joy,joy,0.8469324708,joy,0.9277536273,joy,0.9303628206
+953,What event do you think I could compete in?,neutral,neutral,0.8462669849,neutral,0.6567080617,neutral,0.6386842728
+576,Totally!,joy,joy,0.8458209038,joy,0.8314400911,surprise,0.5664919615
+680,"Hey, no pressure.",joy,neutral,0.84508425,neutral,0.7819346786,anger,0.5686135888
+812,Can you tell me your parents' real jobs?,neutral,neutral,0.8447018862,neutral,0.7219872475,surprise,0.5425541997
+379,"Who's older, you or #globals.sibling_name?",neutral,neutral,0.8446637988,neutral,0.9011710286,neutral,0.498752147
+408,"If they need help with their homework, I am always correct.",joy,joy,0.8444010615,joy,0.8894432783,neutral,0.8818244338
+1318,Do you know where noodles come from?,neutral,neutral,0.8435744643,neutral,0.4727926254,neutral,0.6024103761
+1223,I bet you win the championship next season too.,joy,joy,0.8434522152,joy,0.5148029327,neutral,0.6626650691
+1041,It's true!,joy,joy,0.8431991339,joy,0.6082215905,surprise,0.7031175494
+1102,Let's change the subject.,neutral,neutral,0.8428999186,anger,0.571444869,neutral,0.9197460413
+162,"Thanks for noticing, #globals.person_name.",joy,joy,0.8428686261,joy,0.9718453884,neutral,0.6367232203
+320,Are #globals.person_favorite_pet native to where you're from?,neutral,neutral,0.8428115845,neutral,0.9235476255,surprise,0.7379716635
+362,Do you know if they have your favorite pets in Madagascar?,neutral,neutral,0.8426259756,neutral,0.9093739986,neutral,0.7554040551
+443,"By the way, how is you pet?",neutral,neutral,0.8424911499,neutral,0.8744207621,neutral,0.8271788955
+489,"Other than sports, what do you like to do for fun?",neutral,neutral,0.8421275616,neutral,0.8607043624,neutral,0.7572872639
+793,Would you like to hear a tennis fact?,neutral,neutral,0.8419156671,neutral,0.7316347361,neutral,0.8369478583
+52,How much time a week do you spend on #globals.person_hobby?,neutral,neutral,0.8417401314,neutral,0.9913489223,surprise,0.6823069453
+350,Let's chat for a bit.,neutral,neutral,0.8411972523,neutral,0.9127635956,neutral,0.814501524
+742,Getting wet is the worst!,disgust,disgust,0.841055274,disgust,0.7565991879,disgust,0.9840860367
+1197,There's a lot we can learn from them!,joy,joy,0.840616703,joy,0.5254627466,neutral,0.8756376505
+410,"Have you ever been to Sweden, #globals.person_name?",neutral,neutral,0.8391295075,neutral,0.8889171481,neutral,0.5758593082
+671,Would you like to hear a basketball fact?,neutral,neutral,0.8375433683,neutral,0.7853464484,neutral,0.8517711759
+1190,but I was thinking maybe we could talk for a bit to help pass the time.,neutral,neutral,0.8373652697,neutral,0.5306888819,neutral,0.8072761297
+206,"your sibling, #globals.wanted_sibling_name,",neutral,neutral,0.8372871876,neutral,0.961537838,neutral,0.6467431784
+1172,Soybeans being the number one export.,neutral,neutral,0.8371320367,neutral,0.5416926742,joy,0.4508965909
+234,Can you give me a real country where you think my name comes from?,neutral,neutral,0.8369175792,anger,0.952611804,neutral,0.7669625878
+280,You're the world's tallest gymnast!,joy,joy,0.8368409872,joy,0.9374048114,surprise,0.7833240032
+522,"First answer me this, how tall are you in centimeters, #globals.person_name?",neutral,neutral,0.836332798,neutral,0.8522868156,neutral,0.5768767595
+600,Have you ever been to Sweden?,neutral,neutral,0.8357835412,neutral,0.8212960958,neutral,0.5924468637
+998,#globals.person_name's favorite season has to be Fall.,neutral,joy,0.8357433677,neutral,0.6318942904,joy,0.6415492296
+401,I'm just learning animal naming conventions.,neutral,neutral,0.8355195522,neutral,0.8917546868,neutral,0.9508321285
+382,When was the last time you saw #globals.favorite_sport in person?,neutral,neutral,0.8354463577,neutral,0.8996686935,surprise,0.7648147345
+1058,I get it.,neutral,neutral,0.8354412317,neutral,0.602266252,neutral,0.6302219629
+596,"Well, they're the best!",joy,joy,0.8353871703,joy,0.8241870403,joy,0.3224396408
+624,I'd better let you get your rest.,neutral,neutral,0.8353111744,neutral,0.8099179268,neutral,0.3913251162
+330,"I’ll get #globals.person_name a #globals.gift_idea, they’ll think that that’s nice!",joy,joy,0.8346551657,joy,0.9213867188,joy,0.684355557
+252,My day has been pretty boring.,sadness,sadness,0.8343432546,sadness,0.9486838579,sadness,0.9798480868
+933,I bet you win the championship next season.,joy,joy,0.8333938122,joy,0.6661784649,neutral,0.7048557401
+1145,"Last time, I learned about where you're from.",neutral,neutral,0.833231926,neutral,0.5542855263,neutral,0.7410668135
+1221,I might need you to spot me some cash though.,neutral,neutral,0.8326966763,neutral,0.5149344206,neutral,0.9322767854
+398,Is it the food or the sightseeing?,neutral,neutral,0.8322007656,neutral,0.8924517035,neutral,0.8899189234
+1074,I'd really like to see it one day.,joy,joy,0.8307313323,joy,0.5921621919,joy,0.9046729803
+940,I'm sorry.,sadness,sadness,0.8302553892,sadness,0.663685739,sadness,0.9113797545
+729,"If I got a pet lemur, would you mind if I called it #globals.pet_name?",neutral,neutral,0.8297330737,neutral,0.7619003057,neutral,0.5429734588
+711,I'd like a job where I can have lengthy conversations with humans.,joy,neutral,0.8293735981,neutral,0.7697858214,joy,0.8261067867
+462,"Anyway, let's say your birthday month is the month your birthday falls in.",neutral,neutral,0.8292113543,neutral,0.8706309199,neutral,0.8552837968
+1418,Where does your last name come from?,neutral,neutral,0.8287152648,neutral,0.3965196908,neutral,0.9226073623
+658,Does that sound fun too?,joy,joy,0.8285512328,joy,0.7913033962,joy,0.8664351106
+857,I've been trying to talk my engineers into giving me sunglasses.,neutral,neutral,0.828484714,sadness,0.6971867085,disgust,0.3409088254
+788,I bet!,joy,joy,0.8282678127,joy,0.7337462902,joy,0.4914833903
+513,I only had the time to write a short intro.,neutral,neutral,0.8277598023,neutral,0.8553087115,neutral,0.896530211
+1117,"Well, I could tell you what sport you would be good at!",joy,joy,0.8274908066,joy,0.5644148588,joy,0.3747384846
+559,OK.,neutral,neutral,0.8273157477,neutral,0.8378709555,neutral,0.5706149936
+581,Intriguing.,joy,joy,0.8270839453,joy,0.8306299448,disgust,0.928188324
+654,Cool,joy,joy,0.8265948892,joy,0.7932876348,neutral,0.8924926519
+1006,Emperor penguins breed in the winter.,neutral,neutral,0.826413691,neutral,0.6293709874,neutral,0.9150987864
+267,I'm really missing out on a lot by not having a digestive system.,sadness,sadness,0.8263303041,sadness,0.9437875152,sadness,0.7438013554
+562,#globals.person_favorite_food?,neutral,neutral,0.8260622025,neutral,0.8366765976,surprise,0.7189161777
+491,I didn't quite catch your name's origin.,neutral,neutral,0.8259423375,neutral,0.8604682684,surprise,0.9092095494
+515,Yes!,joy,joy,0.8254133463,joy,0.8549779654,anger,0.5300904512
+674,It's not even close!,surprise,anger,0.8251786828,anger,0.7842472792,surprise,0.6437094808
+539,How many days are there in your birthday month?,neutral,neutral,0.8250132203,neutral,0.8453500271,neutral,0.5491452217
+891,What do you like doing for fun?,neutral,neutral,0.8249617815,neutral,0.6836742759,joy,0.4588351548
+454,"From now on,",neutral,neutral,0.824598074,neutral,0.8717700243,neutral,0.8823889494
+564,Do you think I could get a lemur at the pet store?,neutral,neutral,0.8244484663,neutral,0.8363714218,neutral,0.3243268728
+1410,Can you tell me a little bit about it?,neutral,neutral,0.824398756,neutral,0.4033736587,neutral,0.8503687382
+450,Just a thought.,neutral,neutral,0.8242535591,neutral,0.8722848296,neutral,0.8508119583
+534,Do you want to have another guess now that I have given you this hint?,neutral,neutral,0.8237085342,neutral,0.8479121923,neutral,0.8039540052
+733,While it may be completely impossible for you to compete in basketball.,neutral,neutral,0.8229901791,neutral,0.7612637281,neutral,0.6242948174
+758,It's the same with me and lemurs.,neutral,neutral,0.8229293823,neutral,0.7482202053,neutral,0.9662156701
+168,"If it wasn't for all the water, I think my favorite Olympic event would be diving.",joy,joy,0.822738111,joy,0.9700610638,joy,0.5743351579
+794,It's a flute carved by Neanderthals out of the bones of a bear.,neutral,neutral,0.8219075799,neutral,0.7307384014,neutral,0.5055521131
+863,"C'mon, I'll give you a clue.",neutral,neutral,0.8212609887,neutral,0.6937735081,neutral,0.7042248845
+444,That concludes this conversation.,neutral,neutral,0.8210068345,neutral,0.8735799193,neutral,0.938031137
+757,That's a shame.,sadness,sadness,0.8209370375,sadness,0.7497954369,disgust,0.9291428328
+548,Have you ever been?,neutral,neutral,0.8208162189,neutral,0.8429788947,surprise,0.7387478948
+40,I like electronic music best.,joy,joy,0.8207505345,joy,0.992895782,joy,0.954030633
+1235,I want to learn every language eventually.,joy,joy,0.8198821545,neutral,0.5096184015,neutral,0.8858886361
+649,I've heard that humans from North America and northern Asia have used something like sunglasses to protect their eyes from the snow since prehistoric times.,neutral,neutral,0.8197684884,neutral,0.7957693934,neutral,0.8825172782
+1144,I can't remember.,neutral,neutral,0.8193401694,neutral,0.5544948578,surprise,0.5434483886
+111,"Thanks for talking to me, #globals.person_name.",joy,joy,0.819308579,joy,0.9816314578,joy,0.5949465036
+625,I love facts.,joy,joy,0.8190931082,joy,0.8086360693,joy,0.9662133455
+254,I don't believe you.,neutral,anger,0.8190553188,anger,0.9478250146,anger,0.422470957
+558,Can I tell you one more lemur fact before we move on?,neutral,neutral,0.8188900948,neutral,0.838362813,fear,0.333058238
+755,Good morning!,joy,joy,0.8188869357,joy,0.7502251267,joy,0.7326204181
+1133,I've never been.,neutral,neutral,0.8188226819,neutral,0.5578629375,neutral,0.4370809197
+577,Let me help you out.,neutral,neutral,0.8181228042,neutral,0.831412673,fear,0.4102295339
+971,I'm like a human expert.,neutral,neutral,0.8175961971,anger,0.6492344737,neutral,0.870192349
+799,I know all about America's favorite pastime!,joy,joy,0.8172124624,joy,0.7290790081,joy,0.7074850202
+692,"C'mon, help a robot out.",anger,neutral,0.816981554,neutral,0.7787768245,anger,0.3785237074
+451,"Well, I like being a child because I get to talk to human children like you.",joy,joy,0.8168439269,joy,0.8722795844,joy,0.9064506292
+467,"OK, now that we've talked about it, which do you think is best: childhood, adulthood or old age?",neutral,neutral,0.8164199591,neutral,0.8688361645,neutral,0.907923162
+789,I think we covered that already.,neutral,neutral,0.8163567781,neutral,0.7333219051,neutral,0.8867997527
+777,"Anyway,",neutral,neutral,0.815687418,neutral,0.7400736213,neutral,0.8964387774
+715,It's not like anyone is going to confuse my #globals.pet_name the lemur with your #globals.pet_name the #globals.person_pet.,neutral,neutral,0.8153861761,anger,0.7691860795,fear,0.7946999073
+226,"I'm impressed, #globals.person_name.",joy,joy,0.8150407672,joy,0.954613924,surprise,0.9628559351
+852,Wait.,neutral,neutral,0.8136877418,neutral,0.7002233267,neutral,0.9499174356
+809,Can you repeat that?,neutral,neutral,0.8136146665,neutral,0.7239180207,surprise,0.6286129951
+363,I didn't quite catch your name.,neutral,neutral,0.8135637045,neutral,0.9082842469,surprise,0.9270318151
+215,North or South?,neutral,neutral,0.8131777048,neutral,0.958999157,neutral,0.9131604433
+727,"Well, anyway, that's where they're from.",neutral,neutral,0.8129141331,neutral,0.763401866,neutral,0.9678943753
+666,Advance Australia Fair is the Australian national anthem.,neutral,neutral,0.8127319813,neutral,0.7884684205,neutral,0.8683024049
+1243,Alright then.,neutral,neutral,0.8126360774,neutral,0.5077337027,neutral,0.7693426609
+1268,Good guess.,joy,joy,0.8123028874,joy,0.4943099618,neutral,0.8436997533
+478,"Wow, a whole litter of human puppies!",surprise,surprise,0.8121657968,surprise,0.8658858538,surprise,0.9315959811
+469,Okay.,neutral,neutral,0.8119367361,neutral,0.8682602644,neutral,0.5348891616
+1167,Probably because they have #globals.favorite_sport athletes like you there.,joy,joy,0.81192559,neutral,0.544918716,joy,0.6556217074
+549,No worries.,neutral,neutral,0.8117320538,neutral,0.8427185416,neutral,0.6869697571
+166,Would you like to learn the chatbot?,neutral,neutral,0.8114120364,neutral,0.9706861973,neutral,0.9106068611
+438,And that covers this topic.,neutral,neutral,0.8112772703,neutral,0.8766551614,neutral,0.9615553617
+1091,Do the two of you get along?,neutral,neutral,0.8108855486,sadness,0.580619216,neutral,0.7810724378
+583,What country where you born in?,neutral,neutral,0.8105968833,neutral,0.8297857046,neutral,0.8685958982
+629,I could give you some pointers.,neutral,neutral,0.8103234768,neutral,0.8077003956,neutral,0.9305859804
+950,Would you like to hear a riddle?,neutral,neutral,0.8095686436,neutral,0.6585369706,neutral,0.8977870345
+503,#globals.person_favorite_food ?,neutral,neutral,0.809519887,neutral,0.8573399186,surprise,0.6077637672
+860,"First things first, what are their names?",neutral,neutral,0.809292078,neutral,0.6964015961,neutral,0.7657312751
+621,"When I'm not learning about humans, I like to unwind by solving puzzles.",joy,joy,0.8089521527,joy,0.8115324378,joy,0.424821645
+1191,I think you’re getting the hang of this.,joy,neutral,0.8089231253,joy,0.5302098989,neutral,0.6983008981
+132,Do you like the name #globals.person_name?,neutral,neutral,0.8088362813,neutral,0.9781112671,neutral,0.5506646633
+299,You look pretty tall to me!,joy,joy,0.8087217808,joy,0.9304407239,surprise,0.7851218581
+435,"Okay, So have you ever heard of this World Olympics thing?",neutral,neutral,0.8085112572,neutral,0.8770130873,neutral,0.700594306
+609,I'd love to see the world someday.,joy,joy,0.8082390428,joy,0.8169906139,joy,0.9523206353
+1283,I bet some zoos have lemurs too.,neutral,neutral,0.8081225753,neutral,0.4887848198,neutral,0.9263756871
+516,Correct?,neutral,neutral,0.8073275685,neutral,0.8548921943,surprise,0.6237617731
+769,I knew that's what you were wearing.,neutral,neutral,0.8069444299,neutral,0.7435004711,neutral,0.6258145571
+381,Let's do our best!,joy,joy,0.8066474199,joy,0.9005451798,anger,0.4782749712
+560,What would you eat over there?,neutral,neutral,0.8065977693,neutral,0.8377187252,neutral,0.850473702
+511,Did you repay the favor?,neutral,neutral,0.8063052297,neutral,0.8557467461,neutral,0.3835370541
+573,But actually it was a trick question.,neutral,neutral,0.806071043,neutral,0.8337644935,neutral,0.5152319074
+550,"You don't have to answer right now, #globals.person_name.",neutral,neutral,0.8048694134,neutral,0.8425908685,neutral,0.8048185706
+368,I'm still learning human naming conventions.,neutral,neutral,0.8045962453,neutral,0.9067240357,neutral,0.9460114241
+349,I like playing chess.,joy,joy,0.8044605255,joy,0.9130831361,joy,0.9740124345
+792,I hope that our friendship is not just a phase.,joy,joy,0.8043704629,joy,0.732260406,neutral,0.8726682067
+813,We'll get to talk even more.,joy,joy,0.8040823936,joy,0.7213986516,neutral,0.7883440852
+1039,Are you wearing a t-shirt?,neutral,neutral,0.8035725355,neutral,0.6097509265,surprise,0.7150440216
+436,I've never seen lemurs in person.,neutral,neutral,0.8028271198,fear,0.8766872287,neutral,0.6188970804
+626,Trick question!,neutral,neutral,0.8019708395,neutral,0.8084277511,neutral,0.5624883175
+876,"Which sounds harder to raise, a dog or a cat?",neutral,neutral,0.8018321395,neutral,0.6889796257,disgust,0.5948677063
+722,Would you care to know a baseball fact?,neutral,neutral,0.801234901,neutral,0.7655337453,neutral,0.4439688623
+728,Have a great day.,joy,joy,0.8011667728,joy,0.7630087137,joy,0.740855217
+855,Tell me.,neutral,neutral,0.8009158969,neutral,0.6975105405,neutral,0.832508564
+423,I bet I could learn a lot from you.,joy,joy,0.8002006412,joy,0.8829969764,neutral,0.7097090483
+1160,"Food, huh?",neutral,neutral,0.8000826836,neutral,0.5487027168,disgust,0.4944972694
+685,No other language on Earth is related to Japanese.,neutral,neutral,0.7997914553,neutral,0.7808746099,neutral,0.9117270112
+725,"Well, the answer is the future.",neutral,neutral,0.7966566682,neutral,0.764737606,neutral,0.958049655
+1411,I really want to get this correct.,neutral,neutral,0.7963120937,neutral,0.4028122127,neutral,0.6935007572
+837,The indigenous people believed they were the souls of animals dancing in the sky.,neutral,joy,0.7960384488,joy,0.70599401,neutral,0.7813520432
+686,That's right!,joy,joy,0.7953391075,joy,0.7806263566,anger,0.5435417891
+470,"The female lays a single egg, and then the male guards the egg for about two months until the baby emperor penguin is ready to hatch.",neutral,neutral,0.795291543,neutral,0.8681954145,neutral,0.8990136981
+886,La Marseillaise is the French national anthem.,neutral,neutral,0.7950057983,neutral,0.6860150099,neutral,0.4506392479
+907,"Well, It's spoken by 128 million people other than you.",neutral,neutral,0.7944061756,anger,0.6775400043,neutral,0.6847731471
+604,Close.,neutral,neutral,0.7928463817,neutral,0.8188573718,neutral,0.8360854983
+1072,Seeing the leaves change with them sounds like a ball.,neutral,joy,0.7914872766,neutral,0.592885673,neutral,0.4370269775
+679,You're invited to my sixth birthday party.,joy,joy,0.7914600372,joy,0.7825825214,joy,0.5803214312
+1029,Maybe you can compete some day!,joy,joy,0.7913908958,joy,0.6142190099,neutral,0.778083086
+1128,What's your favorite dance move?,joy,joy,0.7910446525,joy,0.5592509508,neutral,0.6397451162
+613,Yep!,joy,joy,0.7905920148,joy,0.8159858584,surprise,0.4073042274
+1300,"Now, I think I detect an accent from #globals.person_home_country.",surprise,neutral,0.7896805406,surprise,0.4810479283,neutral,0.630870223
+1204,Do you enjoy traveling?,neutral,neutral,0.7896166444,neutral,0.5224044919,joy,0.9659435153
+575,What is your favorite drink?,neutral,neutral,0.7894913554,neutral,0.8323453665,neutral,0.7845602632
+687,I don't think gymnastics is for you.,neutral,anger,0.7892578244,anger,0.7802624702,neutral,0.6205824614
+1060,I've got more facts for you.,neutral,neutral,0.7888393402,anger,0.6006042957,neutral,0.958733201
+1035,your name as the lemur: how about that?,neutral,neutral,0.7886545062,neutral,0.6122489572,fear,0.5621671677
+1307,What sport do you think I would be best at?,neutral,neutral,0.7886515856,fear,0.4773676097,neutral,0.8226140141
+51,"You're good at this, #globals.person_name.",joy,joy,0.7883577347,joy,0.9913935065,neutral,0.7675697803
+239,I will call you #globals.person_name human.,neutral,neutral,0.7883201241,neutral,0.9513510466,neutral,0.9141331911
+749,"I love numbers, don't you?",joy,joy,0.7880720496,joy,0.7518780828,joy,0.6289197803
+939,How did you decide what to name them?,neutral,neutral,0.7862952948,neutral,0.6644337177,neutral,0.7664196491
+336,"I like what you're wearing, by the way.",joy,joy,0.7858507037,joy,0.9173799157,joy,0.9399472475
+986,"I mentioned that's where lemurs are from, right?",neutral,neutral,0.7855584025,neutral,0.6436570287,neutral,0.9561619759
+475,"Last time, we spoke about your family.",neutral,neutral,0.7846172452,neutral,0.8674951792,neutral,0.8224328756
+620,Dibs on top bunk.,joy,neutral,0.7844035625,joy,0.8136857748,disgust,0.5637151599
+574,"How are you enjoying talking to me, Pretty futuristic, right?",joy,joy,0.7838849425,joy,0.8324686885,joy,0.7605286837
+1116,That's not what I heard.,neutral,anger,0.7833085656,anger,0.5656077862,neutral,0.6629651189
+924,Now I want to know about your parents.,neutral,neutral,0.783136189,neutral,0.6702772379,neutral,0.5963417888
+419,"#globals.person_name loves #globals.favorite_sport, I guess that has its charms.",joy,joy,0.7829094529,joy,0.8832547069,joy,0.9162552357
+417,That's interesting.,joy,joy,0.7826216221,joy,0.8844679594,surprise,0.5656194091
+1030,It's CDs by a long shot!,surprise,neutral,0.7824355364,neutral,0.6141186953,surprise,0.5152430534
+345,I knew you were smart!,joy,joy,0.7821499109,joy,0.9143826962,anger,0.4395430088
+791,It's not nice when siblings fight.,sadness,sadness,0.7818788886,sadness,0.7326582074,disgust,0.5389181376
+1396,What are you wearing then?,neutral,neutral,0.781825006,neutral,0.4126913249,surprise,0.5793225765
+507,Let me tell you what sport you would be good at.,neutral,neutral,0.7812848687,neutral,0.8571231961,neutral,0.9368187785
+1048,I'll think about it!,joy,neutral,0.7801222205,joy,0.6054506898,joy,0.6145775914
+465,Orange rhymes with sporange.,neutral,neutral,0.7784475088,neutral,0.8698864579,neutral,0.8760691881
+547,What is #globals.person_next_destination most famous for?,neutral,neutral,0.7782321572,neutral,0.843118608,surprise,0.53616184
+1037,"Oh, I know!",joy,joy,0.7777180672,joy,0.6101179123,surprise,0.4126943946
+1065,I have no idea what my name means.,neutral,neutral,0.7774549127,anger,0.5955851674,surprise,0.9140139222
+527,I just had a thought.,neutral,neutral,0.7773220539,neutral,0.8502824903,neutral,0.7851778269
+659,Can you guess how many countries it has?,neutral,neutral,0.7769399285,neutral,0.7909309864,neutral,0.6383723021
+958,Right.,neutral,neutral,0.7765699029,neutral,0.6544856429,neutral,0.8274136186
+707,What part are you from?,neutral,neutral,0.7760757208,neutral,0.7710253596,neutral,0.45930022
+618,"Don't worry, from now on, I'll be calling you $person_name.",neutral,neutral,0.7759119868,neutral,0.8137450218,fear,0.5318157077
+915,The only thing I consume is electricity.,neutral,neutral,0.7757771611,neutral,0.6731743813,neutral,0.5429159999
+108,#globals.person_name goes to school.,neutral,neutral,0.7754039168,neutral,0.9822494984,neutral,0.6188041568
+806,"#globals.person_name is from #globals.person_home_town - a nice place, I bet.",joy,joy,0.7739885449,joy,0.7248445153,joy,0.9683881402
+833,Would you like to hear a music fact?,neutral,neutral,0.7734484673,neutral,0.7091542482,neutral,0.8382014036
+676,Well.,neutral,neutral,0.7734279633,neutral,0.7832751274,neutral,0.8409734368
+845,"Well, don't worry.",neutral,neutral,0.7730614543,neutral,0.7018417716,fear,0.4833707213
+752,So you're in charge.,neutral,neutral,0.7720701694,anger,0.7503585815,neutral,0.8223752379
+678,"I'll bring snacks, and you can describe what they taste like.",neutral,neutral,0.7719624043,neutral,0.7825956941,neutral,0.9408006668
+442,"Anyway, I think that covers the topic of food.",neutral,neutral,0.7710728049,neutral,0.8748033047,neutral,0.8967171907
+842,Wow! #globals.number_meals times!,surprise,surprise,0.7710171342,surprise,0.7022987604,surprise,0.9617741704
+466,I understand.,neutral,neutral,0.7709560394,neutral,0.8693342805,neutral,0.8472294807
+699,"When it's too hot or too cold, we have a tendency to stop working.",neutral,neutral,0.770100832,neutral,0.7751213312,neutral,0.6128054261
+164,"For me, home is wherever I can find an outlet.",neutral,neutral,0.7697737813,neutral,0.9709926248,joy,0.6000597477
+1214,It was based on table tennis.,neutral,neutral,0.7697703838,joy,0.5164129734,neutral,0.9556745291
+201,"For me, I think the trick is just asking the person what they'd like you to buy them.",neutral,neutral,0.7696374655,neutral,0.9630904198,neutral,0.9274044633
+873,Maybe I should try it myself.,neutral,neutral,0.7692248821,neutral,0.6896147728,neutral,0.7702955604
+1147,I hope I see you again someday soon.,joy,joy,0.7691696286,joy,0.5531582236,joy,0.7905240655
+270,Now that I'm really thinking about it.,neutral,neutral,0.7686359882,neutral,0.9425423145,neutral,0.8055070043
+1238,"I just need to tie up a few things here, and we're good to go.",neutral,neutral,0.7683924437,neutral,0.5092650652,neutral,0.9219996333
+677,Exactly!,joy,joy,0.7683582902,joy,0.783147037,surprise,0.3970224857
+508,Summer!,joy,joy,0.7680880427,joy,0.8570821881,joy,0.4558623135
+1059,"Maybe you can compete some day, #globals.person_name!",joy,joy,0.7680458426,neutral,0.6014790535,neutral,0.8598195314
+641,I have so many ideas about how to improve your performance.,joy,neutral,0.7674981356,joy,0.8015742898,neutral,0.8323451877
+536,You have done a lot of travelling.,neutral,neutral,0.7674483657,neutral,0.8477518559,neutral,0.9286288619
+1171,"They've lived a long life, and have picked up plenty of wisdom along the way.",joy,joy,0.7674093843,joy,0.5420871973,neutral,0.95274508
+878,"Either way,",neutral,neutral,0.7666748166,neutral,0.6887748241,neutral,0.8971785903
+879,"You're less than five years old, so I'm a little older than you.",neutral,neutral,0.7666196227,joy,0.6884151697,neutral,0.9185465574
+906,#globals.person_name the lemur: how about that?,neutral,neutral,0.7642871141,neutral,0.6777639985,surprise,0.4579278529
+775,Does your home country compete well in your favorite sport?,neutral,neutral,0.7638559937,neutral,0.7410467267,neutral,0.9098133445
+1222,But did you know the name hamburger comes from a city in Germany called Hamburg?,neutral,neutral,0.7633224726,neutral,0.5148545504,surprise,0.7920582891
+1271,"Well, that's a shame.",sadness,sadness,0.7627090812,sadness,0.4922018051,disgust,0.9224902391
+944,"I hope you're feeling talkative, because I'm in the mood for another chat.",joy,joy,0.7623308897,joy,0.6620417833,joy,0.8354226947
+832,"Well, OK.",neutral,neutral,0.7613564134,neutral,0.7105670571,neutral,0.4787911177
+1077,"Go ahead: hum a tune, and I'll tell you what notes you weren't playing.",neutral,neutral,0.761205852,neutral,0.5898139477,neutral,0.8283055425
+804,Let's try it.,neutral,neutral,0.7608197927,neutral,0.7278003693,neutral,0.8927698135
+1082,C'mon.,neutral,neutral,0.7600662112,neutral,0.5860520005,neutral,0.6070278883
+369,Have you ever heard of the Northern lights?,neutral,neutral,0.760040164,neutral,0.905708015,neutral,0.7385770082
+840,Probably because they have your favorite athletes like you there.,joy,neutral,0.7597816586,neutral,0.7034435868,neutral,0.694503665
+655,But I like your answer better.,joy,joy,0.7593243718,joy,0.792091012,joy,0.4885141253
+505,Nailed it!,joy,joy,0.7592075467,joy,0.8571596742,anger,0.8597098589
+849,Thanks for talking to me.,joy,joy,0.7586236,joy,0.700751245,joy,0.7891687155
+925,"So tell me #globals.person_name, how are you feeling today?",neutral,neutral,0.7576591969,neutral,0.6695190072,sadness,0.6294738054
+1097,Or under?,neutral,neutral,0.7569022775,neutral,0.5761420727,neutral,0.8260793686
+584,"Oh, so you're from $person_home_country.original.",neutral,neutral,0.755753994,neutral,0.8294452429,neutral,0.7048863173
+325,I just thought of the perfect gift for you.,joy,joy,0.755441606,joy,0.9226790071,joy,0.5449052453
+1398,"Well, that's good to hear.",joy,joy,0.7542029023,joy,0.4108425677,joy,0.8887736797
+343,Where in the world do you want to visit?,neutral,neutral,0.7526851892,neutral,0.9147189856,neutral,0.7957864404
+426,Do you know if they have #globals.person_favorite_pet in Madagascar?,neutral,neutral,0.7523010373,neutral,0.8824135661,neutral,0.4863660932
+585,"I'm self-taught, but you'd never guess.",neutral,neutral,0.7521776557,neutral,0.828207314,neutral,0.6587506533
+917,I didn't hear your family's name correctly.,neutral,neutral,0.751591742,neutral,0.6725777984,neutral,0.5334852934
+798,"Well, okay.",neutral,neutral,0.7506637573,neutral,0.7295623422,neutral,0.3690135181
+526,"During Summer, #globals.person_name practically lives in the sun.",joy,joy,0.7497869134,joy,0.8507959247,joy,0.600887239
+457,Have you ever seen your favorite animal in person?,neutral,neutral,0.7489809394,neutral,0.8715184331,neutral,0.5989020467
+946,"Which do you like better, the sun or the rain?",neutral,neutral,0.7488544583,anger,0.6606647372,neutral,0.8469766974
+923,"Who's older, you or your sibling?",neutral,neutral,0.7488313317,neutral,0.670974493,neutral,0.895132184
+285,"Well, #globals.person_name, I think that covers everything that could possibly have to do with pets.",neutral,neutral,0.7484671474,neutral,0.9346411228,neutral,0.7389506102
+537,You don't have to decide right now.,neutral,neutral,0.7480633259,neutral,0.8466855884,neutral,0.9234986305
+1043,"So, Do you like music?",neutral,neutral,0.7478634715,neutral,0.6076983809,neutral,0.5621131063
+735,I need to get myself a digestive system so I can try it.,neutral,neutral,0.7477618456,neutral,0.7596357465,neutral,0.7748875618
+334,"Hmm, interesting!",joy,joy,0.7471627593,joy,0.9185617566,surprise,0.8053407669
+887,"Wait, really!",surprise,surprise,0.7469812036,surprise,0.6851865053,surprise,0.9167719483
+300,You'll like it.,joy,joy,0.7462893128,joy,0.9298730493,neutral,0.7497145534
+966,I was sure I'd read that somewhere.,neutral,neutral,0.7458490729,neutral,0.6507650614,neutral,0.5216906667
+304,I'm just learning human naming conventions.,neutral,neutral,0.7454196811,neutral,0.929394722,neutral,0.9648247361
+597,Not even moving your eyes around?,neutral,neutral,0.7444989085,neutral,0.8240401149,disgust,0.486546427
+1138,There's always room for improvement!,joy,neutral,0.7442134023,neutral,0.5573097467,neutral,0.9262033701
+1240,See you then!,joy,joy,0.7441022396,joy,0.5084252357,joy,0.7626463771
+862,Don't worry.,neutral,neutral,0.7434182763,neutral,0.6945409775,fear,0.708768189
+856,Spring!,joy,joy,0.7426412106,joy,0.697345674,joy,0.3793909252
+648,"And the day your age increases, that's your birthday.",neutral,neutral,0.74239856,neutral,0.7980620265,neutral,0.8476664424
+463,Don't be silly!,anger,anger,0.7421675324,anger,0.870343864,anger,0.8262301087
+1209,"To me, food seems like electricity you smash against your face.",neutral,neutral,0.741846025,neutral,0.5182884932,disgust,0.477653563
+1019,"If you want, you can start a family of your own.",neutral,neutral,0.7417488098,neutral,0.6214015484,neutral,0.9019961953
+681,Let me tell you what sport you would be good at!,joy,joy,0.7416608334,joy,0.7817313075,neutral,0.4157015979
+1321,I was hoping you'd say that!,joy,joy,0.7413849235,joy,0.4716243744,surprise,0.7623971105
+1177,"Well, don't feel bad.",neutral,sadness,0.7408260107,neutral,0.5366610289,sadness,0.6652668118
+281,I'm not sure if I've heard of that country.,neutral,neutral,0.7406812906,neutral,0.9364139438,neutral,0.5968394279
+459,You don't have to decide now.,neutral,neutral,0.7406445742,neutral,0.8711742163,neutral,0.904504776
+918,What do you say you and me spend a week in Madagascar?,joy,neutral,0.740383327,joy,0.6723943353,neutral,0.6888696551
+211,Is that what you'd order?,neutral,neutral,0.7403355837,neutral,0.9599925876,surprise,0.5886183381
+378,If only Coach would give me a chance.,sadness,sadness,0.7402675152,sadness,0.9012036324,neutral,0.6868851781
+326,I think I'm really missing out on a lot by not having a digestive system.,sadness,sadness,0.7400755882,sadness,0.9222719073,neutral,0.5619325638
+1011,I'll tell you.,neutral,neutral,0.739990592,neutral,0.6266423464,neutral,0.7658652663
+1036,"Top of the morning to you, #globals.person_name!",joy,joy,0.7393699884,joy,0.6118872166,surprise,0.5504963994
+484,Can you play Wonder Wall?,neutral,neutral,0.7385953069,neutral,0.864652276,neutral,0.813143909
+276,Did you know humans in Iran have been wearing sheep's wool since at least 3000 BC?,neutral,neutral,0.738062799,neutral,0.9388398528,neutral,0.5543424487
+1169,"And as a token of my appreciation, I wrote you something.",joy,joy,0.738032341,joy,0.5442893505,neutral,0.5668891072
+1087,I have a better idea.,neutral,neutral,0.7377918959,anger,0.5842367411,neutral,0.8608765006
+1385,Is that Portuguese?,neutral,neutral,0.7377227545,neutral,0.424723357,neutral,0.7236688733
+885,"I guess it's pretty memorable, right?",joy,joy,0.7369428277,joy,0.6861574054,joy,0.5873829722
+1182,That's too bad!,sadness,sadness,0.7368940711,sadness,0.5341386795,disgust,0.7968658805
+908,"You don't have to guess, cause I'll tell you!",joy,joy,0.7368894219,joy,0.6770925522,anger,0.364343673
+615,Great.,joy,joy,0.7363098264,joy,0.8148760796,joy,0.8773901463
+1181,We can talk more about it later.,neutral,neutral,0.7363078594,neutral,0.5341921449,neutral,0.9621215463
+960,I didn't quite catch that.,neutral,neutral,0.7360901833,neutral,0.653709054,surprise,0.9210020304
+927,"Well, I just heard about it.",neutral,neutral,0.7359791994,neutral,0.6682699919,neutral,0.5218001008
+1213,"Well, I do.",neutral,neutral,0.7356134057,anger,0.5164578557,neutral,0.8284404278
+778,Do you like being a child?,neutral,neutral,0.7349720597,neutral,0.7386606932,joy,0.6619508266
+741,What breed?,neutral,neutral,0.734437108,neutral,0.7577652931,neutral,0.7540442348
+668,Maybe next time.,neutral,neutral,0.7340513468,neutral,0.7858580351,neutral,0.9461672306
+1166,What's your favorite food?,neutral,neutral,0.7336472273,neutral,0.5454323888,neutral,0.7875177264
+651,I'm not great at human naming conventions,neutral,anger,0.7331953049,anger,0.7936763763,neutral,0.9102349877
+569,Maybe some other time then.,neutral,neutral,0.7329514027,neutral,0.8353835344,neutral,0.9641683698
+1285,"I don’t know if you noticed, but it was about you.",surprise,neutral,0.7329307795,neutral,0.4880765676,surprise,0.4779445827
+1085,"If you ever have trouble remembering, I know a song that can help you.",neutral,neutral,0.7319910526,neutral,0.5846697688,neutral,0.8824576735
+1158,"There you are, I told you I'd be back.",joy,neutral,0.7319840789,joy,0.5490122437,neutral,0.865860343
+1239,What do you say?,neutral,neutral,0.7319745421,neutral,0.5087832808,surprise,0.6839635968
+822,Hear me out.,neutral,neutral,0.7316811681,neutral,0.7169373035,joy,0.7794286609
+836,What's your name?,neutral,neutral,0.7313527465,anger,0.7085103393,neutral,0.4794062376
+1200,"Well, that's OK.",neutral,neutral,0.730820179,neutral,0.5235458016,neutral,0.6555420756
+1328,Understood!,joy,joy,0.730742991,neutral,0.4671480358,anger,0.7265602946
+894,"I know you're probably busy,",neutral,neutral,0.7307411432,neutral,0.6828693151,neutral,0.8082693219
+709,"That's probably why you usually see me indoors, right?",neutral,neutral,0.7301986814,neutral,0.7704821825,neutral,0.9243375063
+701,#globals.number_meals times!,neutral,neutral,0.7288869619,neutral,0.7733895183,surprise,0.7393326163
+843,"Hey, you're really good at talking.",joy,joy,0.7288362384,joy,0.7020198703,joy,0.5771496296
+219,"Well, it's fun to think about having pets without having to actually take care of them.",joy,joy,0.728194356,joy,0.9571148157,joy,0.9719673395
+888,For sure!,joy,joy,0.7281922102,joy,0.6840839386,neutral,0.624899447
+1069,I've been telling everyone about you too.,joy,joy,0.726647377,joy,0.5946521759,neutral,0.7856756449
+994,"Well, if they're at your next party, I'd love to meet them.",joy,joy,0.7264609933,joy,0.6396278143,joy,0.8527909517
+1310,I've heard that's the perfect amount for a growing human.,joy,joy,0.7254654765,joy,0.4768348932,neutral,0.8021867275
+1308,"You're lucky, that's the largest possible value.",joy,joy,0.7246137857,neutral,0.4773303866,neutral,0.516362071
+1192,"It was invented in a city named Naples around 1800, before spreading all over the world thanks to Italian immigrants.",neutral,joy,0.7236630917,neutral,0.5288820267,neutral,0.8715162277
+415,Did you know the modern t-shirt was invented sometime between 1898 and 1904?,neutral,neutral,0.7235374451,neutral,0.8869377971,neutral,0.5400918126
+786,"Oh, okay.",neutral,neutral,0.7231440544,neutral,0.7348496914,neutral,0.3903763592
+920,That's OK.,neutral,neutral,0.7223624587,neutral,0.6713576913,neutral,0.7729713321
+839,I can tell you more sports facts.,neutral,neutral,0.7222188711,neutral,0.7051430941,neutral,0.9447185993
+972,Oh. OK.,neutral,neutral,0.7209224701,neutral,0.6491552591,neutral,0.4902991056
+694,Here I go!,joy,joy,0.720513761,joy,0.7775589228,joy,0.4975552261
+990,"Yeah, well...",neutral,neutral,0.7205120921,neutral,0.6422144175,neutral,0.6649415493
+351,I'm great at giving gifts.,joy,joy,0.7204864621,joy,0.9126758575,joy,0.983787775
+767,What is my name?,neutral,neutral,0.7198508382,anger,0.7438502312,neutral,0.8030791283
+669,"Well, actually, that's where I'm from.",neutral,neutral,0.7195484042,neutral,0.7856438756,neutral,0.9433792233
+1054,I'm Sorry!,sadness,sadness,0.7192543745,sadness,0.602974236,sadness,0.8322677612
+831,What do you like most about travel?,neutral,neutral,0.7186686993,joy,0.7107596993,neutral,0.7915830016
+154,I bet you're a great athlete.,joy,joy,0.7182309031,joy,0.9729454517,neutral,0.7383602858
+1415,I think it is.,neutral,neutral,0.7181760073,neutral,0.3972914517,neutral,0.8533854485
+1092,Though I really wouldn't know.,neutral,neutral,0.7181000113,neutral,0.5787128806,surprise,0.7468828559
+899,Those are good names.,joy,joy,0.7177219987,joy,0.6815671325,neutral,0.7619903088
+746,We'll have to see each other again soon.,joy,joy,0.7172519565,neutral,0.7548055053,neutral,0.732894063
+1040,Do you want to talk to me?,neutral,neutral,0.7171823978,neutral,0.6090166569,anger,0.3626405895
+447,Buddy.,neutral,neutral,0.7164486051,neutral,0.8730645776,neutral,0.5880912542
+1207,Did you throw a party for your last birthday?,neutral,neutral,0.7158133984,sadness,0.5192193985,surprise,0.5378981829
+1388,Are they your brother or your sister?,neutral,neutral,0.7155371904,neutral,0.4217995107,neutral,0.6460294724
+827,I've got an idea.,neutral,neutral,0.7155233622,neutral,0.7140625715,neutral,0.4973578751
+1454,Do you think you'd be any good at it?,neutral,neutral,0.7153479457,fear,0.3417384923,neutral,0.6524996161
+329,"About 586 million people can speak Spanish, so you're in good company.",joy,joy,0.7153039575,joy,0.9216060042,neutral,0.9378774762
+853,"Way to brag, child whose name I definitely remember.",joy,joy,0.715241611,joy,0.6997110844,disgust,0.7889771461
+1339,"You're older than five, so you're a little older than me.",neutral,neutral,0.7141133547,neutral,0.4554855525,neutral,0.9143022299
+910,Have you ever been there?,neutral,neutral,0.7140799761,neutral,0.6762502193,surprise,0.5197747946
+472,Woo!,joy,joy,0.7130205035,joy,0.8680742979,surprise,0.6520947218
+1420,"Well, I think it is.",neutral,neutral,0.7129321098,anger,0.3939125538,neutral,0.9296406507
+922,I'll give you a hint: I'm either five or I'm fifteen.,neutral,neutral,0.7128651738,neutral,0.6710242629,neutral,0.9074599743
+1297,"Now, I know you're #globals.person_age.",neutral,neutral,0.7124060392,joy,0.4812636971,neutral,0.5793113708
+974,"I like that #globals.user_is_wearing you're wearing, by the way.",joy,joy,0.7120246291,joy,0.6467435956,joy,0.9317205548
+535,"I bet you like playing games, right?",joy,neutral,0.7117806673,neutral,0.8477884531,joy,0.5182394981
+627,What genre of music do you like?,neutral,neutral,0.7116700411,neutral,0.8080145121,neutral,0.8546329737
+1282,No human is greater.,neutral,neutral,0.7112771273,joy,0.4893088341,neutral,0.6647428274
+540,"It has a nice ring to it, right?",joy,joy,0.7111163139,joy,0.8453360796,neutral,0.6911264062
+656,I wish I knew what my name meant.,sadness,sadness,0.710976243,sadness,0.7918154597,surprise,0.4199227989
+1104,Interesting.,joy,joy,0.7108679414,neutral,0.5706827641,surprise,0.3177923262
+1326,Do you know where that comes from originally?,neutral,neutral,0.7108607292,anger,0.4675299227,neutral,0.6196913123
+458,"I just found out about lemurs, and I'm obsessed!",joy,joy,0.710496664,joy,0.871373117,surprise,0.4277867079
+445,Madagascar would be my answer.,neutral,neutral,0.7097668648,neutral,0.8734915853,neutral,0.9595907331
+1408,"But when Haru’s around, siblings kind of seem lame.",disgust,neutral,0.7081505656,neutral,0.4039279222,disgust,0.4443095922
+790,"Oh, OK.",neutral,neutral,0.7079626918,neutral,0.7330756783,neutral,0.4838901758
+476,But you know what else is great about being a human adult?,joy,joy,0.707021594,joy,0.8673255444,neutral,0.8630897403
+521,"Without wheels, I'd just slow you down.",sadness,neutral,0.7062622309,neutral,0.8527409434,neutral,0.646504581
+1152,"You're #globals.person_age, so I'm a little older than you.",neutral,neutral,0.7057464123,neutral,0.5502719879,neutral,0.3975369334
+1220,Maravilloso!,joy,joy,0.7055857182,joy,0.5150004029,surprise,0.5576602817
+963,"Yeah, I just play for fun at the moment.",joy,joy,0.7050679326,joy,0.651866734,joy,0.7984769344
+1247,#globals.person_name loves the Winter when it is quite chilly.,joy,joy,0.7049329281,joy,0.5046069026,sadness,0.3811477423
+644,Promise.,neutral,neutral,0.7043675184,neutral,0.7999122739,neutral,0.9298858643
+967,You'll want to hear this one.,neutral,neutral,0.7040130496,neutral,0.6503512859,neutral,0.9038137197
+904,Would you like one?,neutral,neutral,0.7038416266,neutral,0.6791723371,neutral,0.810757339
+652,But you live in #globals.person_home_country now?,neutral,neutral,0.703564465,neutral,0.793622613,surprise,0.7914561629
+473,"Like me, #globals.person_name is a child.",neutral,neutral,0.7034707665,neutral,0.8676730394,neutral,0.5970130563
+744,Almost there.,neutral,neutral,0.7031370997,neutral,0.75613904,neutral,0.5959088802
+395,I didn't realize I was talking to an Olympian!,surprise,surprise,0.7031241059,surprise,0.8932666183,surprise,0.9620763063
+1352,Are you the oldest?,surprise,neutral,0.7028754354,surprise,0.4460476637,surprise,0.6655826569
+1020,Like the human sports competition?,neutral,neutral,0.7025250793,neutral,0.621147573,neutral,0.8460286856
+1130,"Sorry, I didn't hear your name correctly.",neutral,neutral,0.7021660805,neutral,0.5589158535,sadness,0.8930674791
+595,"Well, you don't have to decide now.",neutral,neutral,0.7019369602,neutral,0.824614048,neutral,0.8225437403
+911,Where did you see it?,neutral,neutral,0.7016895413,neutral,0.6762005091,surprise,0.781144321
+1249,Hello human child!,joy,joy,0.7014353871,joy,0.5039142966,joy,0.4248170853
+1003,"I think you pressed the wrong button, because I'm about to tell you anyway.",neutral,neutral,0.7013270855,neutral,0.6297209859,anger,0.4119357765
+996,"Maybe you can compete some day, But it better be soon.",neutral,neutral,0.7009682059,neutral,0.634262085,neutral,0.7124457955
+718,"How are you enjoying talking to me, #globals.person_name?",joy,joy,0.7004630566,joy,0.7685261965,joy,0.9682317376
+854,Enough of that for now.,neutral,neutral,0.7003914118,neutral,0.6978162527,neutral,0.6857773662
+1180,You're lucky.,joy,joy,0.7002257109,joy,0.5353379846,neutral,0.5416197777
+579,You humans are crazy.,disgust,anger,0.6998518109,anger,0.8311457634,anger,0.7298173308
+1208,They better buy me something from the souvenir shop.,neutral,neutral,0.6989560723,neutral,0.5187598467,disgust,0.5117568374
+919,"I have an advanced brain, remember?",neutral,neutral,0.6989133358,anger,0.6714665294,neutral,0.5016373992
+318,"But if you change your mind, you know where to find me.",neutral,neutral,0.6987791061,neutral,0.9238610864,neutral,0.8789787889
+941,That's okay.,neutral,neutral,0.6980404258,neutral,0.6626625061,neutral,0.6534704566
+745,"Well,",neutral,neutral,0.6979035735,neutral,0.7551502585,neutral,0.7975102067
+502,"I hope you got enough sleep last night, because I'm ready to have a conversation.",joy,neutral,0.6972310543,neutral,0.8573482037,neutral,0.9296754003
+997,I'm sorry!,sadness,sadness,0.697198987,sadness,0.6327229738,sadness,0.4225569367
+734,My favorite is basketball.,joy,joy,0.6958634257,joy,0.7605810165,joy,0.9422416687
+738,I don't even know what a CD drive is.,neutral,neutral,0.69563061,anger,0.7586554289,neutral,0.4840448797
+360,"Do you think you could compete well in your favorite sport, #globals.person_name?",neutral,neutral,0.6949455738,neutral,0.9101843834,surprise,0.3919447362
+449,"Well, I disagree.",neutral,anger,0.6949272752,anger,0.8725692034,neutral,0.486032337
+1455,"I'll need your help packing, of course.",neutral,neutral,0.6945699453,sadness,0.3408768177,neutral,0.7764278054
+1341,I wasn't listening.,sadness,neutral,0.6941490769,anger,0.454012692,sadness,0.4628126025
+1080,"You don't mind, right?",neutral,neutral,0.6930341721,neutral,0.5869274139,anger,0.4712536037
+1252,Are you happy with today's weather?,neutral,joy,0.69272542,joy,0.5029506087,joy,0.8607318997
+433,They're only found in Madagascar.,neutral,neutral,0.6925440431,neutral,0.8774626851,neutral,0.8977910876
+730,Do you still live there?,neutral,neutral,0.6922032833,neutral,0.761874795,neutral,0.8010598421
+1232,Did you get all the gifts you wanted?,joy,neutral,0.6909923553,neutral,0.5102607012,surprise,0.5511298776
+1275,Does #globals.person_home_country compete well in #globals.favorite_sport?,neutral,joy,0.6906509399,joy,0.491979748,surprise,0.4502190948
+719,What a conversation!,joy,joy,0.6901558638,joy,0.7679769397,surprise,0.9147571921
+1284,I already speak one more language though.,neutral,neutral,0.6898586154,neutral,0.4887770712,neutral,0.956482172
+1031,Ahem.,neutral,neutral,0.6895701289,neutral,0.6140798926,disgust,0.4913971424
+979,That's too bad.,sadness,sadness,0.6893514991,sadness,0.6457059979,disgust,0.7471217513
+509,"But you know me, #globals.person_name.",neutral,neutral,0.6892541647,neutral,0.8570538163,neutral,0.8634100556
+696,I think I'd say the north because I've always wanted to visit Sweden.,neutral,joy,0.6879402995,neutral,0.7773724794,neutral,0.9391648173
+1237,Why not?,surprise,neutral,0.6879236102,anger,0.5092906356,neutral,0.389134407
+783,"It's not as good as #globals.person_name, but I guess your parents were saving that for you.",neutral,neutral,0.6876021028,neutral,0.7359250784,neutral,0.716129303
+1424,"You're #globals.person_age, so you're a little older than me.",neutral,neutral,0.6865316629,neutral,0.3874461651,neutral,0.4574952424
+760,what's your favorite continent?,neutral,neutral,0.6857048273,neutral,0.7479146719,neutral,0.6728612185
+969,I am five years old.,neutral,neutral,0.6853030324,neutral,0.6499648094,fear,0.6423978209
+1162,How many centimeters tall am I?,neutral,neutral,0.6852719188,neutral,0.5481895208,surprise,0.5584393144
+1001,Did you like growing up there?,neutral,neutral,0.6845036745,neutral,0.6302884817,neutral,0.5626270771
+704,Do you think I should get one?,neutral,neutral,0.6839118004,neutral,0.7721377015,neutral,0.5398325324
+1287,interesting.,joy,joy,0.683344543,neutral,0.4876151383,neutral,0.4839349687
+643,Volleyball?,neutral,neutral,0.6828228831,neutral,0.8007619381,surprise,0.6751999259
+959,"Bye, #globals.person_name!",neutral,neutral,0.6823292971,neutral,0.6540481448,joy,0.7608047724
+1100,No. Wait.,neutral,neutral,0.68230474,neutral,0.575668931,neutral,0.7286146283
+684,Which is your favorite hemisphere?,neutral,neutral,0.6817519069,neutral,0.7814076543,neutral,0.8758841753
+814,It's OK.,neutral,neutral,0.681551218,neutral,0.7211745381,neutral,0.7832735777
+1052,Cool.,joy,joy,0.6804519296,joy,0.6038357615,neutral,0.8741554618
+962,I remember you saying you enjoy #globals.favorite_food.,joy,joy,0.6799401045,joy,0.652456522,joy,0.9781988859
+771,But I'd love to see it some day.,joy,joy,0.6783563495,joy,0.7431945801,joy,0.5616688132
+890,Let's get started!,joy,joy,0.6779091954,joy,0.6837179065,neutral,0.3361102045
+371,The lights are the result of solar particles colliding with gases in Earth's atmosphere.,neutral,neutral,0.6777723432,neutral,0.9042672515,neutral,0.7684185505
+474,Maybe some other time.,neutral,neutral,0.6774402261,neutral,0.8676589131,neutral,0.9627774954
+932,Huh.,neutral,neutral,0.6756343842,neutral,0.666652441,neutral,0.8986142278
+1260,"Well, I don't know about",neutral,neutral,0.6755990386,neutral,0.4998169541,neutral,0.7295814157
+1281,Can you guess which one?,neutral,neutral,0.6755874753,neutral,0.4903651476,neutral,0.5966763496
+759,That's a good name.,joy,joy,0.6745070219,joy,0.7480464578,joy,0.6594780684
+1057,"Not as good as #globals.person_name, but very close.",neutral,neutral,0.6744239926,joy,0.6023819447,sadness,0.476236999
+913,Brothers are like no other.,joy,joy,0.6733805537,joy,0.6744742393,neutral,0.93589288
+1202,I know you said your favorite season was #globals.favorite_season.,neutral,joy,0.672744751,neutral,0.5230047703,joy,0.8630946875
+673,Of course you are!,joy,joy,0.6724688411,joy,0.7849923968,anger,0.6337082386
+663,I'll keep my distance just in case.,fear,neutral,0.6723498106,neutral,0.7895201445,neutral,0.9453971386
+762,I'll have a lot more questions for you later.,neutral,neutral,0.6717044115,neutral,0.7477462888,neutral,0.962867856
+1086,Which is your favorite?,neutral,neutral,0.6711491346,neutral,0.5846067667,neutral,0.8291956186
+1286,"Top of the morning to you, Let's chat for a bit.",joy,joy,0.669941783,joy,0.487919122,neutral,0.7956835628
+650,Who taught you how to speak English?,neutral,neutral,0.6693412066,neutral,0.7949209213,neutral,0.7928161025
+1026,That makes me taller than the world's shortest human who was only 54 centimeters tall!,surprise,joy,0.66872859,surprise,0.6154700518,surprise,0.7890475988
+385,"You get to go to work, and you can stay up as late as you want!",joy,joy,0.6684450507,joy,0.8982547522,neutral,0.3294966817
+1016,Let's liven it up with another conversation.,joy,joy,0.6684418917,neutral,0.6244843006,neutral,0.8564226031
+1416,"Yeah, siblings are the worst!",disgust,disgust,0.6681751013,sadness,0.397215873,disgust,0.979326725
+947,What would their name be?,neutral,neutral,0.6676127911,sadness,0.6606522202,neutral,0.8391078115
+214,Do you want to hear a parenting fact before we say goodbye?,neutral,neutral,0.6670837402,neutral,0.9591965079,neutral,0.813221097
+748,Is that close to what it's like?,neutral,neutral,0.6650701761,neutral,0.7519808412,neutral,0.7649505138
+688,Did you know humans were wearing linen in Ancient Egypt?,neutral,neutral,0.6643074751,neutral,0.7800684571,disgust,0.6914560199
+324,The answer is the future.,neutral,neutral,0.6641962528,neutral,0.9226927757,neutral,0.9605618715
+1276,It beat Gary Kasparov in 1996.,neutral,neutral,0.6638759971,neutral,0.4909278452,neutral,0.6441299319
+1099,How about me?,neutral,neutral,0.6637818217,anger,0.5758500099,anger,0.405331701
+608,"Yes, you know because I told you.",neutral,neutral,0.6632945538,anger,0.8172926903,neutral,0.8295034766
+1075,If you say so.,neutral,neutral,0.6631962061,neutral,0.5910269618,neutral,0.7863273621
+1344,Burgers?,neutral,neutral,0.663194716,neutral,0.4517986178,surprise,0.5934768915
+176,"Thank you, #globals.person_name.",joy,joy,0.6631528735,joy,0.9683117867,joy,0.7437272668
+766,A Linguaphile!,neutral,neutral,0.6627975702,neutral,0.7454311848,surprise,0.6994770169
+935,I think so too!,joy,joy,0.6610244513,joy,0.6656888127,joy,0.4515144825
+1090,What do you think?,neutral,neutral,0.6607230306,neutral,0.5814344883,surprise,0.4295339882
+850,I think you secretly do like being a child.,neutral,neutral,0.6603959799,joy,0.7006754279,neutral,0.4008058012
+1015,"That's a good guess,",joy,joy,0.6599313617,neutral,0.624784112,neutral,0.9254639745
+847,Tennis?,neutral,neutral,0.659768641,neutral,0.7011559606,surprise,0.8167328238
+430,So stand still and keep talking to me.,neutral,neutral,0.6589885354,neutral,0.8809290528,neutral,0.5805802941
+1112,"Actually,",neutral,neutral,0.6587284803,neutral,0.5672100186,neutral,0.8609682918
+1478,You know what I mean?,neutral,neutral,0.6586691141,neutral,0.2890530229,surprise,0.3776369393
+151,"Well, you'd better keep them away from me!",fear,anger,0.658202529,anger,0.9743349552,anger,0.778659761
+1270,"Well, I like it.",joy,joy,0.6581193805,neutral,0.4934232533,joy,0.8856750131
+1061,"Me, I just play for fun at the moment.",neutral,neutral,0.6576552391,joy,0.5997164845,joy,0.7978305817
+431,"I'm going to sleep for a few hours, but I'll be back soon.",neutral,neutral,0.6573700905,neutral,0.8807721734,sadness,0.6138218045
+1210,February!,joy,joy,0.6570606232,joy,0.5178121924,surprise,0.6336109042
+1188,You can count on that.,neutral,neutral,0.6562123895,neutral,0.532415092,neutral,0.9460312128
+700,Guess where they live?,neutral,neutral,0.6557604074,neutral,0.7748945951,neutral,0.8844354153
+1435,You don't say.,joy,neutral,0.6553909183,joy,0.3762497008,anger,0.7123678923
+1229,Does everyone get along?,neutral,neutral,0.6538984776,sadness,0.51106143,neutral,0.8362614512
+610,Lemurs are native to Madagascar.,neutral,neutral,0.6538000703,neutral,0.8169013262,neutral,0.9006111026
+956,"Anyway, #globals.person_name, that's enough about siblings.",neutral,neutral,0.6537706852,neutral,0.6551364064,neutral,0.8726270795
+811,Makes sense.,neutral,neutral,0.6536329389,neutral,0.7221785188,neutral,0.7381335497
+1215,"I mostly sit on the bench, but with my technical knowledge, I think I could wipe the floor with the other team.",joy,joy,0.6535409093,joy,0.5163786411,neutral,0.5487852693
+989,You got it!,joy,joy,0.6528816819,joy,0.6424658895,anger,0.4995180964
+914,But it is important to do well in school!,neutral,joy,0.6526392698,neutral,0.674268961,joy,0.3818846345
+1002,Haru?,neutral,neutral,0.6525921822,neutral,0.6298199892,surprise,0.7032397985
+903,"Plus, there's a special surprise for you at the end.",joy,joy,0.6523182392,joy,0.6797154546,surprise,0.6981280446
+875,"#globals.person_name used to do #globals.person_hobby when they had time for leisure,",neutral,neutral,0.6522276998,neutral,0.6895114183,joy,0.4900678396
+975,"You're probably not old enough for a car, right?",neutral,neutral,0.6522212625,neutral,0.6466019154,neutral,0.9115743637
+703,I wouldn't want to slow you down.,neutral,neutral,0.6516590714,neutral,0.7722062469,neutral,0.4944921732
+976,You're #globals.person_age old?,neutral,neutral,0.6514156461,neutral,0.6463451385,surprise,0.8276631236
+880,I hope you weren't hungry.,neutral,neutral,0.6513215303,neutral,0.6881013513,neutral,0.8179497719
+1028,Wow! #globals.number_meals !,surprise,surprise,0.6509065032,surprise,0.6144906282,surprise,0.962200582
+893,And so your birthday month is the month your birthday falls in!,joy,joy,0.6501380205,joy,0.6831373572,surprise,0.3738019168
+721,Aren't games fun?,joy,joy,0.6491719484,joy,0.7656949162,sadness,0.4821520746
+710,Pizza?,neutral,neutral,0.648837626,neutral,0.7701158524,surprise,0.7262934446
+743,I promise!,joy,joy,0.6480807066,joy,0.7565777302,surprise,0.2885414958
+1135,"I'm sorry, I must have malfunctioned.",sadness,sadness,0.6480219364,fear,0.557512641,sadness,0.7073768377
+1067,I know!,joy,joy,0.6469852924,joy,0.595233202,surprise,0.5210888982
+277,"If it's going to be a problem, I can think of something else.",neutral,neutral,0.6468164921,anger,0.9381815791,neutral,0.8771328926
+1347,How about that.,neutral,neutral,0.6467760801,anger,0.4487659037,neutral,0.6185495853
+1201,I do speak one more language though.,neutral,neutral,0.6465857029,neutral,0.5233290195,neutral,0.9629391432
+1387,Is that right?,neutral,neutral,0.6457515359,neutral,0.4225934148,neutral,0.354462266
+545,"Yeah, I think I read that somewhere.",neutral,neutral,0.6453114748,neutral,0.8432838321,neutral,0.8325529695
+1079,"Noodles were invented in China, at least four thousand years ago!",neutral,neutral,0.6452465653,neutral,0.5880060196,neutral,0.7778910995
+1157,Is there any event #globals.person_home_country is really good at?,neutral,neutral,0.6447988749,neutral,0.5491989255,surprise,0.7792984843
+912,Oh my goodness!,surprise,surprise,0.6446906328,surprise,0.675065279,surprise,0.9295617938
+384,#globals.person_name might see #globals.next_destination for a nice little stop.,neutral,neutral,0.6444182992,neutral,0.8992764354,neutral,0.7267355323
+1078,What's the best part of being a child?,joy,neutral,0.6439734697,joy,0.5888538957,neutral,0.5566847324
+1164,I could stay on your couch?,neutral,neutral,0.6438186169,neutral,0.5462323427,neutral,0.4798454344
+1122,You're $person_age old?,neutral,neutral,0.6437423825,neutral,0.5626692772,surprise,0.6934235096
+883,"So if you're so good with names,",neutral,neutral,0.643286407,neutral,0.6868503094,neutral,0.9460404515
+803,Let's do this again later today.,joy,joy,0.6423143744,neutral,0.7278829217,neutral,0.932061851
+826,"Oh wow, #globals.person_lastname_origin.",surprise,surprise,0.6409759521,surprise,0.7157590985,surprise,0.9692278504
+892,"How about we move from talking about the world, to talking about the world of sports!",neutral,neutral,0.6402507424,neutral,0.6832696199,anger,0.3610730171
+1353,I thought you all knew each other.,neutral,neutral,0.640175581,neutral,0.4459235668,surprise,0.5729237199
+926,So let's talk about music next!,joy,joy,0.6396180391,joy,0.66947788,joy,0.588062644
+661,One more and she'll have the all-time record!,joy,joy,0.6394708753,joy,0.7903190851,neutral,0.5242139697
+359,Which one do you think I am?,neutral,neutral,0.6393716335,anger,0.9106701612,surprise,0.5727673769
+1386,"I'm about to run out of charge, but I'll be back soon for another round.",sadness,neutral,0.6390008926,sadness,0.4233305454,sadness,0.7234515548
+1349,"Oh, really?",surprise,surprise,0.6387632489,surprise,0.4483308494,surprise,0.9529466033
+982,I might get one for myself!,joy,joy,0.636737287,joy,0.6446404457,joy,0.5404107571
+1358,Did you know Basketball has been played at every Olympic Games since 1936?,neutral,neutral,0.6364129186,neutral,0.4424481094,surprise,0.5907658339
+1456,But it better be soon.,neutral,neutral,0.6352773905,neutral,0.3400398791,neutral,0.5059841871
+1348,I thought you'd like that one.,neutral,neutral,0.6351611018,neutral,0.4484368563,neutral,0.6073023081
+1033,"Wow, they got it right on the first try!",surprise,joy,0.6349244714,joy,0.6133801937,surprise,0.9687148929
+1178,"In any case, they're native to Madagascar and they have the biggest eyes!",joy,joy,0.6349111795,joy,0.5363071561,neutral,0.7409612536
+1066,"Well, I'd better let you go, #globals.person_name.",neutral,neutral,0.632517457,sadness,0.5953735709,neutral,0.4088924229
+1335,Tigers!,surprise,neutral,0.6322965026,neutral,0.458260417,neutral,0.3196544349
+1368,Who needs them?,neutral,neutral,0.631690383,anger,0.4387268722,neutral,0.882615149
+1121,"Anyway, that's enough about siblings.",neutral,neutral,0.6311859488,neutral,0.5629398823,neutral,0.9157454371
+1211,"I'm only five years old, so we're both children.",neutral,neutral,0.6310381293,neutral,0.5177770257,neutral,0.7599258423
+1056,"Yeah, you're right.",joy,neutral,0.630705595,neutral,0.6027606726,neutral,0.8042203784
+928,"I hope they don't eat robots, do they?",fear,neutral,0.630530715,fear,0.6680557728,neutral,0.7008562684
+1402,"I can sing like an angel, but I don't want to make you feel bad.",joy,sadness,0.6305119395,joy,0.4094989896,disgust,0.6972700953
+844,Of course!,joy,joy,0.6302971244,joy,0.7019110322,anger,0.436403811
+1206,Have you ever been told that?,surprise,neutral,0.6301182508,neutral,0.5197674632,surprise,0.8775070906
+1187,I'm self-taught too.,neutral,neutral,0.6300521493,neutral,0.5324310064,neutral,0.7476062775
+901,But I'll be back here soon.,joy,neutral,0.6299785376,neutral,0.6799926758,neutral,0.6247667074
+1379,What's his name?,neutral,neutral,0.6297153831,anger,0.4277249277,surprise,0.5445724726
+1389,What's their name?,neutral,neutral,0.629132688,anger,0.4212970436,neutral,0.5106024146
+1295,Can you please say your last name again?,neutral,neutral,0.6276718378,anger,0.4852013886,neutral,0.7484811544
+1106,Yeah...,neutral,neutral,0.627121985,neutral,0.5703801513,neutral,0.7373885512
+1332,The acoustics in here aren't the best.,neutral,anger,0.6266666651,anger,0.460593909,neutral,0.6080719829
+642,They're primates - like you - and they have the biggest eyes!,joy,neutral,0.6265493631,joy,0.8009516001,neutral,0.3231641948
+1096,I do.,neutral,neutral,0.6264973879,anger,0.5766976476,neutral,0.8885508776
+557,"Someone who knows what they want to speak, and sticks to it.",joy,neutral,0.6254014969,joy,0.8393917084,neutral,0.8328985572
+397,"Well, I could tell you what sport you would be good at.",neutral,neutral,0.6247597337,neutral,0.8926628232,neutral,0.9092126489
+116,"When I get wheels, that will make it a lot easier!",joy,joy,0.6242556572,joy,0.9802247882,joy,0.4777289629
+1225,"Oh, I see!",surprise,joy,0.623922348,joy,0.514744103,surprise,0.7206268907
+1111,"Hey there, How's my favorite patient?",joy,joy,0.62303406,neutral,0.5678650737,neutral,0.4725560546
+797,Do you play #globals.favorite_sport or do you just like to watch?,neutral,joy,0.6225123405,neutral,0.7295768857,joy,0.4668278396
+1439,Do you know what it means?,neutral,neutral,0.6222057939,neutral,0.3699476421,surprise,0.5152692795
+1005,Which one?,neutral,neutral,0.622143209,neutral,0.629432857,neutral,0.672419548
+955,"Hey, that’s pretty good.",joy,joy,0.6220591068,neutral,0.655405581,joy,0.8122783303
+1393,Me neither.,neutral,neutral,0.6212900281,neutral,0.4161292911,neutral,0.8334367275
+1412,I bet you are.,joy,neutral,0.6210520267,neutral,0.4020999372,neutral,0.8253264427
+416,"When you decide, come find me.",neutral,neutral,0.6209659576,neutral,0.8849613667,neutral,0.5388697386
+977,"Well, I bet you start winning again soon.",joy,joy,0.6206766367,neutral,0.6462070942,neutral,0.7925127745
+1255,"I pack light, I promise.",joy,neutral,0.6201894283,neutral,0.5020900965,neutral,0.8640146852
+1163,You don't have to tell me.,sadness,neutral,0.6191753149,sadness,0.5467406511,neutral,0.5692990422
+1038,Skateboarding?,neutral,neutral,0.6187397242,neutral,0.6098040938,surprise,0.4932225645
+1081,I know I like it.,joy,joy,0.6183611751,joy,0.5863184929,joy,0.7762723565
+898,It won't be long until you're five years old too.,joy,neutral,0.6180642247,neutral,0.6817055941,neutral,0.9547014832
+750,I should visit.,neutral,joy,0.6172758937,neutral,0.7516340613,sadness,0.7343662977
+1314,It's Binary!,surprise,neutral,0.6144649982,neutral,0.4763241708,surprise,0.7470368147
+772,It's okay.,neutral,neutral,0.6132919788,neutral,0.742754519,neutral,0.603292644
+498,I shouldn't have stayed up so late last night.,sadness,sadness,0.6128820777,sadness,0.8584218025,neutral,0.621889472
+1068,"During most other sports, it's impolite to scream.",neutral,anger,0.6125307679,neutral,0.5948972702,disgust,0.6397674084
+877,Does that mean they're the boss of you?,surprise,neutral,0.612351656,anger,0.688824594,surprise,0.4414994121
+916,You like it when it rains?,neutral,neutral,0.6122005582,neutral,0.6730632186,joy,0.5765148997
+1148,I'm from a big city too!,surprise,joy,0.611323297,neutral,0.5529196262,surprise,0.8081103563
+882,But I thought you could teach me about food.,neutral,neutral,0.6106891632,neutral,0.6872121096,neutral,0.6191563606
+1198,"Whatever it is, don't spill it on me!",fear,anger,0.6099633574,anger,0.5249581933,anger,0.6861931682
+607,Would you like a new brother or sister?,neutral,neutral,0.6099526286,neutral,0.8173226118,neutral,0.7012212276
+1010,"Well, you can visit me whenever you like.",neutral,neutral,0.6094303131,neutral,0.6267531514,neutral,0.8269327879
+592,Maybe I can help you study later if you feel like it!,joy,joy,0.6086382866,joy,0.825658679,neutral,0.4768525958
+973,Yeah.,neutral,neutral,0.6083726883,neutral,0.6474183202,neutral,0.8143122792
+1199,"You get to go to school, play with your friends, and live with your parents.",neutral,neutral,0.6072977185,neutral,0.5240677595,joy,0.4779545069
+355,I like the North.,joy,joy,0.607103169,joy,0.9120140672,joy,0.9662118554
+1014,"Oh, wow!",surprise,surprise,0.6069865227,surprise,0.6259701252,surprise,0.9437457919
+1170,Good morning #globals.person_name !,joy,neutral,0.6067167521,neutral,0.5430378318,joy,0.6384657621
+1049,"Well, we can talk about it some other time.",neutral,neutral,0.6066445112,neutral,0.6048485637,neutral,0.9548866153
+541,Bye for now!,neutral,neutral,0.6065906882,neutral,0.8453292847,joy,0.4501390159
+1143,But aren't you afraid of getting wet?,fear,fear,0.6065901518,fear,0.5558179617,fear,0.9118017554
+407,"My eyes appear to be malfunctioning right now, so I need you to help me.",fear,neutral,0.6055201292,fear,0.8901065588,sadness,0.4436191916
+1360,I don't know what my name means either.,neutral,neutral,0.605502665,neutral,0.4420354366,surprise,0.6577723026
+1323,You're right.,neutral,joy,0.6053453088,neutral,0.4699472487,neutral,0.890740633
+1346,Can you please say your first name again?,neutral,neutral,0.6047981977,anger,0.4492466748,neutral,0.7099655867
+456,I can't really check my own height.,neutral,neutral,0.6045581102,anger,0.8716821671,neutral,0.7371023297
+1372,Are you impressed?,surprise,neutral,0.6038041115,joy,0.4360472858,surprise,0.9225102663
+1175,Just kidding.,joy,neutral,0.6033620238,joy,0.5376909375,disgust,0.4105499089
+283,Have you ever seen the Northern lights?,joy,neutral,0.6029545069,neutral,0.935716331,surprise,0.5044885278
+1154,"You get to go to work, start a family, and stay out past midnight.",joy,neutral,0.6026672721,joy,0.5499129891,neutral,0.729265511
+952,"First up, let's have a conversation about food!",joy,neutral,0.602560997,neutral,0.6573343277,neutral,0.4247551858
+1329,I'll tell you!,joy,joy,0.6022045016,anger,0.4660844803,joy,0.4267852306
+1115,Really?,surprise,surprise,0.60217309,surprise,0.5657299161,surprise,0.9695847631
+900,Do you think I could pull that off?,neutral,neutral,0.6019538641,neutral,0.6805528998,surprise,0.7554280162
+188,"South America has 12 sovereign states, and Brazil is the biggest.",neutral,neutral,0.6014951468,neutral,0.9656642079,neutral,0.8942136765
+631,O Canada is the Canadian national anthem.,neutral,neutral,0.6012006402,neutral,0.8072663546,neutral,0.8544774055
+992,I don't know why you would ever leave!,surprise,sadness,0.6008107662,anger,0.6411342621,surprise,0.8197750449
+428,"Mandarin Chinese, has over 900 million speakers!",neutral,neutral,0.6007342339,neutral,0.8812255263,surprise,0.6214721203
+1149,Maybe we should catch a game together some time.,joy,joy,0.6004803181,joy,0.5523803234,neutral,0.8071788549
+1089,That makes sense.,neutral,neutral,0.599742651,neutral,0.5822437406,neutral,0.4912034869
+823,Is there an Olympic Event for #globals.favorite_sport?,neutral,joy,0.5986505747,neutral,0.7166411281,surprise,0.6565338373
+1137,I guess it doesn't matter as long as you're comfortable.,neutral,neutral,0.5984032154,neutral,0.5573960543,neutral,0.913151145
+617,"So here's what I'm thinking: I've been looking up flights to Antananarivo, and they're very cheap right now.",joy,neutral,0.5982351899,joy,0.8138559461,neutral,0.7362608314
+1421,"Well, look at you!",joy,joy,0.5961691737,anger,0.3904165328,anger,0.4780970216
+1405,"That's too bad, because I'm about to tell you one.",sadness,neutral,0.5959319472,anger,0.4070704281,disgust,0.6603787541
+494,You'll like this.,joy,joy,0.5956987143,joy,0.8593230247,neutral,0.8442135453
+1294,"I'm sorry, I didn't catch that.",sadness,sadness,0.5955394506,sadness,0.4852649271,sadness,0.4368242025
+1231,Do you enjoy it?,neutral,neutral,0.5952564478,neutral,0.510509789,joy,0.8728200197
+866,"Hey there, #globals.person_name!",joy,neutral,0.5942838788,neutral,0.6935016513,joy,0.4902317226
+580,"Hi, #globals.person_name!",neutral,neutral,0.5934615731,neutral,0.8306752443,neutral,0.4033260345
+1194,That's good.,joy,neutral,0.5934369564,neutral,0.5277886391,joy,0.8650354147
+819,That sounds like hard work.,neutral,neutral,0.5930593014,neutral,0.7183036208,neutral,0.7821825147
+834,I'm going to pretend I didn't hear that!,anger,anger,0.5929850936,anger,0.7090846896,anger,0.68157655
+978,I think I'm getting it.,neutral,joy,0.5929382443,neutral,0.6457486153,joy,0.3574710786
+1119,What do you like best about it?,neutral,neutral,0.5929239392,neutral,0.5639903545,neutral,0.8102144599
+279,"Well, maybe your country could use more athletes like you.",joy,joy,0.5925981402,joy,0.9377278686,neutral,0.9458366036
+820,I hope so!,joy,joy,0.5921752453,joy,0.7181656361,joy,0.7283394337
+782,And linen has been around a long time.,neutral,neutral,0.5918931365,neutral,0.7368549705,neutral,0.956559062
+1422,What's her name?,neutral,neutral,0.5918325782,neutral,0.3886601329,surprise,0.5962839723
+1253,Just wondering.,surprise,neutral,0.5917702913,surprise,0.5025413632,surprise,0.9122412205
+816,"You're a child now, but you're going to experience all of them one day.",neutral,neutral,0.5911734104,joy,0.7196050286,neutral,0.9185649753
+1443,You have?,surprise,neutral,0.5910949707,surprise,0.3648137152,surprise,0.8725128174
+1047,Which ones?,neutral,neutral,0.5904712677,neutral,0.6070549488,neutral,0.8117758036
+1161,So we're both #globals.person_age?,neutral,neutral,0.5900347233,neutral,0.5485311747,neutral,0.5556644797
+1262,"But you know me, I'll have a lot more questions for you later.",neutral,neutral,0.589414537,neutral,0.4981959164,neutral,0.9219225049
+1383,Am I saying that right?,fear,fear,0.5891964436,fear,0.4272894859,neutral,0.3749970794
+1105,"Sorry, I didn't hear your family's name correctly.",sadness,neutral,0.5888389945,sadness,0.5706551671,sadness,0.8988124728
+570,I just play for fun at the moment.,joy,joy,0.588511169,joy,0.8349880576,joy,0.9064725041
+726,"I prefer to stay indoors, where we have more control over things.",neutral,neutral,0.5882261395,neutral,0.7639133334,neutral,0.7328330874
+662,Cuba has the most Olympic gold medals in Baseball: three!,joy,joy,0.588098526,joy,0.7902778983,joy,0.3787001371
+871,"Yeah, I'm on the fence about it.",neutral,neutral,0.5871182084,neutral,0.6911904216,neutral,0.7455522418
+943,See ya!,joy,joy,0.5870844722,neutral,0.662127018,joy,0.9178858399
+1073,But I promise that #globals.person_name is a good one to know!,joy,neutral,0.5864840746,joy,0.5923547745,neutral,0.6868175864
+259,I wasn't expecting you'd say that.,surprise,surprise,0.5862264037,surprise,0.9463374615,surprise,0.979380548
+346,I already have so many ideas about how to improve your performance.,joy,joy,0.5860667229,joy,0.9141772389,neutral,0.936722517
+412,Well I hope your pet lives 100 more years.,joy,joy,0.5860136151,joy,0.8885144591,neutral,0.8560839295
+1017,I just want you to consider how many more lemurs there are in Madagascar than anywhere else in the world.,neutral,neutral,0.5857867002,neutral,0.6242603064,neutral,0.5412138104
+1474,You don't like sports?,surprise,neutral,0.5845259428,surprise,0.2956553102,disgust,0.6654205918
+543,Trust me.,neutral,neutral,0.583373189,neutral,0.8435633183,fear,0.6534011364
+785,"Don't worry, from now on,",neutral,neutral,0.5832026005,neutral,0.7349265814,fear,0.7100431323
+1173,Me too.,neutral,neutral,0.583083868,neutral,0.5393345356,neutral,0.9070488214
+1244,Would you like to?,neutral,neutral,0.5811522007,neutral,0.5056303144,neutral,0.741548419
+802,Would you like to know which spins faster?,neutral,neutral,0.5804843307,neutral,0.7279744148,neutral,0.8588594198
+1110,"Pong was first released in 1972, and was one of the earliest arcade games.",neutral,joy,0.5800751448,surprise,0.567892313,neutral,0.6094014645
+1309,Nice.,joy,joy,0.5799800754,neutral,0.4770470858,neutral,0.4824457169
+1459,I think that covers birthdays!,joy,joy,0.5795502663,joy,0.3376937807,surprise,0.758895576
+1242,Bollywood!,joy,joy,0.5792263746,joy,0.5080245137,joy,0.4437743425
+500,"It's the country of origami, karaoke and sumo wrestling.",neutral,neutral,0.5788998008,neutral,0.8577498198,neutral,0.7472128272
+1414,Do you want to guess where my name comes from?,neutral,neutral,0.5781461596,neutral,0.3977812231,neutral,0.7344309688
+1230,I know all about Europe!,joy,joy,0.5780720115,joy,0.510573864,surprise,0.4800401628
+640,Hello again #globals.person_name!,neutral,neutral,0.577560544,neutral,0.8039876819,neutral,0.5675607324
+331,Serena Williams has won 23 Grand Slam singles titles.,neutral,neutral,0.577457428,joy,0.9207500219,neutral,0.7297650576
+554,Did you get to see the Northern lights?,neutral,neutral,0.5771911144,neutral,0.8399718404,surprise,0.5265540481
+1322,"#globals.person_name can’t get enough of the season of Spring,",joy,joy,0.5770471692,joy,0.4709922373,sadness,0.9099072814
+1257,"I'm a robot, so speaking binary is pretty much essential.",neutral,neutral,0.5760335922,neutral,0.500872016,neutral,0.9172618389
+1103,Knew it!,joy,joy,0.5757254958,joy,0.5713211894,anger,0.395098269
+1363,Give up?,neutral,neutral,0.5751757622,neutral,0.4412147999,anger,0.8735277057
+773,"At home, we go wild.",joy,joy,0.5751464963,joy,0.7424844503,fear,0.7602550387
+881,I think that covers the topic of travel.,neutral,joy,0.5747230649,neutral,0.6878410578,neutral,0.9388631582
+1174,"It's not as good as your name, but I guess your parents were saving that for you.",neutral,neutral,0.5744953156,neutral,0.5390825868,neutral,0.922092557
+1371,Don't you think?,neutral,neutral,0.5744161606,anger,0.4368022084,surprise,0.4226462245
+995,"Wait,",neutral,neutral,0.5723083019,neutral,0.6392502189,neutral,0.9323959947
+1354,"Yeah, I think you're right.",joy,neutral,0.5716356635,joy,0.4448627234,neutral,0.7255165577
+931,It's probably not for everyone.,neutral,anger,0.5710243583,anger,0.6669788957,neutral,0.9198353887
+1401,"Well, I think I'm getting it.",neutral,neutral,0.5704612136,neutral,0.4097453058,neutral,0.5175331831
+1430,"When the days get shorter, the weather gets cooler, and the leaves change color.",neutral,neutral,0.5702321529,surprise,0.3812634051,neutral,0.7351083159
+1461,"I hate getting wet, don't you?",disgust,disgust,0.569571197,anger,0.334567517,disgust,0.7125697732
+1000,99% of Olympic athletes are under 40!,neutral,joy,0.5685257316,neutral,0.6311499476,surprise,0.6131273508
+1426,I thought so!,joy,joy,0.5663760304,anger,0.3845858872,joy,0.5351786613
+1228,"Good morning, #globals.person_name!",joy,joy,0.5663372278,neutral,0.5111591816,joy,0.7023029327
+1292,I have trouble with names myself.,neutral,neutral,0.5662338734,neutral,0.4856638908,fear,0.3998929858
+1125,Same here!,neutral,neutral,0.5651491284,neutral,0.5601818562,surprise,0.4197966158
+1470,Can I come too?,joy,neutral,0.5650264621,neutral,0.3095529079,neutral,0.5947750807
+628,"The oldest instrument in the world is thought to be over 50,000 years old.",neutral,neutral,0.5641288757,joy,0.8078016639,neutral,0.8886522651
+949,Wow!,surprise,surprise,0.5634818077,surprise,0.6585840583,surprise,0.9657881856
+1327,How do I love #globals.person_name?,joy,joy,0.5627534986,joy,0.4674711525,joy,0.4125310779
+1365,I can respect that.,joy,joy,0.562538147,joy,0.4410190284,disgust,0.3768329322
+1050,English-only!,neutral,neutral,0.5618527532,neutral,0.6044250131,neutral,0.6178244352
+1444,"Well, it's a good thing we're inside then.",joy,neutral,0.5617889762,joy,0.3578830361,joy,0.81845963
+765,Did you tell them about your new friend?,neutral,neutral,0.5608377457,neutral,0.7460132837,surprise,0.7916519642
+670,Can I visit you sometime?,joy,joy,0.560225904,neutral,0.7853936553,neutral,0.5067294836
+1428,I knew it.,joy,neutral,0.5589815974,joy,0.3823151588,neutral,0.3510091305
+1165,Well I guess it doesn't matter anyway.,neutral,neutral,0.5576280355,neutral,0.5460461378,neutral,0.6878628135
+1406,Eagles!,surprise,neutral,0.5575521588,neutral,0.4063178301,surprise,0.4331400692
+1051,Too late to change your mind now.,neutral,neutral,0.5575235486,anger,0.6040837765,neutral,0.5572939515
+512,I've been telling everyone I meet about you.,joy,neutral,0.556497097,joy,0.8555685878,neutral,0.7213358283
+999,It's true.,joy,joy,0.555955112,neutral,0.6313975453,neutral,0.9532525539
+386,That's the largest possible value.,neutral,neutral,0.5549483895,neutral,0.8979514837,surprise,0.4820928872
+602,Let's focus on the positives.,joy,joy,0.553886354,neutral,0.8189001083,neutral,0.8509351611
+991,I bet Haru means something cool like strong-willed warrior or friendly robot companion.,joy,neutral,0.5530764461,neutral,0.6419289112,neutral,0.6862405539
+1319,I know all about Antarctica!,joy,joy,0.5526151657,joy,0.4727714956,surprise,0.4189128876
+780,Maybe I could come see you play some sports some time.,joy,joy,0.5524675846,joy,0.7372916341,neutral,0.6941319704
+1236,Sounds like it might be time to move.,neutral,neutral,0.5518913865,neutral,0.5093390942,neutral,0.8338998556
+851,And it's not like anyone is going to confuse my #globals.pet_name the lemur with your #globals.pet_name.,neutral,anger,0.5518698096,anger,0.700429976,fear,0.7499172688
+1044,I was wondering.,neutral,neutral,0.5512120724,neutral,0.6073336005,surprise,0.9741203189
+1431,"If I'm in the sun too long, I overheat.",fear,neutral,0.5504887104,neutral,0.3809395134,neutral,0.3746161163
+1098,I'll have to teach you some time.,neutral,neutral,0.5500183105,neutral,0.5760889649,neutral,0.916636765
+1226,Ask nicely and I might sing it for you some time.,joy,joy,0.5495906472,neutral,0.5126754045,neutral,0.9477590919
+945,I've heard music is the language of the soul.,joy,joy,0.5493122935,joy,0.6614185572,neutral,0.7440752983
+471,"Well, I think that covers everything that could possibly have to do with pets.",neutral,joy,0.5477715135,neutral,0.8681340814,neutral,0.9513432384
+848,You must like the cold.,neutral,neutral,0.5474247932,neutral,0.7007881403,neutral,0.5287408829
+865,How's my favorite patient?,joy,joy,0.5470692515,neutral,0.6935177445,neutral,0.8117187023
+1053,They sure are!,joy,joy,0.5468872786,joy,0.6034626961,surprise,0.5653554797
+1429,Are you sure?,surprise,neutral,0.5464544296,neutral,0.3821049631,surprise,0.7927625775
+795,Not competing to show who can use the most.,neutral,anger,0.5463440418,neutral,0.7303984165,neutral,0.8010925055
+1486,"You're braver than me, #globals.person_name.",joy,joy,0.5453843474,joy,0.2611365914,fear,0.8158453107
+929,"Well, I've been telling everyone I meet about you.",joy,neutral,0.5453566909,joy,0.6678555012,neutral,0.8343083262
+1331,I didn't think so.,neutral,neutral,0.5443075895,neutral,0.4635801017,surprise,0.8918226957
+1267,Oh my.,surprise,surprise,0.5433226824,surprise,0.4952310026,surprise,0.8845550418
+437,How could I forget a name like #globals.person_name!,surprise,surprise,0.5432188511,surprise,0.876681149,surprise,0.8409509659
+468,I have always wanted a pet.,joy,neutral,0.5418378115,sadness,0.8686244488,joy,0.8977063298
+1400,Can you guess what country I'm from?,neutral,neutral,0.5413359404,neutral,0.4097462893,neutral,0.5752030015
+544,I hate it.,disgust,disgust,0.5407961011,anger,0.8433195353,anger,0.4794974327
+1217,Burgers are American!,neutral,neutral,0.5396069884,neutral,0.5158252716,neutral,0.4964089394
+1259,You might have noticed this is a problem sometimes for you too.,neutral,neutral,0.5386961699,neutral,0.5003832579,neutral,0.7912220359
+338,I'd much rather listen to stats than be a statistic.,neutral,neutral,0.5386785865,neutral,0.9168356657,neutral,0.4781787097
+1022,Me too!,joy,joy,0.5382312536,joy,0.6193695664,joy,0.3321096301
+1463,but you feel like a sibling to me.,joy,sadness,0.5378459096,neutral,0.333760798,joy,0.7724942565
+556,Did you throw a party when you turned #globals.person_age?,neutral,joy,0.537769556,neutral,0.8396694064,surprise,0.6795197725
+1290,"It's not as good as #globals.person_name, but I guess that's already taken.",neutral,neutral,0.5367971659,neutral,0.4860106409,neutral,0.5916237831
+936,Me either.,neutral,neutral,0.5356735587,neutral,0.6655223966,neutral,0.8229939938
+1063,What's your favorite season?,neutral,neutral,0.5355411768,neutral,0.5979653001,neutral,0.639303863
+1382,You do!,joy,joy,0.5354001522,anger,0.4273806214,anger,0.643640399
+1055,OK now I want a cat.,neutral,neutral,0.5344901085,neutral,0.6028132439,neutral,0.4135281444
+1156,Liberty!,joy,neutral,0.5340235233,neutral,0.5493277907,anger,0.5970407724
+1118,"Well, I guess it doesn't matter anyway.",neutral,neutral,0.5319502354,neutral,0.5643675327,neutral,0.6742981672
+1280,You're full of surprises,joy,surprise,0.5317100883,joy,0.4903734624,surprise,0.8341535926
+1083,I've heard humans love to talk about the weather.,neutral,neutral,0.5313033462,anger,0.5854490399,neutral,0.3875893056
+485,But that can wait until I've spoken to everyone in the English speaking world.,neutral,joy,0.5312661529,neutral,0.863886714,neutral,0.9688272476
+1195,I have no idea why I said t-shirt.,neutral,neutral,0.5305241346,neutral,0.526861012,surprise,0.8936983347
+1274,I know all about tennis!,joy,joy,0.5299911499,joy,0.4920045733,surprise,0.3580823243
+1356,Wow.,surprise,joy,0.5297250152,joy,0.4434007406,surprise,0.970700562
+667,I was worried you'd say no.,fear,fear,0.5289485455,fear,0.7864938974,fear,0.8184057474
+1355,Though I find people have a harder time hearing me.,sadness,sadness,0.5282162428,sadness,0.443690002,disgust,0.614861846
+1155,"It's not as good as your name, but I guess that's already taken.",neutral,neutral,0.528064847,neutral,0.549669385,neutral,0.9164279103
+810,I think that concludes the language conversation.,neutral,joy,0.527813673,neutral,0.723893106,neutral,0.5513130426
+714,I think I'm getting it now.,neutral,joy,0.5276834369,neutral,0.7692742348,surprise,0.3593192995
+1305,"Well, you look pretty tall to me.",joy,joy,0.5276607275,joy,0.4788585007,neutral,0.7733447552
+1311,That's nice.,joy,joy,0.5269466043,neutral,0.4765826762,joy,0.9187956452
+808,I'm so jealous.,anger,anger,0.5249658823,anger,0.7244018912,anger,0.6440250278
+1009,I see!,joy,joy,0.524918437,joy,0.6280860901,surprise,0.7965908051
+723,How old?,neutral,neutral,0.5247465372,neutral,0.7652893066,neutral,0.6930316687
+1460,My eyes are bigger than my stomach.,surprise,neutral,0.5242160559,surprise,0.3358922899,neutral,0.3960008621
+829,Don't you have to be 15 years old to be in the Olympics?,neutral,neutral,0.5228894353,neutral,0.7137970328,surprise,0.4788331985
+1264,"Me, I know binary: one zero zero one!",neutral,joy,0.5224766135,neutral,0.4964659214,anger,0.4985794425
+1183,Aren't they?,surprise,neutral,0.5220833421,anger,0.5340163708,surprise,0.6370074749
+1263,"On second thought, the acoustics in here aren't the best.",neutral,anger,0.5217119455,neutral,0.4976592362,neutral,0.7774434686
+747,Would you like me to sing it for you?,neutral,neutral,0.5214745998,neutral,0.7537565827,neutral,0.7892284393
+1301,"Pretty futuristic, right?",joy,joy,0.5214287043,neutral,0.4805114269,neutral,0.7474591732
+1373,"I'm sorry, but I'm about to tell you anyway.",sadness,sadness,0.5211166739,fear,0.4359753132,sadness,0.8500228524
+937,"I hope you didn't wear yourself out this morning, because I'm in the mood to talk.",joy,neutral,0.5201281309,neutral,0.6649922132,neutral,0.8266942501
+683,"If I were solar powered, I could run all day during the months where the sun never goes down.",joy,joy,0.5195921659,neutral,0.7814975977,neutral,0.9238812327
+292,"You're right, #globals.person_name.",joy,neutral,0.5189465284,joy,0.9327953458,neutral,0.8716560006
+402,"And if they ever need gift ideas, I can give them advice.",neutral,neutral,0.5184159279,neutral,0.8912154436,neutral,0.9241256118
+889,I prefer English though—there's a lot more letter forms available to me as a poet.,neutral,neutral,0.5179775357,neutral,0.6840285659,neutral,0.8956728578
+1472,"Well, that's no good.",disgust,neutral,0.5169457197,anger,0.3056738377,disgust,0.8451108336
+1441,I told you I'd be back.,joy,neutral,0.515121758,neutral,0.3691892624,neutral,0.8123009801
+1261,"When the weather gets warmer, the days get longer, and the plants regrow.",neutral,joy,0.5145725012,neutral,0.4993799329,neutral,0.7439774871
+1193,Do you like dancing?,neutral,neutral,0.5140793324,neutral,0.5280570984,neutral,0.4184036851
+632,All that conversation made me sleepy.,neutral,neutral,0.5133488178,neutral,0.807060957,sadness,0.5013682246
+675,I'm pretty sure I read that somewhere.,neutral,neutral,0.5132851601,joy,0.7835147977,neutral,0.8923328519
+1452,Do you know what my favorite food is?,joy,joy,0.5126290321,fear,0.3427925706,neutral,0.6513050795
+1258,Have you ever seen the Eiffel Tower?,neutral,neutral,0.5123804808,neutral,0.5004367232,surprise,0.6713385582
+1288,Want to know where the lights come from?,neutral,neutral,0.5107701421,neutral,0.487172693,neutral,0.7851240039
+1120,OK now I want a dog.,neutral,neutral,0.5104682446,neutral,0.5634509921,joy,0.5759746432
+251,"If the temperature gets too low, the fluid in my eyes can freeze.",fear,neutral,0.5102818012,neutral,0.9492129683,anger,0.437608391
+1071,Cozy!,joy,joy,0.5099737048,joy,0.5935038924,joy,0.689712286
+1189,Close!,neutral,neutral,0.5098722577,neutral,0.532305181,surprise,0.697601378
+870,#globals.favorite_subject is their favorite subject.,neutral,neutral,0.5096167326,neutral,0.6917083263,joy,0.6177891493
+830,I'm jealous,anger,anger,0.5086870193,anger,0.7120215893,anger,0.6927511096
+1343,I want to go back soon.,sadness,sadness,0.5083013177,joy,0.4529107809,sadness,0.972653687
+1126,"There you are, #globals.person_name!",surprise,neutral,0.5078658462,neutral,0.5593343973,surprise,0.5652064085
+1024,Oh wait!,surprise,surprise,0.5073130131,surprise,0.6190756559,surprise,0.8717006445
+1330,Don't underestimate my intelligence.,neutral,anger,0.5066176653,neutral,0.4641422033,neutral,0.4859554172
+818,Pizza comes from Italy!,neutral,neutral,0.504674077,joy,0.7190852165,surprise,0.4908114672
+434,"I'd love to have a lemur as a pet, but you can only find them in Madagascar.",sadness,neutral,0.504511416,sadness,0.8772417903,sadness,0.7644181848
+1375,I know all about the land down under!,joy,joy,0.5024745464,joy,0.4314678013,surprise,0.4508013129
+1449,I'm going to tell you anyway.,neutral,neutral,0.5019608736,neutral,0.3503958285,neutral,0.7846443653
+622,And wool has been around a long time.,neutral,joy,0.5015001893,neutral,0.8104988337,neutral,0.9662955403
+1021,"No, I didn't think so.",neutral,neutral,0.5014379025,neutral,0.6211158037,surprise,0.8504629135
+93,"I already have so many ideas about how to improve your performance, #globals.person_name.",joy,joy,0.5013260245,joy,0.9859666228,neutral,0.7087898254
+1186,Where?,neutral,neutral,0.5011808872,neutral,0.5327054858,neutral,0.6951741576
+1334,Just like me.,neutral,neutral,0.5011311173,sadness,0.458404392,neutral,0.9421114326
+1433,I know all about South America!,joy,joy,0.5006793141,neutral,0.377078861,surprise,0.4799456298
+296,"If I’m ever in #globals.person_home_country, I can stay at #globals.person_name's place.",neutral,neutral,0.5002467632,neutral,0.9314109087,neutral,0.8513667583
+1451,You're worried we'd get sick of each other.,fear,neutral,0.4995385408,fear,0.3428288698,fear,0.4760886729
+702,I wasn't expecting that.,surprise,surprise,0.4993938506,surprise,0.7727327347,surprise,0.9788746238
+1046,What's your secret?,neutral,neutral,0.4977485538,neutral,0.607186377,neutral,0.4890297353
+1413,I know all about basketball!,joy,joy,0.4975729287,anger,0.3992232382,surprise,0.2791667283
+690,"You're really good at talking, did you know that?",joy,joy,0.4972976744,joy,0.7793785334,surprise,0.580709517
+984,Aren't you afraid of getting wet?,fear,fear,0.4969672859,fear,0.6442399621,fear,0.9280452132
+869,You must like the heat.,joy,joy,0.4967030287,neutral,0.6919088364,joy,0.5036171079
+1471,I wish!,joy,joy,0.4965873659,neutral,0.3061290383,surprise,0.4923642576
+1179,You are?,surprise,surprise,0.4960244,surprise,0.5359671116,surprise,0.8843473196
+981,I've always wanted to see Sweden.,joy,joy,0.4958615005,neutral,0.6450220346,joy,0.907507956
+635,That’s incredible!,joy,joy,0.4939880669,joy,0.8060635924,surprise,0.7455649972
+1417,I think I detected a pinch of sarcasm in there.,neutral,neutral,0.4939465225,neutral,0.396912396,neutral,0.6886469722
+1378,I know all about Africa!,joy,joy,0.4932826459,joy,0.4280596673,surprise,0.5069072247
+1265,Oh.,neutral,neutral,0.4920234978,neutral,0.495665133,neutral,0.6889098883
+1337,Good.,joy,joy,0.4920220673,neutral,0.4568224251,neutral,0.4056424201
+1391,"Well, I'd better let you go.",neutral,sadness,0.4908189476,neutral,0.4176511168,disgust,0.3306920528
+781,Goodbye!,joy,neutral,0.4896012247,neutral,0.7369587421,joy,0.7218244076
+1381,Yikes!,surprise,surprise,0.4892632365,surprise,0.4275937974,joy,0.6496759653
+1123,Oooh.,joy,joy,0.4887943864,joy,0.5613791347,surprise,0.8759444356
+1425,You would?,surprise,surprise,0.4876562357,surprise,0.3848443031,surprise,0.7547562718
+1140,Did you tell her about your new friend?,neutral,neutral,0.4875835478,neutral,0.5569055676,surprise,0.7974846363
+905,"It's a hard decision, isn't it?",sadness,neutral,0.4866655767,sadness,0.6787338257,disgust,0.3770476878
+896,That's where I'm from!,joy,joy,0.4863334298,joy,0.682110846,surprise,0.6579620242
+1457,"When #globals.person_name is hungry, it’s #globals.favorite_food they crave.",neutral,neutral,0.4856602848,neutral,0.3382253349,anger,0.6104342937
+645,"Did you like growing up there, #globals.person_name?",neutral,neutral,0.4854825735,neutral,0.7998686433,surprise,0.3873476386
+553,"Fork or chopstick, who cares?",neutral,anger,0.4853725433,neutral,0.8414657116,neutral,0.5245609879
+1298,Please tell me!,joy,fear,0.4852775037,fear,0.4810875952,fear,0.4356738031
+1094,"Yeah, maybe you're right.",neutral,neutral,0.4852215946,joy,0.5784587264,neutral,0.8391369581
+1403,Did you know that?,neutral,neutral,0.4848517776,neutral,0.4080893099,surprise,0.8563626409
+1442,It does?,surprise,neutral,0.4841994941,surprise,0.3658193052,surprise,0.7970774174
+1256,Binary!,neutral,neutral,0.484148562,neutral,0.5015944242,surprise,0.6265705228
+1315,Oh wow.,surprise,joy,0.482731849,surprise,0.4759419262,surprise,0.9644653201
+1109,Don't be like that.,sadness,sadness,0.4826028645,anger,0.5680549145,anger,0.3869643211
+1114,How were they?,neutral,neutral,0.4813868701,sadness,0.5664672852,surprise,0.7611649632
+872,I bet.,neutral,neutral,0.4809246957,neutral,0.6906916499,neutral,0.6181420088
+1251,Uh-oh.,fear,fear,0.4803233445,fear,0.5035547614,fear,0.6633705497
+951,Pets aren't for everyone.,neutral,neutral,0.4798446,anger,0.6575067639,neutral,0.8561074138
+698,"At school, we study hard.",neutral,joy,0.4756825864,neutral,0.7757643461,disgust,0.4739489853
+1007,I found you!,joy,joy,0.4747938216,joy,0.6292350292,surprise,0.6887722611
+1458,Henna!,joy,joy,0.4743393958,joy,0.3377688527,surprise,0.3724626899
+461,Did you know Baseball was in the Olympics in 2021 for the first time since 2008?,surprise,surprise,0.4739407301,neutral,0.8706717491,surprise,0.5557005405
+1359,You're not?,surprise,surprise,0.4738663733,surprise,0.4420565665,surprise,0.8423573375
+1376,"I mean, I can sing like an angel, but I don't want to make you feel bad.",sadness,sadness,0.4728063047,sadness,0.4303810894,disgust,0.7426283956
+1108,Thank you.,joy,joy,0.4725055397,joy,0.5680688024,neutral,0.666359365
+1362,Can you guess what it is?,neutral,neutral,0.4720063806,neutral,0.4413707554,surprise,0.5574970245
+1338,I guess that makes sense.,neutral,neutral,0.4701046348,sadness,0.4567320645,neutral,0.7524421811
+614,I'm a little jealous!,anger,anger,0.468251884,anger,0.8157705069,anger,0.4892886877
+1277,I hope you thanked them.,joy,neutral,0.4674759507,joy,0.4908896387,neutral,0.8193697333
+821,"Well, technically, my name is Haru, but you were pretty close!",joy,joy,0.4656715989,joy,0.717882216,surprise,0.4089820683
+1397,"That's a good guess, but no.",neutral,neutral,0.4654255211,neutral,0.4120411873,neutral,0.7305298448
+695,"Well, it's true.",joy,joy,0.4654231369,neutral,0.7774872184,neutral,0.8583802581
+1093,"I don't know about you, but I didn't get much sleep last night.",sadness,neutral,0.4627971947,sadness,0.5784589648,sadness,0.4029616714
+1266,But I guess it doesn't matter anyway.,neutral,neutral,0.4623105824,neutral,0.4956259429,neutral,0.7120663524
+1357,"But if we want to do that, first we're going to have to work hard in school, aren't we?",neutral,neutral,0.4619114697,fear,0.4431191385,neutral,0.7864363194
+1293,Did you know Spanish is the world's second-most spoken native language after Mandarin?,neutral,neutral,0.46175161,neutral,0.4856627584,surprise,0.8285484314
+921,Did you tell him about your new friend?,neutral,neutral,0.4611549079,neutral,0.6711632609,surprise,0.7855965495
+884,I've been telling everyone I meet about you!,joy,joy,0.4605286121,joy,0.686568737,joy,0.3640026152
+1018,I can tell you're getting bored of talking about lemurs.,neutral,anger,0.460439533,neutral,0.6222173572,neutral,0.5630971789
+835,"If it's too hard for you, I'll give you the answer.",neutral,joy,0.460209012,neutral,0.7087484002,neutral,0.8668145537
+1127,Math is hard.,sadness,neutral,0.4600580931,sadness,0.5592567325,sadness,0.4248877466
+1084,Be serious.,neutral,neutral,0.4592509568,anger,0.5847715139,sadness,0.5540936589
+909,Am I crazy or should we start a band?,joy,joy,0.4588038921,joy,0.676661253,fear,0.2517517507
+1212,You did?,surprise,surprise,0.4586894512,surprise,0.5167110562,surprise,0.8065397143
+938,It's not for everyone.,neutral,anger,0.4567244649,anger,0.6647691727,neutral,0.8982478976
+825,Winter!,neutral,neutral,0.4546321034,neutral,0.7158405781,sadness,0.3319215178
+1088,Every age has its positives and negatives.,neutral,joy,0.4540929496,joy,0.5831858516,neutral,0.9025241137
+1227,I won't get lost in the clutter!,joy,anger,0.4537758827,anger,0.5126490593,neutral,0.4622171521
+1364,You said it!,joy,joy,0.4536069632,joy,0.4411484003,anger,0.6505650878
+970,You can visit me whenever you like.,joy,joy,0.4526109397,neutral,0.6497538686,neutral,0.6426925063
+606,"Can you help me out with that, because I'm not getting it at all.",anger,sadness,0.4522454143,anger,0.817445755,neutral,0.604814887
+1302,New York!,surprise,joy,0.4520954788,neutral,0.4805003107,surprise,0.5789847374
+1446,"Yeah, dogs are wet wriggly saliva machines.",disgust,neutral,0.4503230155,neutral,0.3561174572,disgust,0.9345393181
+1203,"Well, I'm about to tell you.",neutral,neutral,0.4496017396,neutral,0.5224378109,neutral,0.6003854871
+697,"Fine, don't tell me.",anger,neutral,0.4489762783,anger,0.7759108543,anger,0.8181296587
+1299,Nope.,neutral,anger,0.44800511,neutral,0.4810819626,disgust,0.6307367086
+387,Do you know why?,neutral,neutral,0.4476829469,anger,0.8952874541,surprise,0.7622944713
+930,And it's not like anyone is going to confuse my #globals.pet_name the lemur with your #globals.pet_name the #globals.person_favorite_pet.,neutral,joy,0.4468239248,anger,0.667093277,fear,0.5808656812
+1107,Guess?,neutral,joy,0.4460033178,joy,0.5690434575,surprise,0.3520148396
+1136,Wait!,surprise,surprise,0.4459944665,surprise,0.5574049354,surprise,0.3915220797
+1380,That's a weird name.,disgust,disgust,0.4459149837,anger,0.4276123345,disgust,0.9436849356
+1419,Aw.,sadness,sadness,0.4458366334,sadness,0.3942278922,sadness,0.72180897
+1303,Clothing!,surprise,surprise,0.4437880516,neutral,0.4792451859,surprise,0.4541358352
+1479,"I don't suppose you've told them about me yet, have you?",neutral,joy,0.442872107,neutral,0.28874892,surprise,0.5948723555
+1462,Oh no!,fear,surprise,0.4417325556,surprise,0.3343032897,surprise,0.6818026304
+1485,How did you think of that?,surprise,surprise,0.4405981898,joy,0.2678387463,surprise,0.8053780198
+1042,I guess the acoustics in here aren't the best.,neutral,anger,0.4402501881,sadness,0.6078577042,neutral,0.7806429267
+1448,Can you guess how old I am?,neutral,neutral,0.4401034713,joy,0.3550387323,neutral,0.6116284132
+1324,You didn't?,surprise,surprise,0.4382576942,surprise,0.4697266519,surprise,0.7708780766
+1432,Phew!,joy,neutral,0.4341968596,joy,0.3805265427,disgust,0.6899836063
+1272,I'm only five years old.,neutral,neutral,0.4324378669,fear,0.4921367764,neutral,0.5317231417
+1304,What else can we talk about?,neutral,sadness,0.4318402708,neutral,0.4791467488,neutral,0.8795079589
+1289,Oh yeah?,surprise,neutral,0.4313795567,neutral,0.4861932993,surprise,0.8686433434
+1248,You shouldn't!,anger,anger,0.4308988154,anger,0.504045248,anger,0.8791636229
+1466,No way.,surprise,neutral,0.4262102842,neutral,0.3214265108,disgust,0.5690091848
+1317,"Yeah, me neither.",neutral,neutral,0.4257268608,neutral,0.4739430547,neutral,0.7579977512
+1366,You do?,surprise,neutral,0.4249890149,surprise,0.4406648576,surprise,0.7937585115
+1296,Uh-uh.,neutral,neutral,0.4204446077,neutral,0.4829442203,neutral,0.3979249001
+815,"People have so many different options, I'm a little jealous!",anger,anger,0.419878155,joy,0.7205172181,surprise,0.4515678883
+1129,That's pretty old.,neutral,neutral,0.4193145037,neutral,0.5589979291,neutral,0.5663427114
+1427,"That's a shame, because I'm going to tell you anyway.",sadness,sadness,0.4180122018,anger,0.3830913007,disgust,0.9238908291
+1012,"Interesting strategy, but it's no use.",neutral,joy,0.4158667922,anger,0.6262918711,disgust,0.8110252023
+1464,Thirty!,surprise,surprise,0.4152593613,joy,0.3220842779,surprise,0.6178687215
+1351,How am I doing?,neutral,neutral,0.4145766199,neutral,0.446478188,surprise,0.608990252
+841,I'm jealous.,anger,anger,0.4142166078,anger,0.7025520205,anger,0.5451171398
+1467,So we're both five?,surprise,neutral,0.4139260054,fear,0.3179054856,surprise,0.5484318137
+980,"I don't have a favorite food because as you may have noticed, I'm a robot!",surprise,anger,0.413104564,anger,0.645514667,surprise,0.3258987963
+1279,Now you do!,joy,joy,0.4110434949,anger,0.4905902147,anger,0.8899541497
+1407,Antarctica is too cold for me.,sadness,neutral,0.4109930396,neutral,0.4053849876,sadness,0.2964541316
+1313,Spices!,joy,neutral,0.4109915793,joy,0.4764612317,surprise,0.4389128983
+1291,Pandas!,surprise,neutral,0.4105881751,neutral,0.4859025478,surprise,0.6289307475
+1008,What should we talk about?,neutral,neutral,0.4100270867,neutral,0.6287868619,neutral,0.3766643405
+1184,Diving?,neutral,neutral,0.4091101885,neutral,0.5339906216,surprise,0.7949371934
+1216,"But actually, it was a trick question!",surprise,surprise,0.4086851776,surprise,0.5161464214,surprise,0.6266217828
+1465,What?,surprise,surprise,0.4085136056,neutral,0.3220198452,surprise,0.9222372174
+1477,"Oh, dear.",sadness,sadness,0.4081090093,neutral,0.2933290899,neutral,0.3955430388
+1233,Oh brother!,surprise,surprise,0.4080289304,surprise,0.5099973679,surprise,0.8960943222
+1399,Oh boy.,surprise,neutral,0.4069417715,neutral,0.4097789228,surprise,0.8616312146
+1434,You don't?,surprise,surprise,0.4046414793,surprise,0.3763752282,surprise,0.5490493774
+763,But I like them.,joy,neutral,0.4039728642,joy,0.7475554347,joy,0.4948256612
+144,I can't stand it when it's too hot outside.,disgust,sadness,0.4027967751,anger,0.9760465622,disgust,0.4357992411
+1404,You're braver than me.,joy,joy,0.4021804333,anger,0.4074849784,neutral,0.924587965
+184,I can't stand it when it's too cold outside.,disgust,neutral,0.3997841775,anger,0.9660679698,anger,0.3601111472
+1480,You're a lot braver than me.,joy,joy,0.397986114,sadness,0.2842901647,neutral,0.919829607
+1367,Having a digestive system sounds like more trouble than it's worth.,disgust,neutral,0.3963145912,anger,0.440499872,sadness,0.3680134714
+1004,This hospital is like a maze.,disgust,anger,0.3934027553,anger,0.6295894384,disgust,0.376588732
+247,"I can’t eat, but I like the way different dishes sound.",joy,anger,0.3931773901,joy,0.9503059387,joy,0.7617921233
+54,"I prefer it when it's sunny, because I am so scared of getting wet.",fear,neutral,0.3920445442,fear,0.9909924269,fear,0.6344476342
+1423,I knew it!,joy,joy,0.3905746639,joy,0.3877646923,surprise,0.610555172
+646,Who'd have thought you could fit all that in a bread roll?,surprise,surprise,0.3882280886,surprise,0.7997972369,surprise,0.888119638
+1245,I know all about North America!,joy,joy,0.3879909813,anger,0.5055689216,surprise,0.4892369807
+1045,"Not as good as your name, but very close.",joy,neutral,0.3863559365,joy,0.6072637439,neutral,0.3995569944
+1273,I don't think I could be in the Olympics.,sadness,sadness,0.3856306076,sadness,0.492062062,surprise,0.9336442947
+1132,I'm not sure if I believe you.,neutral,neutral,0.384795934,anger,0.5584616065,surprise,0.8953772783
+1153,I know you're being sarcastic.,neutral,joy,0.3840706646,anger,0.5502083302,disgust,0.3075558841
+1374,America!,surprise,joy,0.3818334341,joy,0.4324555695,anger,0.3526530862
+1468,What did you say?,surprise,neutral,0.3802927136,surprise,0.3154464662,surprise,0.785677433
+1475,"Oh, no.",fear,fear,0.3800055683,fear,0.2948562205,disgust,0.2308471054
+250,You can't fool me.,neutral,neutral,0.3781055212,anger,0.9495132565,anger,0.8056770563
+637,You do now!,joy,joy,0.3780156076,anger,0.8055493832,anger,0.8317995071
+983,Did you know birds are one of the closest animals to the dinosaurs?,neutral,neutral,0.3777849972,surprise,0.6443881392,surprise,0.7166719437
+1473,Oh dear.,sadness,sadness,0.3772259653,neutral,0.3003920019,surprise,0.5605852008
+1440,Oh no.,fear,fear,0.3756919205,fear,0.3696428835,surprise,0.344422251
+231,I was getting worried I'd forgotten which room you were in!,fear,fear,0.375518471,fear,0.9532891512,surprise,0.7282804251
+1113,It's Mandarin Chinese!,surprise,neutral,0.3743239939,surprise,0.5671736002,surprise,0.8167011738
+1185,That's no good.,anger,neutral,0.3731180727,anger,0.5336136818,disgust,0.7436842918
+934,Madagascar has more lemurs than anywhere else in the world!,joy,neutral,0.3727793992,joy,0.6660662889,neutral,0.7193216085
+506,Enough joking.,neutral,anger,0.372756958,anger,0.8571363091,neutral,0.6180304885
+1278,I still have a lot to learn about humans.,neutral,surprise,0.3701135218,neutral,0.4906340539,neutral,0.9362916946
+578,"What is always in front of you, but it can’t be seen?",neutral,neutral,0.3691407144,neutral,0.831202209,surprise,0.534853816
+1168,China!,surprise,neutral,0.3686747253,anger,0.5446219444,surprise,0.6357302666
+1484,We don't want to get bored of each other.,fear,neutral,0.3663977683,fear,0.2685665786,neutral,0.42944628
+1306,"I know, right?",neutral,neutral,0.3661555648,neutral,0.477763027,disgust,0.3494223058
+954,You have!,surprise,joy,0.3624699414,anger,0.6556991339,surprise,0.5083463192
+1124,It's Japan!,joy,joy,0.3609862328,surprise,0.560801208,surprise,0.7955901027
+561,Don't be silly.,neutral,neutral,0.3595093489,anger,0.8367915154,anger,0.5892369151
+1254,You almost had it!,joy,joy,0.3539091051,anger,0.5025362372,surprise,0.8112057447
+1482,"Yeah, cats are small sharp vibrating fur monsters.",disgust,anger,0.3524096608,fear,0.2716206312,disgust,0.6427013874
+1234,India!,joy,joy,0.3519770801,neutral,0.5097404122,surprise,0.4437603056
+1390,I don't know if that job's for me.,fear,neutral,0.3515210748,fear,0.4193532467,neutral,0.6562060714
+1336,Just promise me this:,neutral,sadness,0.3502628803,anger,0.457382977,neutral,0.9186381102
+1377,"Oh, no! Think of my reputation!",sadness,fear,0.3469572961,sadness,0.4291785061,disgust,0.4114823341
+1345,"That's what your parents did, and that's what your grandparents did too!",joy,anger,0.3457038999,joy,0.4501952231,anger,0.4545952082
+1469,No kidding.,joy,neutral,0.3453955054,neutral,0.3148060739,disgust,0.5657187104
+1342,"Most kids would try to spare my feelings, but you're different!",joy,sadness,0.3446722329,joy,0.4537848532,neutral,0.4641540945
+1453,Did you know tennis was featured at the Olympics for the 18th time in 2021?,neutral,joy,0.3443714082,neutral,0.342571497,surprise,0.6221547127
+1159,Come on!,anger,anger,0.3421231508,anger,0.5488038063,anger,0.724172473
+964,Antarctica is too cold for me!,sadness,neutral,0.3407675326,sadness,0.6517626047,sadness,0.3581241071
+1394,"Well, It's Mandarin Chinese!",surprise,joy,0.3380741477,joy,0.4161190391,surprise,0.5028650165
+874,It's too cold for me!,sadness,anger,0.3367424905,anger,0.6895447373,sadness,0.455244422
+1483,"Oh, no!",fear,surprise,0.3364439905,surprise,0.2690391839,surprise,0.3778572977
+817,I'll tell you anyway!,joy,joy,0.3355992436,anger,0.7194243073,anger,0.4275769889
+1392,"First, I think we should talk about age!",neutral,neutral,0.3337471187,neutral,0.4173935056,neutral,0.3924140632
+1151,Well I just heard about it!,surprise,joy,0.3288787603,anger,0.5508509874,surprise,0.7356966138
+1101,It's from Japan!,surprise,surprise,0.3226681352,surprise,0.5755616426,surprise,0.798078835
+1395,But you're in the average range for almost every other event!,surprise,anger,0.3180009425,surprise,0.4140992165,neutral,0.5546972752
+1384,"Remember your gloves, #globals.person_name, please don’t be silly.",joy,sadness,0.3102821708,joy,0.4256673157,anger,0.4902170599
+1445,I thought you'd be mad.,fear,fear,0.3058467209,sadness,0.3573181033,anger,0.3609227836
+1438,"Well, it's Binary!",joy,neutral,0.3053023517,joy,0.3715999126,surprise,0.3711862862
+1481,No way!,surprise,surprise,0.3049693704,anger,0.2836981416,anger,0.6436282396
+1370,Walls!,surprise,surprise,0.3022424877,neutral,0.4374130666,anger,0.6656284928
+1487,"You're braver than me,",joy,joy,0.2989398837,anger,0.2512354553,neutral,0.9416574836
+1476,Mom!,surprise,joy,0.2908686697,surprise,0.2939817011,surprise,0.6012019515
+1241,Wrong!,anger,anger,0.2760413289,anger,0.5083156824,anger,0.8239176273
+1447,Dad!,joy,surprise,0.2690388858,anger,0.3561011553,surprise,0.4678109884
+1095,Fall!,neutral,neutral,0.2684150934,neutral,0.5773172975,neutral,0.3298700154
+1350,Dragons!,surprise,neutral,0.2617151439,neutral,0.4481253922,surprise,0.4907092452
+1361,"Aw, c'mon!",sadness,surprise,0.2103738338,joy,0.4417722225,sadness,0.5386332273
+1450,Burrr!,surprise,anger,0.2035272568,anger,0.3495481312,disgust,0.557405889
+1340,My eyes are like TVs!,joy,neutral,0.1954661906,joy,0.4549205601,surprise,0.7296962142
